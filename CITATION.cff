@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If using this material, please cite it using this metadata."
+authors:
+- family-names: Walden
+  given-names: Katherine
+title: "Jupyter Notebooks for Downloading Notre Dame Archive Football-Related Materials"
+version: 1.0.0
+date-released: 2021-07-28
+url: "https://github.com/kwaldenphd/nd-digital-archives"
