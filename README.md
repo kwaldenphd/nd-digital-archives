@@ -51,7 +51,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/alumnus.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/alumnus.ipynb)
-- [Google CoLab]
+- [Google CoLab](https://drive.google.com/file/d/1ZgGuymWQTX1IeTwWamr88RkPPuOeujS-/view?usp=sharing) *ND users*
 
 ## Bagby Glass Plate Negative Collection
 
@@ -62,7 +62,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/bagby_negatives.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/bagby_negatives.ipynb)
-- [Google CoLab]
+- [Google CoLab](https://drive.google.com/file/d/1D3_LhB3TcuNOiePnz8VubWpiP2Xl3rzn/view?usp=sharing) *ND users*
 
 ## Annual Bulletins and Catalogs
 
@@ -73,7 +73,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/bulletins_catalogs.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/bulletins_catalogs.ipynb)
-- [Google CoLab]
+- [Google CoLab](https://drive.google.com/file/d/1cH6qsO5F5kh6KBYhk-rsugraGjt3gs-Z/view?usp=sharing) *ND users*
 
 ## Capstan
 
@@ -84,7 +84,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/capstan.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/capstan.ipynb)
-- [Google CoLab]
+- [Google CoLab](https://drive.google.com/file/d/1Cssj7PnOnb1XI0WuLKzQLDi5mWSna-E9/view?usp=sharing) *ND users*
 
 ## Commencement Programs
 
@@ -95,7 +95,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/commencement_programs.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/commencement_programs.ipynb)
-- [Google CoLab]
+- [Google CoLab](https://drive.google.com/file/d/1Cssj7PnOnb1XI0WuLKzQLDi5mWSna-E9/view?usp=sharing) *ND users*
 
 ## Daily
 
@@ -106,7 +106,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/daily.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/daily.ipynb)
-- [Google CoLab]
+- [Google CoLab](https://drive.google.com/file/d/19qTFmbhp7qJTdpCHcKTk-0GXvPc_N2-D/view?usp=sharing) *ND users*
 
 ## Directories
 
@@ -117,7 +117,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/directories.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/directories.ipynb)
-- [Google CoLab]
+- [Google CoLab](https://drive.google.com/file/d/19qTFmbhp7qJTdpCHcKTk-0GXvPc_N2-D/view?usp=sharing) *ND users*
 
 ## Magazine
 
@@ -128,7 +128,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/magazine.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/magazine.ipynb)
-- [Google CoLab]
+- [Google CoLab](https://drive.google.com/file/d/19qTFmbhp7qJTdpCHcKTk-0GXvPc_N2-D/view?usp=sharing) *ND users*
 
 ## Observer
 
@@ -139,7 +139,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/observer.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/observer.ipynb)
-- [Google CoLab]
+- [Google CoLab](https://drive.google.com/file/d/1lCyuGKXQI4GrSGVOuz4l6bjscAd_-d2r/view?usp=sharing) *ND users*
 
 ## Scholastic
 
@@ -150,7 +150,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/scholastic.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/scholastic.ipynb)
-- [Google CoLab]
+- [Google CoLab](https://drive.google.com/file/d/1_rygfLHBoADkQqnfhTUd0xzUkF51n7Kp/view?usp=sharing) *ND users*
 
 ## Scholastic Football Review
 
@@ -161,7 +161,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/scholastic_football_review.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/scholastic_football_review.ipynb)
-- [Google CoLab]
+- [Google CoLab](https://drive.google.com/file/d/1oDtiH6hbeWhbAaAoZCU5-cSlojaDy88A/view?usp=sharing) *ND users*
 
 ## Voice
 
@@ -172,7 +172,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/voice.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/voice.ipynb)
-- [Google CoLab]
+- [Google CoLab](https://drive.google.com/file/d/1ydyMMAf43Aw7ltgB9CobTukR__MEO-P6/view?usp=sharing) *ND users*
 
 # Optical Character Recognition
 
@@ -194,7 +194,8 @@ The OCR workflow includes the following steps:
 
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/ocr-roadmap.ipynb)
-- [Google CoLab]
+- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/ocr-roadmap.ipynb)
+- [Google CoLab](https://drive.google.com/file/d/1WbGTAvs1WCGrC5XZeADyhminFn8QMEHT/view?usp=sharing) *ND users*
 
 ## OCR Next Steps and Additional Resources
 
@@ -284,7 +285,8 @@ The workflow includes sample code for the following steps or tasks:
 
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/text-analysis-roadmap.ipynb)
-- [Google CoLab]
+- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/text-analysis-roadmap.ipynb)
+- [Google CoLab](https://drive.google.com/file/d/1S2W6NQfLC_9kbcg7_RwYZ163yZ6R7n1K/view?usp=sharing) *ND users*
 
 ## Python Text Analysis Next Steps and Additional Resources
 
