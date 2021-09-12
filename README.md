@@ -274,7 +274,7 @@ Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/text-analysis-roadmap.ipynb)
 - [Google CoLab]
 
-# Python Text Analysis Next Steps and Additional Resources
+## Python Text Analysis Next Steps and Additional Resources
 
 ## More documentation on tools covered in this notebook
 
