@@ -30,7 +30,12 @@ Any text and data mining endeavor is supported by heroic and ongoing work that h
   * [Scholastic Football Review](#scholastic-football-review)
   * [Voice](#voice)
 - [Optical Character Recognition](#optical-character-recognition)
+  * [OCR Next Steps and Additional Resources](#ocr-next-steps-and-additional-resources) 
+    * [Acrobat Adobe Pro](#acrobat-adobe-pro)
 - [Text Analysis](#text-analysis)
+  * [Python Text Analysis Next Steps and Additional Resources](#python-text-analysis-next-steps-and-additional-resources)
+    * [More documentation on the tools covered in this notebook](#more-documentation-on-the-tools-covered-in-this-notebook)
+    * [Other Tutorials, Packages, and Methods](#other-tutorials-packages-and-methods)
 - [Next Steps and Additional Resources](#next-steps-and-additional-resources)  
 
 # Bulk Download
@@ -269,7 +274,7 @@ Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/text-analysis-roadmap.ipynb)
 - [Google CoLab]
 
-# Python Text Analysis and Additional Resources
+# Python Text Analysis Next Steps and Additional Resources
 
 ## More documentation on tools covered in this notebook
 
