@@ -28,6 +28,7 @@ Any text and data mining endeavor is supported by heroic and ongoing work that h
   * [Scholastic](#scholastic)
   * [Scholastic Football Review](#scholastic-football-review)
   * [Voice](#voice)
+- [Teaching Resources](#teaching-resources)
 - [Optical Character Recognition](#optical-character-recognition)
   * [OCR Next Steps and Additional Resources](#ocr-next-steps-and-additional-resources) 
     * [Acrobat Adobe Pro](#acrobat-adobe-pro)
@@ -172,6 +173,10 @@ Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/voice.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/voice.ipynb)
 - [Google CoLab](https://drive.google.com/file/d/1ydyMMAf43Aw7ltgB9CobTukR__MEO-P6/view?usp=sharing) *ND users*
+
+# Teaching Resources
+
+[Link to GitHub repository that includes more detailed curriculum resources on text analysis with these materials](https://github.com/kwaldenphd/football-text-analysis/)
 
 # Optical Character Recognition
 
