@@ -11,7 +11,6 @@ Any text and data mining endeavor is supported by heroic and ongoing work that h
 - [University Archives](http://archives.nd.edu/) (Patrick Milhoan, Scott Kirycki, Joseph Smith, and Matthew Wilken)
 - [Rare Books and Special Collections](https://rarebooks.library.nd.edu/) (Rachel Bohlmann, Tracy Bergstrom, Sara Weber)
 - [Navari Family Center for Digital Scholarship](https://cds.library.nd.edu/) (Daniel Johnson, Eric Lease Morgan, Matthew Sisk)
-- [Metadata Services](https://cds.library.nd.edu/expertise/Digitization.shtml) (Peggy Griesinger)
 - [Digital Services](https://directory.library.nd.edu/directory/departments/1195) (Mikala Narlock)
 
 # Table of Contents
@@ -62,7 +61,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/bagby_negatives.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/bagby_negatives.ipynb)
-- [Google CoLab](https://drive.google.com/file/d/1D3_LhB3TcuNOiePnz8VubWpiP2Xl3rzn/view?usp=sharing) *ND users*
+- [Google CoLab](https://drive.google.com/file/d/18Z19MYeu3iJzcjbItJQ97FPHWvSBVV4i/view?usp=sharing) *ND users*
 
 ## Annual Bulletins and Catalogs
 
@@ -73,7 +72,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/bulletins_catalogs.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/bulletins_catalogs.ipynb)
-- [Google CoLab](https://drive.google.com/file/d/1cH6qsO5F5kh6KBYhk-rsugraGjt3gs-Z/view?usp=sharing) *ND users*
+- [Google CoLab](https://drive.google.com/file/d/1D3_LhB3TcuNOiePnz8VubWpiP2Xl3rzn/view?usp=sharing) *ND users*
 
 ## Capstan
 
@@ -84,7 +83,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/capstan.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/capstan.ipynb)
-- [Google CoLab](https://drive.google.com/file/d/1Cssj7PnOnb1XI0WuLKzQLDi5mWSna-E9/view?usp=sharing) *ND users*
+- [Google CoLab](https://drive.google.com/file/d/1cH6qsO5F5kh6KBYhk-rsugraGjt3gs-Z/view?usp=sharing) *ND users*
 
 ## Commencement Programs
 
@@ -106,7 +105,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/daily.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/daily.ipynb)
-- [Google CoLab](https://drive.google.com/file/d/19qTFmbhp7qJTdpCHcKTk-0GXvPc_N2-D/view?usp=sharing) *ND users*
+- [Google CoLab](https://drive.google.com/file/d/1zwheUyZaZ9ut-ewYIx90ltFsaxXQgESS/view?usp=sharing) *ND users*
 
 ## Directories
 
@@ -117,7 +116,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/directories.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/directories.ipynb)
-- [Google CoLab](https://drive.google.com/file/d/19qTFmbhp7qJTdpCHcKTk-0GXvPc_N2-D/view?usp=sharing) *ND users*
+- [Google CoLab](https://drive.google.com/file/d/1Usoq-kxdywEnuUzp0F4GZKSjlI0YWx9V/view?usp=sharing) *ND users*
 
 ## Magazine
 
@@ -139,7 +138,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/collections/observer.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/nd-digital-archives/blob/main/collections/observer.ipynb)
-- [Google CoLab](https://drive.google.com/file/d/1lCyuGKXQI4GrSGVOuz4l6bjscAd_-d2r/view?usp=sharing) *ND users*
+- [Google CoLab](https://drive.google.com/file/d/19qTFmbhp7qJTdpCHcKTk-0GXvPc_N2-D/view?usp=sharing) *ND users*
 
 ## Scholastic
 
