@@ -1,0 +1,393 @@
+﻿Vol. XXVI.	NOTRE DAME, INDIANA, June 17, 1893..	No. 39.
+Atmospheric Billows.
+BY PROF. ALBERT F. ZAHN.
+In an article on a theory of passive flight, prepared in 1891,1 made an assumption regarding the behavior of air currents which seemed to me necessary to account for the phenomenon of soaring, and which I hoped later to justify by experiment. The statement then inade read as follows:
+“Fortunately for the birds, uniform currents are not the rule. Perhaps it would be nearer the truth to say that most currents are variable botlcin velocity and direction. This is abundantly evidenced, for the lower atmosphere, by the incessant tossing and heaving of smoke streams and snowflakes; by the erratic flight of the smaller birds, and by the unsteady action of kites and balloons.”
+Resuming the study of soaring flight, in November of 1892 I began observations on the behavior of the wind by mounting a universal weather-vane, or anemoscope, in a large field quite level and clear of trees. The weatherr vane was so pivoted as to be free to point in i all directions, up and down and sidewise. As-might be anticipated, the vane, when exposed in an open field, began immediately to point in all directions, thus indicating that the course of the wind varies in both a horizontal and a vertical plane. The variations are so extreme, so frequent, and so sudden that they seem to deserve the consideration of all who would make a serious study of atmospheric currents.
+A consideration of the: atmospheric billows is of especial importance in aerial navigation; for I dare say the success of open-air experi
+ments often depends as much upon the behavior of the air currents as upon the proportions and adjustments of the apparatus employed. Many of the strange phenomena which have hitherto' puzzled experimenters with sailing and flying apparatus, the irregular movements, the sudden pitchings, the “aspirations” and mysterious soarings, can be attributed only to the fickleness of the wind. I hope later to indicate to what extent the equilibrium of flying machines and the safety and stability of air-ships depend upon the atmospheric billows.
+Not having an adequate intuition of the suddenness and frequency of the alterations in the direction of the wind, I had actually provided the anemoscope with graduated circles ( see figure I) by which to read the direction from instant to instant, and had prepared a pendulum connected with an electric bell, which should beat seconds, thus enabling an observer to record by hand the exact position of the vane for each second. But when the instrument was adjusted and exposed to a moderate breeze it became apparent that no two observers could read and record the indications with the facility necessary to ensure accurate results for .any extended period. I decided, therefore, to make it self-recording by combining it with a chronograph.
+It might have been possible, by sufficiently enlarging the original instrument, to have so diminished the frequency of its indications as to enable one to record them by hand. This would appear from the nature of the atmospheric currents. Every wind is composed of waves within waves. A small vane therefore, which is subject to the minor pulsations of the breeze, changes its position more frequently than one . of considerable length. Hence, if instead of a vane one foot long I had employed
+NOTRE DAME SCHOLASTIC.
+one ten or fifteen long, I might have found it much more manageable. But fearing that the consequent increase of inertia would affect the sensitiveness of the vane I did not venture to construct a large one.
+The anemoscope, as it appeared when mounted above the chronograph, is shown in figure 2* The double vane has been replaced by two single vanes; one playing about a horizontal axis and mounted on the top of a vertical pipe, the other placed two feet beneath it, and fastened rigidly to the pipe. The upper vane, which veers with the vertical variations of the breeze, communicates its movements to a fine
+Fig. 1.—Universal Anemoscope.
+steel wire running down through the pipe to one of the chronograph pencils; the other vane, which yields to the horizontal veering of the wind, turns the pipe with it and the pipe moves a second chronograph pencil as indicated in the figure. The third pencil shown in the illustration was in
+tended to record the velocity of the wind by means of a fine wire connected with a pressure plate; but need not be considered for the present. The pencils in the background of the illustration were employed to mark the lines of reference and could, of
+course.be dispensed with by using
+sectioned paper. Pencils were employed, for
+the ink in the stylographic pens froze when exposed to the cold.
+The instrument thus equipped becomes. a universal recording anemometer, which, when delicately adjusted, reveals the complete history of the wind in its locality for any desired period
+of time. But as the attachment for measuring velocity was an imperfect one, I shall present only two of the records obtained. When I can again resume the work I hope to secure three records of indefinite length and in a breeze of
+* For this and the following illustrations I am indebted to the kindness of Prof. Ackerman and Mr. Neef.
+any character. I have also completed a design which will enable me to compact the entire apparatus within the space of a small clock, and mount it at the top of a pole.
+In order to secure sensitiveness in the instrument, antifriction devices have been employed wherever' possible. The vertical pipe is supported on a ball-bearing and set perfectly plumb by means of the pendulum and levelling screws; the upper rudder is supported on hardened steel pivots and adjusted to a perfect balance before use; the fine connecting wires pass over antifriction pulleys. Thus the element of resistance to perfect freedom of movement becomes quite inconsiderable, and for the stronger breezes is found to be less than one per cent.
+The chronograph employed was of a Swiss pattern, the drum measuring six inches in diameter by fourteen inches in length, and rotating once a minute. The record thus obtained measured a foot and a half for each minute, so the minutest movements of the pencils could be easily distinguished. The paper used was nine inches wide, and was fed from a roll supported on conical bearings at the back part of the box. When in operation the paper passed under the pencils at a speed of about ninety feet per hour, and was afterwards folded into book form for convenience of inspection. A chronograph of slower speed would have been preferable, since the record might well have been four or five times shortened.
+As the drum could not be expected to rotate with uniform speed, a pendulum was used to mark seconds by swinging over a cup of mercury forming part of an electric circuit. Thus at each beat of the pendulum, an electro-magnet, shown in the box enclosing the chronograph, jerked the sliding bar to which the reference pencils were attached, and produced a kink each second in the lines traced by them.
+As before intimated, the pencils were employed through necessity. The holders were intended to receive stylographic pens, but the observations being made in an open field in the depth of winter, no fluid ink could be found which would resist the cold. Accordingly soft lead pencils were screwed into the holders, and weights placed on them to ensure distinctness of tracing.
+The pencil holder is shown more minutely in figure 3. It had to be so constructed that it could be readily moved to any part of the sliding bar to which it is attached, and yet remain free to rotate about the bar so that it could be quickly lifted from the drum at any
+NOTRE DAME SCHOLASTIC.
+desired instant. It must also be capable of a slight elongation, so that all the pencils could, at the start, be placed on the same longitudinal element of the cylinder. The elongation is obtained by screwing the pencil in or out, thus lengthening the distance from the pencil point to the sliding bar.	*
+When finally the instrument was completed, about the middle of January, it was mounted on a table and placed in a sleigh, the chronograph being protected from snowflakes by a plate of glass placed before the box containing it. Driving into the open country to avoid trees and dwellings, the sleigh was halted in a level locality between two clear meadows of a hundred acres each. A breeze of eight to twelve miles an hour was blowing from the northwest, the thermometer indicated 24 degrees Fahrenheit, the barometer, 29.509 inches. The observations began at three o’clock and lasted three quarters of an hour. The pencils were found to work with perfect freedom and to feel the minutest impulse of the wind, as may be seen from a glance at the record Figure 4. Even the momentum of the vanes, which I had feared might cause fluctuations in the tracings, was not apparent, either in the record or in the motion of the vanes themselves, save occasionally for a very sudden and extreme change of direction of the. breeze.
+If we may form an estimate of the course of the wind from the record here presented, it would appear that a particle of free air blowing over an open plain near the earth’s surface, must follow a very wavy and irregular path indeed. It will be observed that both tracings vary by many degrees (frequently 200 to 300) on either side of the— reference lines, and that their alterations are not decidedly synchronous. I do not mean to assert that they are always entirely independent of each other, for it would require a long series of records to decide such a question; nor can I conjecture whether there
+should be a regular periodicity in either of the tracings. I have noticed quite frequently that a rise and lull in the velocity of the wind was accompanied by a corresponding variation in direction; but whether this be generally true must be decided by further observation.
+One fact seems to be indicated quite positively, viz., that the wind veers every few seconds, and, as a rule, through many degrees
+at a time. This is perfectly illustrated by any smoke stream blowing across an open country, and by the varying path of floating thistle down. Thus one of the assumptions made to account for the phenomenon of soaring flight seems to be well established.
+The above record reveals nothing as to the other assumption, namely, that the wind, as a
+rule, varies
+greatly in velocity. But I have
+Fig. 2.—Universal Recording Anemometer.
+studied the velocity of the wind with a variety of anemometers, and am convinced that the assumption is a legitimate one for currents . near the earth’s surface.	.
+Figure 5 shows the first pattern of anemometer made for use with the recording anemoscope. It is an ordinary, four-bladed mill intended to be fastened to the middle of the vertical pipe of the anemoscope to record the
+6^6	NOTRE DAME SCHOLASTIC.
+horizontal velocity of the wind. It may be observed from the figure that the anemometer shaft is provided with a commutator against which presses a brush from an insulated wire leading down to the chronograph magnet. The verticle pipe serves as the other wire. Thus each rotation of the mill is recorded on the drum.
+When exposed to the breeze this anemometer was found to turn with perfect freedom, and to record its rotation; but, like the anemometers of the Weather Bureau,'and all others of my acquaintance, it possessed too much inertia to yield perfectly to the sudden impulses of a fickle breeze, I therefore discarded it and sought another.
+Fig. 3.—Pencil Holder.
+My reason for not recording the velocity of the wind along with the direction-records above given was that I could not contrive, nor find in the market, an instrument that could be relied upon to indicate the true horizontal component of the wind’s velocity in a current of varying direction. All the anemometers of the meteorological observatories and of the instrument makers have been calibrated in horizontal currents, and hence may not give the true horizontal component of a wavy current.
+. Apparently the most trustworthy instrument for fickle winds is one consisting of a light alumi-. num screw placed inside a cylindrical covering.
+NOTRE DAME SCHOLASTIC.	6^
+A very neat anemometer of this type is constructed by the Richard brothers of Paris. Such an instrument, supported with its axis always in the direction of the horizontal component of the wind, was employed while the record above shown was in progress.
+I have since learned from Professor Langley, of the Smithsonian Institution, that he . has constructed a very light cup anemometer with
+which he has recorded the velocity of the wind from second to second. As this instrument was calibrated in a horizontal current we have no means of knowing its accuracy when placed in a fickle breeze. His results seem to completely justify the assumption which I have made in my theory of soaring flight regarding the suddenness and extent of the changes in the wind’s velocity.
+I have, likewise, received from Mr. S. P. Ferguson, of the Blue Hill Observatory, a copy of the Annals of the Astronomical Observatory of Harvard College, in which he recounts his recent measurements of the vertical component of the wind’s velocity at Readville, Mass. The instruments employed by him were of the screw pattern, made by the Richard brothers, and quite recently placed on the market as “ anemograph’’ and “anemo-cinemograph.” As reported in the Annals, his records indicate that the wind played upward and downward with frequent alternations, but that its horizontal component was much greater than its vertical component. This is a result that we should expect at an altitude, in a very open locality, or near the sea-shore.
+While at the Johns Hopkins University last spring, I employed an exploring line to indicate to the eye the waves of a changeable air current. It consists of a strong fine thread, having at-tached to its extremity a small rubber balloon inflated just sufficiently to fairly float. When paid out in a breeze the balloon rises and falls with every billow like a cork on the water, and the line itself is bent into waves, sometimes of monstrous size, thus enabling one to form a conception of the actual billows oL the atmosphere.
+After some preliminarytests from the top of the Phy
+sical Laboratory of the Johns Hopkins University, during the Easter vacation, I ascended the Washington Monument of Baltimore, where I paid out the exploring line at a height of two hundred feet. The wind was blowing towards the southeast at a speed of twenty-five to thirty?five miles per hour, and the sky, which had remained clear till three • o’clock, was rapidly darkening, with indications of an approaching rain. The balloon when let forth immediately fell to a depth of thirty or forty feet, being caught in the eddy of the monument, then presently encountering the unbiased current, sailed in it towards the southeast, approximately level with the spool end of the thread. After the balloon had drawn put a hundred feet of thread, I checked it to observe the behavior of this much of the exploring line. The balloon rose and fell with the tossing of the wind, but did not flutter like a flag as it would
+638
+NOTRE DAME SCHOLASTIC,
+do if formed of irregular outline. Neither did the thread flutter, nor do I believe there is any tendency in a line ever to flutter in a current as a plane surface does.
+Presently, I paid out three hundred feet of the exploring line, whereupon the waves in the thread became quite remarkable. The thread then, as a rule, was never approximately straight. Sometimes it was blown into the form of a helix of enormous pitch, at other times into the form of a wavy figure lying nearly in a single vertical plane; and again the entire exploring line would veer through an angle of forty to sixty degrees, either vertically or horizontally. The balloon, of course, seldom remained quiet for more than a few seconds at a time, but tossed about on the great billows like a ship in a storm. Quite usually the billows could be seen running along the line from the spool to the balloon, and as a rule, several different billows occupied the string at one time.
+The observations just delineated, however curious they may be, afford no adequate conception of the behavior of air currents over an open plain, nor at a great height above the earth, because theWashington Monument of Baltimore stands but^a hundred feet above the surrounding buildings which undoubtedly send disturbances to a greater height than two hundred feet. To supplement these explorations, therefore, I determined to have them repeated from the top of the Washington Monument at Washington and the Eiffel Tower at Paris. _
+Towards the latter part of the Easter vacation I again let forth the exploring line from the top of the Washington Monument at Washington at a height of five hundred feet. A stiff breeze was blowing from the northwest, and, as the locality is quite free from obstructions, everything seemed favorable for an exploration of the free air. But, unfortunately, I had not taken into consideration the enormous magnitude of the monument, and of the consequent eddies surrounding it. Accordingly when the balloon was let forth from one of the windows, it became involved in a large and violent eddy from which it could in no manner be extricated. Rising vertically upward from the window to a height of some twenty-five feet it encountered the direct current and sailed towards the southeast with great rapidity to a distance of thirty or forty yards, then suddenly turned to the right, being caught in a mighty whirlpool which sucked it downward through an enormous spiral path to a depth of one hundred feet, and again threw it upwards to the
+top of the monument, thus returning it quite near to my hand. After witnessing these evolutions for ten minutes I was obliged by the lateness of the hour to return to the elevator without having observed the behavior of the exploring line in a direct current. I saw, however, what precautions would be advisable to ensure the success of a second attempt.
+An Apostrophe to a Drop of Water.
+(A paraphrase of Judge Arrington's famous burst of eloquence.')
+Aye,look at that, ye thirsty, young and old!
+Behold it! See, it glistens like a mass
+Of liquid gems! Not choked with pois’nous gas Or sick’ning odor. No! The precious cold, Pure water’s brewed by God in stills of gold;
+Far down in grassy dell, where th’red deer pass
+To slake their thirst; or where some artless lass In wild and sportive glee may wander bold.
+“It is a thing of beauty” ev’rywhere;
+No poison ever bubbles on its brink, Its foam no grief nor sadness brings, ’tis true.
+No drunkard’s ghost doth curse it in despair. How pure, how blessed! O give me to drink
+Forever of the modest,sparkling, crystal dew!
+•	John S. Schopp.
+The Lady and the Tiger.
+[Note.—With characteristic cruelty Mr. Frank Stockton declines to say whether the lady or the tiger came out of that fatal—or fateful—right-hand door. Fortunately for the peace of mind of his many readers, the entire story has been discovered in Ayethinkso’s State Trials, and the conclusion is here translated for the first time from the original Nonscript.]
+Slowly, noiselessly, the massive door swung back, disclosing a curtain of crimson leather, but no lady, no tiger. A sigh of relief went up from the multitude; at least the young man would have a few minutes longer to live. The king forgot his blandness and sprang up with an oath; such a delay had never occurred before, and it jarred upon his sensitive, barbaric soul. The princess was in a fury of jealousy, love, and hate; that drunken keeper must have lied when he said the tiger would be in the room on the right, and now she had sent her lover straight to the arms of that wretched woman. And the crimson folds hung motionless and the young man was as a thing without life.
+An awful silence fell upon the multitude as the young man stepped within the doorway and with a few tugs of his strong, white arms tore the curtain down, Then they saw him slip a bracelet off his arm, toss it into the room, and spring to one side. A rattle of iron bars, a
+•	NOTRE DAME SCHOLASTIC.
+, ,________________________«_______________ rustle of leather, a flash of black and gold, and Bul-Bul, the favorite tigress of the king, bounded into the arena.
+Now the king had ordered the tiger-cages of his realm to be searched for the fiercest, the most cruel of the royal beasts;-but on second thoughts he had decided that this young man was altogether too dainty a dinner for any common tiger, and commanded Bul-Bul to be put upon short rations at once. Her attendant, however, defeated the king’s purpose by taking a little too much arrack the morning'of the trial, and Bul-Bul, when the young man’s bracelet woke her up, was not nearly so hungry as her royal master might have wished.
+A magnificent creature was Bul-Bul, rather undersized, but with the strength of lions in her lithe and graceful limbs; certainly not underfed, for her coat shone in the sun as shine the brass and black leather of the trappings when a legion advances to battle.
+Beyond a glance of lazy curiosity she paid no attention to the. young man, but began to roll about on the sand like some great kitten at play. The young man guessed the reason of her good humor, and a faint hope of life and liberty sprang up within his breast. At least he would show his barbaric sovereign, and his more than barbaric sweetheart how brave and valiant a subject and how graceful and gallant a lover they were losing by his death. He. threw off his wedding garments, mantle and tunic and all, and stood naked but for breech-cloth and sandals, a creature more magnificent than BulBul herself.
+Trained in the schools of Greece and Rome, in all the kingdom there was no better wrestler, no lighter and more powerful jumper, no swifter, more enduring runner than the young man.
+But his beauty made no impression on the tigress; live stock was below^«r in her estimation, and sand and sunshine and elegant leisure greatly to be preferred. Such rank ingratitude and utter neglect of duty exasperated the king beyond measure. He roared out to the nearest archer to take aim and kill her; but before he could fit arrow to bow the young man, wisely thinking a tiger full of meat less formidable than one with a yearning vacuum within, walked over to Bul-Bul and gave her a smart slap on the flank. She was on her feet in an instant, and then began a contest such as even barbaric princes with unlimited authority and private arenas witness but once in a thousand years.
+Round and round the arena they raced, BulBul charging madly, the young man deftly avoiding her furious rushes. A step to the right
+and Bul-Bul would go hurtling past, writhing and twisting, to fall upon the sand and roll over and over, snarling and clawing the sand in her efforts to stop herself. Sometimes, even while she was in mid-air, he would duck and slide right beneath her; sometimes a brilliant dodge or leap would barely save him.
+The people were wild with excitement and admiration for the young man, and many a prayer in many a tongue went up to the gods to save him from the claws of the tigress. The king himself was moved as he had never been moved before; the princess was in an agony of remorse, and even the hired mourners, who, of course, got no pay unless there was a funeral, forgot their dirges and joined in the applause.
+And the terrible race in the arena below went on with never a thought of prince or people, the young man growing every moment weaker, Bul-Bul more frantic, more blind with rage. But human nature could not stand such a strain forever, and finally the young man staggered to one side, barely avoiding the tigress, and sank fainting on the sand.
+Just as Bul-Bul turned and gathered herself together for another spring, the other door—the one on the left—opened arid the lady, clad in bright garments, stepped into the arena. She had grown tired waiting, and wanted to see what was the matter. There was only one outlet to the room, the door leading into the arena, and she opened it. Too late she saw the tigress; too late she heard them shouting: .“Go back! go back!” the colors caught Bul-Bul’s eye; three long leaps, a shriek of mortal' agony, blending with a cry of horror from the crowd, a mighty blow, and the lady was eliminated from the case.
+The young man heard the cry, but he was too weak to move. While the royal eyes were fixed on the tragedy going on over by the doors, some one among the spectators threw him a small flask of wine. He drank it at a draught and his strength came back to him, and none too soon. He was hardly upon his feet when Bul-Bul came trotting back to finish her work, and the struggle began again.
+The arena was . virtually, a pit twenty feet in depth, rock lined, with a low stone parapet eight feet broad guarding its edge. The throne was just behind this parapet, and if anything occurred very close to the wall beneath it could, not be seen from the throne. Hitherto there had never, been any difficulty; either the lady or the tigress gobbled the accused without giving him time to run, and in either case the penalty was paid in full sight of the king. But
+NOTRE DAME SCHOLASTIC.
+'	this was an exceptional case both in the crime
+committed and in the behavior of the execu;	tioner and criminal, and bade fair to violate
+J	every tradition of the arena.
+;	Gradually the leaping, struggling pair drifted
+;	across the sand toward the throne, and in a
+moment more the parapet had hidden them •	from the king. This was more than that bar-
+<	baric lover of sport could stand; he threw off
+I , mantle and crown and clambered up on the j	parapet and lay there at full length with his
+'	heavy hilted, jeweled sword by his side, unmind-
+ful of his majesty, the people or anything but J	the battle going on below. And a battle royal
+I	it was! To and fro, backwards and forwards, in
+and out, they rushed and leaped, charged and I	retreated, lunged and parried, and dashed and
+■i	turned in a wonderful, terrible game of tag.
+I	The princess, straining forward to catch sight
+।	of the tigress and her lover, noticed her father’s
+j	sword, which lay half started from the scabbard,
+'	the gleaming hilt over-hanging the arena.
+Quick as thought she shoved it a little forward, 1	raised the tip of the scabbard and it went
+;	flashing, naked,	into the pit below. The king
+;	saw it, tried to	catch it, lost his balance and
+i	nearly followed	it, but the princess grabbed the
+J	royal heels and	saved the royal neck. Clear as
+]	. a silver bell rang the sword as it struck the
+,	sand; the young man saw it, made a desperate
+;	leap, seized it, a straight arm thrust, and the
+I	tigress joined the lady in the land of shades.
+’	. Now the worst of this story is that that wretched
+old historian forgot to record what they did with the young man when the circus was over, and :	for the life of me I could not say. Clearly it
+f	wouldn’t do to marry him to another lady when
+:	the gods had just delivered him from the one
+>	selected by the king. And to introduce another
+tiger to finish Bul-Bul’s contract would be "	obviously unjust, and, considering the impres-
+1	sion made on the people by the young man’s
+courage and beauty, perhaps a trifle dangerous even to barbaric majesties with unlimited authority. To marry him to the princess would -	seem the easiest way out of the difficulty, but
+then the young man might object. Besides, who ever heard of punishing a man by making him commit the very crime for which he was convicted? And he could not leave the arena ■	alive and unmarried. So what did they do?
+j-	For.my yart I think the wise men of the king;	dom figured bn that problem till they and the
+young man, too, died of old age, and in the I	meantime employed their spare moments in
+r	cursing the day that saw the death of the lady
+[	and the tigress.	D.V. Casey.
+h - -	~	.
+The Ghost in Hamlet.
+It has been very often remarked that the plays'of Shakspere have given rise to more critical discussions than the works of any other author in our own language. It is, indeed, wonderful to see how many so-called critics have attempted to interpret the poet’s works as they should be. But, strange to say, on many important points they are divided; not so much because they do not study his works enough, as they do without doubt, but that they do not consider the environment of the poet.
+Shakspere lived in the reign of Elizabeth, who, we know, was not much of a woman, but a great queen. Her religion is, perhaps, an unknown quantity. She was not a Catholic by any manner of means, and not well disposed toward the religion of Cranmer, for she ridiculed it at every favorable opportunity. This, then, was the ruler of England in the days of Shakspere. His father had been a Catholic; his environment was Catholic. Now this is what troubles the critics: they do not wish to acknowledge that any of the poet’s greatness is due to the influence of the Catholic Church; hence it is that Shakspere is discussed so vigorously pro et con on questions where a knowledge of the time of Shakspere and the teaching of the Church would at once show the author’s meaning without difficulty.
+Perhaps the greatest of Shakspere’s tragedies, and the one that is giving the critics the most trouble, is “ Hamlet.” And this is simply because the most of them do not consider that, although the scene of “Hamlet” is laid in Denmark, still the poet’s characters are all of the age of Elizabeth; they dress and speak as the men of that age did. And we. must also remember that the characters of the play are not pagan Danes, but Catholics. This the critics do not all accept, though the play itself is a conclusive argument in its favor. Of the characters of “Hamlet” but one will be considered here, namely, the Ghost. This supernatural creation of the poet does not appear in much of the action of the play, but is undoubtedly a great element of the tragedy, shedding as it does the dim light of another world over the actors; hurrying them on to the terrible end.
+The reader or student of this play is aware of the fact that Hamlet, after returning from Wittenberg, where he busied himself with his books, little dreaming what a monstrous deed was being perpetrated in Denmark, began to feel suspicious that all was not well. Surely, it
+NOTRE DAME SCHOLASTIC.
+was most strange to see his mother married to Claudius, his’father’s brother. Hamlet is grieved to see her lack of respect for his father’s memory, and he exclaims:
+“A little month ere those shoes were old
+With which she followed my poor father’s body.
+.... She married! ”
+And contrasting Claudius with his father, he O	7
+says:
+" My father’s brother—but no more like my father Than I to Hercules!”
+Couple with this the strange feeling of suspicion and unrest in Denmark. The poet gives us the keynote to this in the opening of the play, when Francesco says:
+“ ’Tis bitter cold and I am sick at heart.”
+Again at the appearance of the ghost to Horatio and Marcellus, the former says:
+“ This bodes some strange eruption to our state,” meaning the appearance of the ghost. In Act I., Scene IV., as Hamlet and the ghost leave the platform, Horatio says:	.
+“ Something is rotten in the state of Denmark.”
+It is easy to see then that the ghost exercises a great influence on the action of the play. It sets the men, by whom Hamlet is surrounded in the early part of the play, to thinking that something is wrong. It reveals to Hamlet the infamy of Claudius and his mother’s unfaithfulness, and directs all the former’s thereafter. . The mainspring of Hamlet’s actions, in seeking revenge for his father’s murder, was the apparition of the ghost to Hamlet. In this scene, more than all others are the critics at sea as to the motive for Hamlet’s words of exclamation. When, after confirming his sus- ’ picions of Claudius, the ghost enjoins him to revenge his “foul and unnatural murder,” and then with the parting injunction: “Adieu, adieu, adieu, remember me,” it vanishes, Hamlet breaks forth:
+“ O all ye hosts of Heaven! O Earth! what else?
+And shall I couple Hell?”
+Such is the reading now given by the majority of the critics, who do not take into consideration the religion of Hamlet. Let us consider his situation. He is overwhelmed with the awful truth of his father’s murder, his mother’s sin, and the manner in which these revelations are made to him. It is not reasonable to suppose that a Catholic, as Hamlet was, would, after calling for aid on heaven and earth, then couple hell with these; besides there is every reason to believe that Hamlet intended to use the word “couple” in the sense of marriage. This word “couple,” in Shakspere’s time, meant also to marry. Again there is no more *
+authority for the above reading than there is for the following, because the punctuation changes one into the other and -dice versa; but the punctuation of this reading is not as it appeared in the first quarto edition or any of the editions which are supposed to have come from the author to the publisher. The punctuation is simply done as the type-setters did it. It was left to their judgment. Here is the transformed reading:
+“ O all ye hosts of Heaven! O Earth! What else? And shall I couple? Hell!
+Hamlet has good reasons for saying these words: “And shall I couple?” He is made acquainted with his mother’s faithlessness, and he says: “ Frailty, thy name is woman.” Again, in the passage beginning “O all ye hosts of Heaven!” he refers to the queen. “O pernicious woman!” then thinking of the pure and simple girl Ophelia, whom he undoubtedly loves, he says: “And shall I couple?” meaning, shall he, after the terrible lesson of faithlessness taught by his mother’s sin, also marry and follow the ’ fate of his father?
+Another point to consider is, was the ghost from hell or purgatory? This is a question on which the critics have been sadly at sea. They, of course, not considering Hamlet a Catholic, not believing in a middle state themselves, at once say the ghost must be from hell. If one knows the teaching of the Catholic Church in regard to purgatory and hell it is not a difficult matter to see at once in reading the play that the ghost is from purgatory. These lines ought satisfy any fair-minded critic of the truth of the above. Act I, Scene V.:
+. “ I am thy father’s spirit, Doomed for a certain term to walk the night, And for the day confined to fast in fires, Till the foul crimes done in my days of nature Are burnt and purged away.”
+. Last of all it is asked was it right for Hamlet to seek revenge for his father’s murder as-the ghost commanded him? This word revenge in the Elizabethan age meant simply justice. In those days “the king could do no wrong,” so the people said. “The king is the state” is a sentence whose meaning was well known, long before the arrogant French king uttered it. Here then was a case in which the person of the king had not only been touched by sacrilegious hands, but the life of the sovereign had been taken. Therefore Claudius was’guilty of treason. Hamlet was then justified.in seeking revenge for his father’s murder.
+We can thus see, that although the ghost does not appear as prominently as the great characters, still as in “Julius Caesar,” this spirit of the dead king roaming for revenge, holds a power over the characters of the play, which power ceases only when death appears arid the curtain falls, bringing home to us the lesson of what a terrible evil sin may bring upon those who have committed it.	”
+John A. Devanney.
+642
+NOTRE DAME SCHOLASTIC.
+
+Notre Dame, June 17, 1893.
+ISublfsJtti tbtrs JSaturbap during Ktrm JTtmt «t N". B. Bntbrrsitj.
+Entered as second-class matter at the Post Office, Notre Dame, Ind.
+—The closing sermon of the year .will be delivered to-morrow (Sunday) by the Rev. J. F. Nugent, Des Moines, la. The eloquent pulpit orator is well known to all at Notre Dame, and his practical, instructive address is sure to command earnest attention.
+—In another column we publish an interesting communication from the Rev. J. C. Carrier, C. S. C., Professor of Natural Sciences in St. Laurent College, Montreal. The generous donation of which Father Carrier speaks will win for him the lasting gratitude of every student of science for years to come at Notre Dame, as he has now the sincere thanks of the Faculty of the University.
+—The following is an outline of the Commencement exercises: Monday, 8.30 a. m., exercises in Brownson and Carroll Halls; 11, Regatta; 2.30 p. m., exercises in St. Edward’s Hall; 4 p. m., Grand Military Dress Parade; 7.30 p. m., exercises in Washington Hall; Orations — Messrs. M. A. Quinlan, H. L. Monarch, A. E. Dacy; Oration of the Day—The Right Rev. Mgr. Seton, D. D. Tuesday, 8 a. m., exercises in Washington Hall: Class Poem—R. C. Langan; Valedictory— Ernest F. DuBrul; Conferring of Degrees, awarding of Honors, etc.
+Notre Dame’s Exhibit at the World’s Fair.
+Notre Dame is well represented at the World’s Fair. Its exhibit is enclosed in four departments centrally located in the space allotted to the Catholic Educational Exhibit in the Manufactures and Liberal Arts building. The first booth is twenty feet square, and contains a life-size, full-length portrait of the venerable Founder of the University, painted by our own Gregori. There are also specimens of paintings in oil done by Gregori’s pupils; crayon and pen-drawings from Prof. Ackerman’s pupils; a large map of the grounds and
+buildings of the University made by the students of Prof. McCue’s Surveying classes; several excellent specimens of Mechanical Engineering work in iron and wood; blue prints from the Institute of Technology; one hundred and twenty views of Notre Dame taken by Father Kirsch’s class in photography; a complete set—:twenty-five volumes—of the Notre Dame Scholastic, illustrating the literary work of the students; specimens of books published at Notre Dame; objects of historical interest; photographs of several of Gregori’s masterpieces at Notre Dame; paintings and engravings illustrating the growth of the University with a portrait of the Very Rev. President Walsh.
+The second booth, also twenty feet square, contains a small but rich collection from the historical treasures of Bishops’ Memorial Hall. Had all the articles of interest been taken to Chicago from this national monument to the Hierarchy and clergy of the United States, they would have required all the space given to the entire Catholic Educational Exhibit. As it is, there is an imposing array of chalices, mitres, croziers, crosses and episcopal souvenirs of all kinds, besides a number of rare bibles published in the German language many years before the birth of Luther and some of them nearly fifty years before he commenced his so-called reformation.
+A third department contains autograph letters and historical documents from the Catholic Archives of America established at Notre Dame in 1866. The documents are suitably framed and are displayed so as to attract the .attention of all who come in their vicinity. They form a small but unique exhibit from the thousands and tens of thousands of valuable manuscripts presented to this national collection by archbishops, bishops, priests, religious and Catholic laymen in all. parts of the world.
+A fourth department is taken up with glass-covered cases filled with Catholic newspapers and magazines, relics and portraits of many of our deceased editors, and rare books from the Catholic Reference Library of America established at Notre Dame. One side of this display contains objects of historical interest from all parts of the United States, notably a chasuble made in 1618, worn by Father Marquette and other missionaries; and a sword carried through the Mexican War and late Civil War by Major General Shields. An exquisitely embroidered vestment made by Miss Gwendoline Caldwell is also exhibited in this department where it is greatly admired by the thousands who visit the exhibits.
+' NOTRE DAME SCHOLASTIC.	643
+A Generous Donation.
+College St. Laurent, near Montreal,
+_	Canada, June 6, 1893.
+Editor Scholastic:
+So constant and true is my affectionate interest in dear old Notre Dame,—where I spent many of the happiest and most active days of my life— that I never missed an occasion, for wellnigh twenty long years of separation, to say a good word in her behalf, and to lend her every assistance in my power after the terrible calamity, which visited her in 1879, reducing, among other precious things, her library and museum to a heap of ashes. On hearing the sad event, it was not so much the loss of hundreds of valuable and rare books, and thousands of interesting specimens of natural history I had procured diligently for years in my then official capacity that I deplored most, but the total and irremediable destruction of one of the most complete and precious herbaria to be found in America; it was especially rich in cryptogamous plants—lichens, algie, etc. Truly, the loss of such a large and valuable collection of European plants saddened me beyond expression; for I felt that it could never be duplicated. That herbarium contained over 8000 distinct species of plants, and had been actually the life-long work of two equally eminent and enthusiastic French botanists, Mr. and Madame Cauvin. Truly, theirs was a labor of love, and frequent were their travels to the British Isles, Iceland, Norway, etc., in search of rare plants. So highly prized was the Notre Dame Herbal (Cauvin’s) that the late illustrious Prof. Asa Gray, of Harvard University, estimated its value at S5000.
+To make up, in a feeble measure, for that very great loss, Mr. Editor, I have been engaged, since several years, in putting up, naming and classifying a collection of Canadian plants which I have sent to the World’s Fair at Chicago, and which I intend to present to the great and noble University of Notre Dame as an earnest of my absolute devotedness to my second Alma Mater, and to serve as a nucleus for a future grand herbarium, of which my little contribution shall form a distinct . geographical flora of about 1200 species and vari. eties, put up in eight thick portfolios. Their principal value will be found—it is fondly hoped —to consist (1) in their excellent state of dessication and preservation; (2) in their careful mounting on good, thick white paper 12x17 inches; (3) in their full and correct determinations, or naming, in Latin, French and English, with other useful indications. Whenever my knowledge of plants—extending over half a century —was not deemed great enough to name, with absolute certainty, some rare or ill-defined species or varieties of plants, especially of the order of Cyperacece, I sought the
+aid of the most eminent botanist of Canada, if jiot of America, Prof. John Macoun, chief botanist to the Geological and Natural History-of Canada. I pjurpose, Deo volente, to continue collecting, so that, in a few years I can add considerably to my present gift to the now famous University of Notre Dame.
+The present fame of old Notre Dame reminds me forcibly of the humble, struggling, and yet not inglorious days of the early “sixties” when we of this our fast disappearing or growing old generation were cheerfully exerting- our best energies in laying the solid foundations of the grandest institution of learning in America. May it ever prosper—excelsior!	.
+I remain, Mr. Editor, most sincerely,
+Yours devotedly in Xt., Joseph C. Carrier, C. S. C., Librarian and Curator of the Museum, Prof, of Physics _ and Natural Sciences.
+P. S.—I intend to present to the University of Notre Dame other collections besides plants, • namely, fossils, minerals, shells, coins, etc.
+J. C. C.
+--------------------—
+Books and Periodicals.
+“Apples Ripe and Rosy, Sir.” By Mary
+Catherine Crowley. Ave Ma/ria Office, Notre Dame, -Indiana.	- -
+Those who have read Miss Crowley’s charming stories in the^w Maria will welcome them in their new and more permanent form, and to others they have the perpetual.charm of “good -things and new.” Miss Crowley is one of that younger school which succeeded the authors of Mrs. Dorsey’s generation, and whose work, if it lacks the strength, and perhaps some of the insight of the older writers, finds its compensation in suppleness, vivacity and greater perfection of technique. So far as we know, this is Miss Crowley’s first published volume; but, if there is any such thing as forecasting careers, it will not be her last one. The book takes its name from the first, and one of the best, of the eleven short stories that go to make it up. “Apples Ripe and Rosy, Sir,” is a simple story simply told, but . with a charm that defies analysis, a subtle	.
+essence too ethereal to be bound by rule. “Til-deree” will, perhaps, be the favorite tale; but • where there are so many good stories, boys and	'
+girls will each have to choose a favorite. In 1 > Miss Crowley’s the moral is ever present, but . : it is not obtruded offensively. It is artfully	.
+insinuated; so artfully indeed that it seems to rise necessarily out of the story itself.	‘	,
+Catholic Science and Catholic Scientists. - 1	\
+By. Rev. J. A. Zahm, C. S. C. Philadelphia: H. L'.	. . y -r ~
+Kilner & Co. .	•	. :	_ ;
+It is only a few months since we had occasion	V
+to commend a learned and exhaustive treatise -	.
+from the pen of our amiable Professor of Physics;	' f
+we have now to review another work by the same	•
+author.	; -
+The title of this volume will, doubtless, pro- . z
+644
+NOTRE DAME SCHOLASTIC.
+voke some comment. “Catholic Science” will seem to Catholics a redundant term; to others it will appear unduly narrow. But it must not be forgotten that De Maistre’s reflection upon modern “history” will, mutatis mutandis, apply equally well to modern science. That “science, during the past three hundred years, has been a grand conspiracy against God” is evident to the most superficial student. It has, therefore, become a necessity—ah unfortunate one, it is true, but still a necessity—to use a distinctive term, one that will crowd out. the swarm of sciolists whose confused mouthings have long passed for the best scientific utterance of the day.
+About the book itself there can be but one opinion. It is luminous, powerful, convincing. The current stock of objections to the attitude of the Church towards science are taken up in turn and summarily dealt with. Father Zahm’s logic is absolutely fatal to the sophist; nor will any sciolist hold out long against the formidable array of facts that he adduces in support of his argument. In a wonderfully small compass he gives a succinct statement of the work of Catholic scientists. Those who pervert science, who use it to bolster up their own false theories, he chastises with merciless severity. His indignation against them is noble, royal. It is the indignation of a man who loves science and cannot endure seeing it prostituted to ignoble ends.
+But the chief merit of the book is that it is “meaty.” It supposes a breadth of reading and a depth of knowledge that few men besides the author can command. It is not, however, a mere compilation, but a grand thesis, informed by the literary spirit, a conclusive answer to the “anxious questionings” of the day.
+The mechanism of the book is perfect. It is printed on watered paper, with the best type, and the binding is very handsome.
+Local Items.
+—All aboard!	_
+—Home again!
+—’Rah, for the picnic!
+—“Who’s in that hole?” '
+—“Who is your trainer?”
+—The buccaurers are out. .
+—Did you see his new shoes? ,
+—Is the boycotting over yet?
+•—Who will wear the medals?
+—Are you going to the circus?
+—He says he did not write Heer. :
+—Joe says Red’s nine got Cooked.
+—Bennie asks: “Is a solo a speech?”
+—Eddie got a relapse of the “ Blues.”
+—Yeager still leads the Carroll league.
+—The head of the lawyers’ table is a cook. , -—The run oh the Wonder Bank proved fatal.
+—Mac took another involuntary plunge this week.
+—Why did the genial captain wash off the name?
+—Return the looking-glass,—no questions asked!
+—Shorty says they are going to check him through.
+—Tim says he would not make a glutton of himself.
+—The races during the week have be'en very exciting.
+—Felix says he has a tramp (cramp) in his stomach.
+—Tim was disconsolate Sunday. He did not
+’ expect it.	.
+—“Grip” would like to get news from the seat of war.
+—The small pitcher proved a puzzle for Jim and his colts.
+—It was war to the death between the two “starvations.”
+—The Blonde says he does not know when he reaches the top.	'
+—“Quart” is now the most popular game among the Carrolls.
+—To be in the swim it is only necessary to jump into the lake.
+—Tim’s effort Tuesday was enjoyed by all his ardent admirers.	.
+—The trustees of poverty flat will soon have the closing out sale.
+—The Band gave Father French a delightful sernade on his return. *
+—Why is a lover like a poet? Because he is always happy to metre.
+—“Fossie” says he has reached his highest limit. He has the keys.
+—Oscar was in swimming Tuesday and is an expert in equatic sports.
+—It is reported that they catch no pound muscalangue in Canada.
+—“Ole” is accused of being a Philistine. He denies it in strenuous terms.
+—Jack says the only medal he can wear this year is the grubology medal.
+—The wise man averred that if we did not get “rec” we would be rec-less. -	»
+—Did you get “Something Good?” Ed. says it was not intended for the bazaar.
+—Lost: A tennis medal. Finder, leave at students’ office and receive reward.
+—Sir, John was thoroughly interested, and said that the metaphors were grand.
+—Tim would like to recover two Guides to the World’s Fair that he lost this week.
+—“ Cupid ” had better give a bond,- or the “I-scream” wilLnever “show up” again.
+—Tommy “ Don’t-Know ” is the nominal appendage of one of our “little Juniors.”
+—Why did our corpulent friend change his
+NOTRE DAME SCHOLASTIC.	645
+mind so quickly about going walking last Sunday evening?
+—The crew of the Evangeline irrigated the man from Oregon in a very graceful manner Tuesday evening.
+—Our friends in the yard say that if the dews were not so heavy they too would enjoy the privileges of the lake.
+•—C. F. Pareut, of Detroit, visited the Masters Berthelet of St. Edward’s Hall and Duffield of Brownson Hall, Tuesday.
+—“Dick” says that the graduates of the Keeley Institute are good grammarians—at least they can all decline drink.
+—“How did you come out in examination?” was asked of the Blonde yesterday, who informed us that he came through the door.
+—Ruskin, Jr., says if the feeling of sensibility enters a person while reading a novel it goes to show that it is far from being nonsensical.
+—“ Snow-white” is getting to be a great admirer of base-ball. He has a supply of the photographs of the captains of the leading clubs.
+—On Thursday morning the students’ Mass was offered by Rev. S. Fitte for the repose of the soul of Herbert Mattingly, who departed this world one year ago.
+—The boys are enjoying the pleasant evenings in bathing in St..Joseph’s Lake. Several are expert swimmers; but all have to move when “ Fatty” and “Mike” are around.
+—The competitive drill in the Sorin Cadets for the gold medal was won Tuesday by F.' Holbrook. His nearest competitor was C. Girsch. The Cadets hold their annual picnic to-day.
+—Father William Corby, C. S. C., who for three years was with the Army of the Potomac, has written his “ Memoirs of Chaplain Life.” It would do the members of the A. P. A. good to read this volume. Many other persons will enjoy it.—Catholic Review.
+—Rev. President Walsh attended the dedication of St. Patrick’s Church, Bloomington, Ill., on Sunday last and preached the sermon on the occasion. The ceremony was conducted by the Rt. Rev. Bishop Spalding, of Peoria, assisted by the Pastor, the Rev. J. J. Burke, ’76, and a large number of the clergy.
+—“Spike” says the currents of the St. Joseph River would make-fine jam if placed on ice; but probably there might be a little rising in .the price if the stream is properly boiled down. He also says that it is a fine place for children to wander, as he has seen several little Eddys floating down stream, and a number of Minnow running around.
+—The final “drills-down” of Co. B for the, medal took place Sunday. As all expected, J. W. Miller, of Sandusky, O., was the successful contestant. Whilst Co. B can boast of one pf the best drillers in the University, its “black
+sheep” made himself conspicuous by seeking attention and receiving it in the scorn of his brothers in arms.
+—Rev. James J. French, C.S.C., who has been travelling in the East on Community business, returned Wednesday after an absence of about three months to resume his charge as Rector of the Seminary. He received a hearty-welcome from his many friends at Notre Dame upon his arrival. He was especially pleased with the reception tendered him by his delighted proteges, and the serenade of the University Band.
+—The cancelled postage stamps received by Bro. Valerian, C. S. C., from September 1, .1892,10 June 15, ’93, number 655,000, and make a very interesting exhibit as they have been prepared and arranged by. him in glass cases. The collection has been received from the following: Brownson Hall, 104,700; Carroll Hall, 95,300; St. Ed ward’s Hall, 16,500; Polish School, South Bend, 34,650; St. Mary’s School, Austin, 60,750; Holy Trinity School, Cincinnati, 31,000; Community and friends of the good work, 312,700. •
+—Last Friday the fourth game of a series for the championship was played between the “Stars” of St. Joseph’s Hall and the “Specials” of Carroll Hall. In the first half of the ninth Captain Brown objected to a decision given by the umpire, and withdrew his men from the field. The umpire decided the game in favor of the “Stars.” The contest was interesting throughout and was a hard-fought battle. The features of the game were the battery.work on • both sides and Gilbert’s catch of a hot liner. The score was 7 to 8 in favor of the Carrolls . at the time they left the field.
+—The drill for the medal in Co. A was the closest ever held at Notre Dame. The medal was won Sunday by T. Curran, who had four drills to his credit. He was followed by W. Covert who won three, while W. Wilkin carried off two. The members of Co. A are to be highly complimented on their proficiency in the manual of arms and the discipline manifested throughout the entire year. All join in praise of Captain Coady’s untiring efforts in their behalf, and it is due to him and his able lieutenants, Messrs. Schillo and Funke, that the Company has been advanced to the best-drilled body of cadets in the Northwest.
+—Last Tuesday Covert’s Anti-Specials took their third defeat on the Seminary Campus. Leonard and Kennedy, the battery for the “James J’s,” were in excellent trim for the game, and to their clever work most of the team’s success during the season is due. The home and visiting teams were pretty well matched ; but Lentuby’s service was too unique for the ardent Carrpllites. Two-base hits off Girardin were quite common for the last four innings. Paul Duffy; the short-stop for the “ Frederick’s,” was engaged for the day on 1st base, and this accounts for the large number who died on that
+646
+NOTRE DAME SCHOLASTIC.
+>	block. P. Carroll persisted in fanning out only
+;	twice, but offset this by as many put-outs on
+3d base. This closes the ball season for the Seminary without a single defeat.
+!	—Again Rt. Rev. Mgr. Seton, D. D., proves
+himself to be a most generous benefactor of
+i	the Catholic Historical Collection in the Bishf	ops’ Memorial Hall. This time his gift consists
+of a number of family bibles which have a special interest and value from the fact that they are specimens of the first Catholic bible printed in this country. One of the bibles was ■ printed 1790 in Philadelphia by Matthew Carey.
+It is the first Catholic bible and the first quarto I	bible of any kind published in the United States,
+j	Another bible, published in 1805, belonged to
+I ' Mgr. Seton’s grandmother, the sainted Mother j . Seton, who was the first American Sister of r .Charity and Foundress of the Sisters in this !	country. It is enriched with several marginal
+;	notes in her handwriting. A third bible belonged
+s	to Mgr. Seton’s father. It is needless to say
+i j	that Mgr. Seton’s gift is greatly appreciated
+J	by all interested in the Catholic Historical
+1	collection at Notre Dame.
+i	—Moot-Court.—The case of James B. Wil-
+i	liams vs. the city of South Bend occupied the
+q	attention of Judge Hoynes of the Moot-Court
+•	•	three days during the past week. The case con.;	cerned a special assessment upon a half lot
+•	j	running lengthwise along a public street, and the
+/	assessment made on this strip was the same per
+foot as upon lots of regular length fronting and .	* abutting directly on the street. The case was ably
+argued on both sides, and the young attorneys having charge of the case were complimented very highly on their deep research into the =	subject of special assessment and taxation.
+J - The court gave a full explanation of the difference between special assessment and taxation. He said that taxation affects the entire com-
+I	munity, while a special assessment only affects
+j * the individual on whose property it lies. There *	is no concert between him and other citizens in
+■j	respect to such assessment. It is something
+. purely individual and personal. It affects his property alone, and he may question its fairness or oppose it without in any manner opposing the general interest implied in and covered by taxation. Some men dislike to oppose or question the fairness of taxation since it is a matter in which the public generally is interested. But no such feeling need exist in respect to special assessments. A man may, without in any re-|	spect controvening his duty as a citizen, oppose
+a special assessment in its nature unequal and unfairly burdensome.
+A tax laid upon property abutting on a public street may be collected without regard
+■	to the question of accruing benefits. And it may.
+be coll ected according to the front foot rule with-
+■	out reference to the depth of the property. But
+s	not so with a special assessment which finds its
+j	justification simply and solely in actual benefits
+to the property assessed. Property not bene-
+fited by an assessment cannot be assessed. City of Bloomington vs. Chicago & Alton RR., 26 N. E., 366. And the benefit must equal the assessment. Crawford vs. People, 82 Ill., 557-Stnke out the element of benefit and the special assessment loses its foundation. Elliot on Roads and Streets, 505. In view of the fact that the special assessment upon the property of the objector, James Williams, was in excess of the benefits to be derived therefrom and unduly burdensome, the court held that the special assessment as to such property should be vacated. The court stated that officials should not go beyond the reasonable value of property in placing assessments thereon. It was the duty of the court to see that abuses in that direction were not committed by officials called upon to discharge the duty of placing assessments. There must be some reasonable limit to the exercise of this power. It would be unjust to allow such officers to exercise a discretion purely their own in the matter of loading down property with assessments perhaps unnecessary or intended to benefit certain contractors and therefore ordered the special assessment to be vacated on that particular lot. The attorneys in the case were: Messrs. Duffield and Kennedy for the objector, and Messrs. Ferneding and Cooke for the city.
+Base-Ball.
+The series of games between the two first nines of Notre Dame ended Thursday, June 8, the “Blacks” winning the last game by a score of 13 to 9. The series has been a very interesting one, and the winners deserve the medals. The game last Friday was the best ever witnessed here, twelve innings being played to decide the contest. It was a pitcher’s battle, Funke, for the “Whites,” striking out seventeen men,' while McCarrick had eleven to his credit. The score was 5 to 6 in favor of the“ Blacks.” The following is a detailed account of the game:
+The game opened at half-past three with the “Blacks” at the bat. O’Neill led off by hitting a weak one to Flannigan who threw him out at first. Bauer flew out to Maynes. McCarrick made a neat hit to left and was followed by Chassaing, who retired the side by hitting a slow grounder to short. Flannigan led off for the “Whites” by striking out and was followed by Maynes and McKee who did the same.
+In the second the “Whites” got rattled. Covert made a hit, which could have been prevented had it not been for a misunderstanding among the fielders; he stole second and third and scored on a wild pitch. Burns got his base on balls, stole second, and took third on Schmidt’s wild throw. Marckhoff hit to Thorn who threw home, but failed to catch Burns. Kerker struck out. Beck was hit by a pitched ball. Marckhoff scored, and Beck took second and third on McKee’s wild throw, O’Neill
+NOTRE DAME SCHOLASTIC.
+
+struck out, and Beck scored on Bauer’s hit to right. The side was retired by McCarrick striking out. Roby and Schmidt struck out. Funke hit a weak grounder and was thrown out at first.
+Chassaing fanned in the third. Covert flew out to Flannigan and Burns struck out. The “Whites” came in again, but failed to score. Cullen struck out. Thorn was thrown out at first. Flynn reach first on O’Neill’s fumble, and Flannigan retired the side by flying out to Burns.
+The fourth opened with Kerker at the bat; he reached first by being hit. Marckhoff flew out to Maynes who threw to first making a double. Beck .struck out. For the “Whites,” Maynes led with a clear hit to centre. McKee flew out to Beck who made a double play unassisted. Roby hit to centre, and made the circuit of the bases on wild throws. Schmidt hit the ball to Burns and was thrown out at first. -
+O’Neill started the fifth inning with a scratch hit. Bauer struck out. McCarrick hit a weak one to McKee, who cut O’Neill off at second. Chassaing struck out, sending the “Blacks” to the field once more. Funke for the “Whites” hit to Chassaing and reached first on Beck’s error. Cullen hit to Burns who threw to O’Neill, then covering second, but failed to catch Funke. Thorn struck out. Chassaing made a pretty catch of Flynn’s foul and Flannigan struck out.
+In the sixth, Covert hit to Cullen and was cut off at first. Burns struck out. Kerker got to first on four balls and went to second on Mark-hoff’s hit to right. The side was then retired by Beck’s fly to Cullen. Maynes struck out. McKee and Roby both flew out to Burns.
+O’Neill opened the seventh with a strike out. Bauer made a hit, but was caught napping at first. McCarrick struck out. For the “Whites,” Schmidt hit to Burns and was cut off at first. Funke reached first on a single, to second on Beck’s error, and went to third bn Cullen’s Lit to left. Cullen stole second and was caught napping off his base. Thorn was thrown out at first.
+In the eighth, Chassaing reached first on Cullen’s fumble, and was caught trying to steal second. Covert got first on Maynes’ muff and was caught trying to steal second. Burns made first on a single and, like the others, was caught at second. Flynn reached first on Beck’s error, took second on a wild pitch and third on . a passed ball. Flannigan got cut off at first, and Flynn scored on Maynes’ hit. Maynes took second on little Bob’s error, and was advanced to third by McKee’s sacrifice. Roby struck out.
+The ninth opened with the score four to two in favor of the “ Blacks.” Kerker and Marckhoff struck out. Beck reached first on a hit to right and took second and third on Thorn’s wild throw. O’Neill retired the side with a fly to Flannigan. For the “Whites,” Schmidt made a pretty hit to right and took second on Marckhoff’s error. Funke and Cullen flew put to Burns and Marck
+hoff. Schmidt scored, and Thorn got to second on Bauer’s muff. Thorn scored and Flynn made second on Chassaing’s wild throw, thus tying the score. Flynn was caught trying to steal third.
+In the tenth Bauer flew out to Flannigan. McCarrick and Chassaing struck out. Flan-nigari hit to O’Neill and was thrown out at first. Maynes reached first on Beck’s muff and was caught trying to steal second. McKee made a safe hit. Roby flew out to Chassaing.
+In the eleventh Covert made a hit that Funke tried to handle. Reached second on Cullen’s fumble of Burn’s, and they were both advanced by Kerker, who got his base on balls. Marckhoff struck out. Beck flew out to Cullen, and Covert got caught at the plate. Schmidt hit a weak one to McCarrick and was thrown out at first. Funke made a neat single. Cullen struck out and Thorn was cut off at first.
+O’Neill led off in the twelfth inning with a single to right, took second and third on wild throws and scored on Bauer’s hit. Bauer took, second on Cullen’s fumble of McCarrick’s ball and scored on Chassaing’s hit. McCarrick got out at third. Chassaing was caught at second. Covert did the rest by striking out. The “Whites” realized that it was their last chance, and they had good batters. And Flynn, with this in mind, put his bat against the ball for a two base hit that landed the ball over the left fielder’s head;, he stole third. Flannigan flew out to Burns and Flynn scored on Maynes’hit. -McKee hit to Burns who threw Maynes’ out at second and cut McKee off at first, making double play and ending the best game of ball played here in many a year. '
+Blacks.	SCORE:	A .B. R. I.B.	S-H-P.O. A-K.
+O’Neill, s. s.,	-	-	6 I 2	OO31
+Bauer, 1. £,	«	V	*	6	13	OOOI	'
+McCarrick, p..	-	- -	6oi	0 r 6 0
+Chassaing, 3d b.,	*	V	9	60I	0321
+Covert, c.,	-	- -	6l2	0 9 4 0
+Burns, 2d b.,	*	V	_	411	0 S 4 0	■
+Kerker, c. f.,	-		2	0	0	0001
+Marckhoff, r. £,		51 I	0	10	2
+Beck, 1st b.,	-	_ - -	41 I •	O I4 I . 4
+Total 					• 45 6 12	0 36 20 TO
+Whites.		A.B. R, I.B.	S.H. P.O. A. K.
+Flannigan, 2d b-,	- - -	600	0 S 2 2	-
+Mavnes, r. £,	-	— —	603	0	2	11
+McKee, 3d b.,	_ _ -	601	I I I I
+Robv, 1. £,	-	- -	51 I	OOOO
+Schmidt, c.,	- - -	5 I I	0 16 .S 1	’
+Funke, p.,	-	• - -	502	0	0	2	0	"
+Cullen, s. s. ,	— — _		0	2	2	3
+Thorn, 1st b.,	. -	— —	.510	0721
+Flynn, c. £,	_ _ _	521	0 0 .0 0	-
+Total.........................4S	5 10 1 36 iS 9
+By Innings:—1 2 3 4 5 6 7 8 9 10 11 12
+Blacks:—o 400000000 o 2=6
+Whites:—o 001000120 0 1=5
+Earned rims—“Whites,” 1. Two base hit—Flynn. Stolen bases—Covert, 2; Burns, Cullen, Flynn, 2. Double play—Maynes to Thorn, Beck (unassisted), Bums to . Beck. Base on balls—off Funke, 3. Hit by pitched ball— Beck, Kerker. Struck out—O’Neill, 2; Bauer, McCarrick, 3; Chassaing,’3; Covert, Burns, 2; Kerker, 2; Marckhoff, 2; Beck, Flannigan, 2; Maynes, 2; McKee, Roby, 2; Schmidt, Cullen, 2; Thom. Passed balls—. Covert. Wild pitches—McCarrick, 2 ; Funke, 1. Time, 2 hours, 50 minutes. Umpire, Kivlin. Scorer, P. N. Foley.
+’ ‘ - * - - ■ .
+- ■ *
+The fourth game of the series for the cham
+64S	NOTRE DAME SCHOLASTIC.
+pionship was played Monday afternoon, and was won easily by the “Whites.” The following is the .
+Score by Innings:—i 23456789 Whites:—3 0140300 0=11 .	Blacks:—o 1020000 0=3
+Summary:—Base Hits—“Whites,” 11; “Blacks,” 5. Errors—“ Whites,” 8; “ Blacks,” 12. Earned runs— “ Whites,” 1Blacks,” 2. Two base hit—McKee, Flan-nigan. Stolen bases—Maynes, Schmidt, Chassaing, Covert, Quinlan, 2. Double plays— Cullen (unassisted), Funke to Schmidt to Thorn. Base on balls—off McCar-rick, 1; Funke, 4. Hit by pitched ball—Beck, Bauer. Struck out—McCarrick, 7; Funke, 4. Passed balls— Covert 2; Schmidt, 1. Umpires, Hannin and Coady. Scorer, Foley.
+% % *
+The game Thursday was notable only for the number of errors made by the “Whites.” The following is the game
+By Innings:—1 2 3 4 5 6 7 8 9 T. H. E.
+Blacks:—2 0004032 2=13 7 5
+Whites:—2 0000002 5=9 11 12
+Schroth, Shillington, Tong, Taylor, Trankle, Thome, Tempel, Treber, Thornton, Wolf, Wagner, Wensinger, Welty, Walker, H. Wilson, R. Wilson, Whitehead, N. Weitzel, Washburne, B. Weitzel, O. Wright, D. Wright, Ward, Yeager, Yingst, York, C. Zoehrlaut.
+ST. EDWARD’S HALL.	.
+Masters Ayers, Ahern, Arnold, L. Abrahams, G. Abrahams, Ball, Bump, Bopp, Barrett, Bourgeois, V. Berthelet, R. Berthelet, Brown, Crandall, Christ, Corry, Cross, Curry, Cressey, D. Campau, F; Campau, A. Co-quillard, J. Coquillard, Corcoran, Durand, Dugas, Devine Elliott, Egan, Eagle, F. Emerson, W. Emerson, Flynn, Finnerty, Feltenstein, Freeman, Girsch, Gavin, Green, Graff, Gifford, Howard, Higginson, Roy Higgins, Rai eHiggins, J. Higgins, Ives, Jones, Johntry, Jonquet, Keeler, Kinney, Kilgallen, Lawton, Loomis, Lowrey, Lysle, Langley, Lohner, Maritzen, Minnigerode, C. Monaghan, Morris, A. Monaghan, S. Monaghan, McPhee, McDonald, G. McCarthy, Emmit McCarthy, E. McCarthy, R. McCarthy, McGushin, McAllister, B. Mulligan, M. Mulligan, Ninneman, Otero, Oatman, O’Neill, H. Pollitz, W. Pollitz, Pyle, Peck, Patterson, Pieser, L. Rasche, H. Rasche, Roesing, V. Romero, A. Romero, Rohrbach, Ryer, Robb, Roache, W. Scherrer, G. Scherrer, Swan, Stuckart, Shillington, Segenfelter, Shipp, Schneider, L. Thompson, Trankle, U. Thompson, Wilcox, Wagner.
+Roll of Honor.
+A Pretty Incident.
+SORIN HALL.
+Messrs. Ahlrichs, Bolton Brown, Carney, Combe, Crawley, Chute, Dechant, Flannery, C. Fitzgerald, J. Fitzgerald, Kearney, Keough, Kunert, Langan, Maurus, J. McKee, Mitchell, McCarrick, Neef, Powers, Quinlan, Ragan, C. Scherrer, Schaack, Schopp. '
+BROWNSON HALL.
+Messrs. Ansberry, Barton, Beck, Burns, Brinnin, Bennett, Berggren, Baldwin, C. Corry, A. Corry, Chassaing, Curran, Cooke, Cullen, R. Corcoran, Crilly, Chidester, Casey, Croxton, Devanney, Davis, Dinkel, Dempsey, Douglas, Duffield Eyanson, Eyke, Foley, A. W. Funke, A. M. Funke, J. Flynn, Frey tag, Fox, Farrell, Groff’ Gerlach, Hermann, Hennessy, Hoepe, Hesse, Harris, Hagan, Henley, Hudson, Heneberry, Jacobs, M. Kirby, Kirker, W. Kennedy, Kearns, Krembs, Kintzele, W. Kirby, Kilkenny, Karasyriski, Kuhn, J. Kennedy, Lennon, Murray, McCuddy, McFadden, D. Murphy, T. Monarch, McCullough, Moxley, D. Monarch, F. Murphy,E. Marck-hoff, McCarthy, Magnus, McGarry, Ney, O’Connor, W. O’Neill, O’Shea, Pulskamp, Prichard, Patier, Palmer, Quinlan, C. Roby, Rogers, M. Ryan, E. Roby, Stanton, Shermann, Smith, Stace, Vurpillat, Walker, Wilkin, Weaver, Welsh. -	.	.	.
+CARROLL HALL.
+Messrs. Barrett, R. E. Brown, O. Brown J. Brown, Bennett, Berles, Blumenthal, Bachrach, Bixby, Burns, Brennan, Bacon, Covert, Cornell, Carter, Chauvet, Clendenin, Connell, E. Coolidge, Cavanagh, Cullen, Carney, Dion/Druecker, Ducey, Dannehiiller, Dillman, Dempsey, Dixon, DeLormier, Dutt, Freeman, Franke, Funke, Fossick, Finnerty, E-. Gilbert, L. Gibson, N. Gibson, .Griggs, Gerding, Gonzales, Gerdes, Girardin, F. Hill, Hack, Hittsbn,'Hurley, H. Hill, Hoban, D. Hilger, A. Hilger, Heizman, Howell, Jones, Janssen, Krollman, A. Kegler/ W. Kegler, Kutina, Kelliher, Kindler, Kinney, .Klees, Lanagan, G. Lee, J. LaMoure, W..LaMoure, ■ Lambka, Lantry, Lohner, Lawler, Langevin, T. Lowrey, Loser, Louie, Ludwig, Lynch, Lippman, Levi, M. Lee, Maurer, Mitchell,. Maternes, Maguire, E. Murphy, L. Miller, J.Miller, Mengis, Mills, Miles, Moore, Monaghan, L. Martin, C. Meyers, R. Miers/ McDermott, S. Mc-;Donald, McPhee, McCarrick, J. J. McPhillips, J. A. McPhillips, C.’McPhillips, E. McDonald, Nolan, O’Mara, F. O’Brien, W. O’Brien; E. O’Connor, O’Neill, Oliver, Pim, Reis. Runiely, Rend, Ruppe, Repscher, Romero, •Renesch, Reilly, Reber, Roesing, J.'Rozynek, P. Rozynek, ’ Sievers, Stearns, W. Spalding' S. Spalding, Slevin, Spie- ’ gel, Sullivan, Schaack, Segenfelter, Strauss; Strassh?im,.
+A pretty incident occurred during the Apostolic Delegate’s visit to Notre Dame. Among the exercises in his honor was an entertainment given by the students of the University in Washington Hall, which for once was filled to overflowing. The presence of the venerable Founder of Notre Dame was not expected, on account of his feeble health; but while the orchestra was playing its-first selection, Father Sorin made his appearance at the door, accompanied by his attendant. Mgr. Satolli was the first to notice him, and immediately left his place to go to the door and conduct the aged priest back to the place of honor. It was an act of genuine kindness and humility rather than of mere courtesy or condescension,—one that a man ever conscious of his superior dignity and proud of his office would not have been Jikely to perform. The meek embarrassment of the aged religious at being thus ’ honored by the highest ecclesiastical dignity in the land added to the picturesqueness of the incident, which was not lost on the youthful audience. A spontaneous shout went up from the throats of five hundred boys, grave professors and the invited guests joining enthusiastically in the demonstration.
+Jt was a .trifling incident in one way, but it speaks volumes in praise of Mgr. Satolli. Such little things reveal character. Whatever may be thought or expressed about the preserice or acts of His Excellency, all can rejoice that a great office is not held by a small man, as is often the.case.* Mgr. Satolli, we are of opinion, ;is firstof all a Christian gentleman, incapable of intentionally wounding the. feelings of any one, arid riot likely to forget the. respect due to authority that is in reality part of his own.— The Ave.Mana.	'/•T'-	. ,	"

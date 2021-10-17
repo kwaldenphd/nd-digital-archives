@@ -1,0 +1,398 @@
+﻿
+— Che —
+Dotre Dame Scholastic
+oisce-QvAsi sernpcR-victvrvs- • vive -qvasi- cras-moritvrvs-
+Vol. XLVIII.	NOTRE DAME, INDIANA, May 29, 1915,	No. 33.
+' Night and Morn.
+(2) GOD of Ages, when the day Draws to the evening’s length, And sunset lights have paled away, Our peace is in Thy strength.
+And when the dawn steals silvery gray O’er earth a-dream with flowers, To give us hast Thou found a way, The abundance of Thy towers.
+5. 5. ------------------
+Finance and Economics in the Engineering Profession.
+THE engineer has been described by someone as the vanguard of civilization. I presume that the author of this definition had in mind the opening of new countries, together with the building therein highways and railroads. The Institution of Civil Engineers of England, the oldest engineering association, defines civil engineering as the art of directing the great sources of power in nature for the use and convenience of man; while the American Society of Civil Engineers, the oldest American association, requires for full membership “the ability to design as well as direct engineering works.” This requirement probably more nearly represents the ideal engineer of to-day.
+Changes have been so great within the past few decades that definitions which formerly expressed true meanings, now imply but little. We are living at a time when almost everything is different from that which preceded us, and perhaps no changes during the history of the world have ever equalled those which the present generation has passed through. They have been so rapid that many new professions have sprung into existence, and different relations now exist between all lines of business, trades and professions, as well as different
+relations of the government toward the people and of governments toward one another.
+The development of the steam engine brought rapid changes—the steam railroad with the necessary bridges, the steamboat, the waterworks, the gas plant, the sewerage system, were all rapidly developed, and changed the mode of transportation and the entire life of our fathers.
+These developments were followed fast by the telegraph, the telephone, the electric light, steam heating, the electric railroad, daily papers, rural delivery, wireless telegraphy, swift express trains, intricate system of sewerage disposal, gas engines, automobiles and flying machines. Not all of these things came in a. day or even in a decade, but most of them came within the past three decades and within the memory of those now living, until to-day the average citizen takes all of them as matters of course. The result has been a revolution of old methods of thought, of business and of education. These changes have brought about a reduction in the cost of everything, when measured by the effort necessary to secure them. Not only have the necessities of life been cheapened, but even the luxuries, and what was a luxury in the days of our parents is to-day considered by us a necessity. Our entire business structure seems to have changed. Business is transacted differently from that in the early days; the good business man of a few years ago is considered an old fogy to-day unless he had adopted some of the .modem ideas; methods which formerly proved successful would be suicidal to-day, and machines’ which were then considered perfect have long been relegated to the scrap pile. To bring about these wonderful changes has required immense sums of capital; sums which were greater
+* Lecture delivered by F. A. Bryan, President and General Manager of the Indiana and Michigan Electric Company before the Electrical Engineering Club of the University of Notre Dame, April 23, 1915.
+THE NOTRE DAME SCHOLASTIC
+538
+than that which any one nian could command, and the securing of this large aggregation of capital is a necessary, result of our modern civilization, and to secure it the modern corporation has been evolved.
+It is naturally rather stimulating to our pride as engineers to feel that no one class of men are as responsible for bringing about these developments and changed conditions, as the engineer,—and further, to know that the people to-day recognize as never before the status of the engineer, and by engineer, I mean the word in its broadest sense.
+In the early days, as may be gathered from the definition of the Institute of Civil Engineers of England, the engineer was expected only to design and construct work. To-day the direction of the work when constructed from the aggregate of capital is a duty that falls upon many engineers. It is his duty and business to get the best results possible, not so much by buying- cheap and selling high, as by reducing the cost* of production, and it is here that the engineer’s training'is realty applicable,-for every manufacturing plant, every steamship, every railroad, every public utility, is simply a machine or tool, and has no value except the capacity to produce, and the man trained to design and construct the tool, if he be property balanced, should also have ability to see that the tool be made to propertyproduce, that is, produce economically..
+Whether the constructive period through which we are passing will continue with a corresponding demand for the same kind of an engineer we have been familiar with is unknown. The 'colleges and universities of the country are graduating thousands of young men each year. The demand for these men in strictly engineering lines as ordinarily implied may be questioned. Bridge building may not offer the opportunity for originality that it did fifty years ago; engine and dynamo design has been simplified and systematized. The locating railroad engineer has litttle use for his calling, but there is a demand in other engineering lines and in other callings closely affiliated with engineering so that the engineer of to-day with his greater recognition has a broader field and greater. possibilities than ever before.. Institutions which twenty-five years ago had no use for the. young' graduate engineer now send . their' agents; to the technical, schools to; secure the services of these men for their various
+departments. Understand, not all of these men are used in engineering work, but they are distributed according to the ability they display throughout the organization, in the buying, selling and manufacturing departments.
+In the sales department of most large institutions the “jolty good fellow” has largety given place to the sales engineer. The old method of selling, via the stomach has given way to the man who knows what can be done with a certain machine and how tp do it, and in these days when we are talking merchant marine, trade expansion, marketing of our products in foreign countries, there is probably no vocation that offers greater rewards to the-young engineer who is properly equipped than that of salesmanship. Considerable has been written in the engineering press in recentyears relative to salaries of engineers. Some years ago I put the question to a successful salesman of a large electric corporation, who had never seen the inside of a college, as to why he, as a' salesman, was able to command so much more salary than the engineer, who, after years of study, commanded considerably less for his technical work, and the reply was that as a salesman of his company’s goods, he had also learned how to sell his own services, and this was something that the engineer had never discovered. And it is probably due to this fact as much as any other, that the engineer being engrossed in other matters has never learned this one thing so essential to his financial-success.
+.In the olden days the chief requirement of the civil engineer was only to locate the railroad or to design the bridge. The duties of a mechanical engineer was to design his engine or machine;, the requirement of the electrical man was to design a dynamo and to know whether to connect the lamps in series or parallel and how to make a motor that would run a street car. The works manager was the one who could best -drive his men. The idea was that a young man studied civil engineering so that he could design-a bridge, a mechanical engineer so he could design a steam engine, an. electrical engineer so he could design a dynamo;. All of these men are heeded now just as in 'the past, but the greatest problem now is,. the. best method of. using engineering structures and -tools and how they will most economically do* the work required of them. -The railroad engineer to-day must' know as
+THE NOTRE DAME SCHOLASTIC
+much about the operation of the road as about the construction of the same. The mechanical engineer is interested as much in the economical application of the power developed by the steam -engine as in the design of the engine, and so the electrical engineer is interested in the'economical manufacturing and distribution 'of the electrical energy perhaps, more often than in the design of the dynamo, and this in turn brings him in contact with various manufacturers who use his • product and develops him in reality into a sales engineer. ,
+The central station industry to-day, which has much to do with the development, manufacture and distribution of power, is pretty thoroughly organized along technical lines. For the past two decades the best engineering minds of the country Have devoted their talents and energy to obtaining this economical devel-. opment. The sales end of this energy has been left largely to the ordinary salesman. Gradually, however, the engineer is usurping this field, and it is for this reason, perhaps, as much as any other, that we attribute the increasing demand for electrical energy in manufacturing establishments from the central station. For this purpose the salesman must be a precess engineer; he must understand factor}' methods and be able to propose improvements for the use of electrical power, and he must be able to show the manufacturer that by such changes and the use of such electrical power he can produce at a profit. So, also, in the matter of illumination, the men trained in the physical laboratory know more of photometry, lumuns, theory of reflection, color of-light and its effect, and are consequently more proficient and more able (all other things being equal) provided they have some of the instincts of a salesman and be not too technical, to make proper Recommendations to the prospective purchaser of illumination.	’
+The sales engineer knows why the central station with its large units can develop, .transmit and deliver electrical energy to its customer at a much lower price than the customer can possibly manufacture it on his own premises; he. knows how to obtain uniformity of speed and -how this will better the product of his customer, and it is for these and similar reasons that the sales end of the central station offers great opportunities for the young graduate, providing he is otherwise properly equipped.
+The business of promotion offers a wide field
+for the engineer; a man with a broad vision should be able to see what a community needs, able to figure out how these requirements can be accomplished, and to present it in a forceful manner to bankers, financiers and investors, and to translate engineering terms.. and figures into language which these men may understand;
+Manufacturing always offers opportunities for the engineer. The works manager. of a modern factory must be a different man from that of twentv vears ago. To-dav he is . really an efficiency engineer who studies processes and methods by which he can cheapen the cost rather than the driving of men to the limit of their endurance.
+Contracting, as for years, has been an avenue for the successful endeavor of the engineer. The old time “walking boss,” who formerly developed .into a contractor, • to-day is rarely, if ever, capable of handling the abstruse prob- . lems the contractor of to-day has to deal with. .
+Cost keeping, or efficiency engineering, has developed into a science, and he who to-day produces the best results must not only have a knowledge of the methods of manufacture . and the manner in which they can be improved, but these methods must be so tabulated and analyzed that they can be quickly and readily understood. This necessity has developed a new sort of an accountant which consists of a combination of engineering and bookkeeping, and the vocation of accounting has grown into a business that is indispensable to the modern corporation, manufacturer, or business man, and has broad possibilities for the young engineer.	.
+Twenty years ago or more the technical press devoted considerable space to discussions as to whether or not the engineer had the ability to fill executive positions. -At that time, for example, but few of the executive positions, ‘ with the great railroads or large corporations of the country were filled by engineers; few of our manufacturing establishments had the engineer as an executive. To-day, however, conditions are entirely different and perhaps a greater proportion of engineers or men- with an engineering education fill executive posi-. tions in the great industries of the country than any other one class of men, ■	, '
+Many engineers, remarkable in their judg- . ment, skill and intelligence in engineering work. • fail in the management of and dealing with
+540
+THE NOTRE DAME SCHOLASTIC
+men, which ability is essential in most every executive position. There seems to be no reason why the engineer should be restricted in his sphere to dealing with inanimate things, but if he is to make a success in executive lines he must of necessity train himself to deal with his fellow-men, and this, perhaps, is an ability or gift which we are apt to look upon as an . inherited one rather than that which we can acquire by training. I sometimes feel that perhaps not enough attention is called-to this phase of a young man’s training in college work. The administrative or executive officer of any corporation must depend largely for his success upon his subordinates, and he cannot expect efficient subordinates without the ability to select them, and it is in this that the young man without the college training so often excels the college man. He seems to have acquired by observation, or by hard knocks from the school of experience, the ability to judge other men in about the same manner as a horseman passes judgment upon a horse. True, the human being cannot be judged in the same way as an animal, but undoubtedly some of the same rules apply, and young men associated together for a period of four years have unusual opportunity for studying character and ability, which will, in after life, aid them materially.
+Some of you may develop into manufacturers, and the time will come when you will require able assistants as sales managers, works managers, or chief accountant, and your mind will naturally revert to some one of your friends in whom you have implicit confidence as to character and an absolute knowledge as to his ability. Some of you may become bankers and may in the course, of your business desire reports on some engineering enterprise, and you will naturally remember one of your college friends whom you know has ability along this line. Similarly, you may have charge of some large construction work and it will be necessary for you to select able subordinates, and your mind will naturally revert to those whom you know are adapted for the work. Others of you may not be so fortunate, but with knowledge of your ability displayed in college you will have nd hesitancy in applying to those who have been more fortunate for the vacant positions they may . have. The opportunity of making friends and of observing the character and ability of your associates is more valuable than
+the opportunity you have to follow the regular-prescribed course of studies. The discovery of a man who rings true under all conditions is more valuable to you than the discovery of some law in your laboratory pertaining to physics or chemistry.
+In no way except from the flotation of its securities through the modern bank can the corporation which needs large aggregates of capital secure the same. In the past these amounts have been secured largely from the sale of units of one thousand dollar’s denomination, and in this way many persons have become financially interested as stockholders and bondholders. In the future it is fair to presume that the necessary funds will be secured from the sale of smaller denominations, say, of one hundred dollars, or even fifty dollars, as is the custom in European countries to-day, and this makes possible the greater distribution of the interests in the corporation among the people and also makes more necessary a more absolute knowledge of the banker concerning the property whose securities he is ■ distributing. Already bond houses are appreciating the value of the engineer in this business, and as it grows, and it is bound to, more and more will the engineer find this line of endeavor worthy of his attention.
+Fields other than the above are opening up for the engineer. The existing conditions have brought about a variety of increased governmental duties. The old forms of government recognized only the military and civil law, the former of which was to protect the people from foreign enemies and the latter to protect the people from domestic enemies, and for executives they naturally depended upon the soldier and the lawyer.
+The functions of the government have materially changed. The administrative officers of the future, as in the past, must be taken from men best trained for these new duties. The management of municipal government, as well as the government of the state and nation, will become very much like the management of corporations, and its duties will be performed in the same way as those of the corporation, and the class of men that will best do the work for the municipality, state and nation is the same as that class which will best do the work for a corporation. Men to-day are subjected to years of training before being entrusted to management of large corporations. So also
+
+THE NOTRE DAME SCHOLASTIC
+should they be trained for the work of the municipality or state. Municipalities are already discovering that good engineers with proper executive ability and corporation training, rather than astute politicians, are needed for administrating public affairs, ’ the building of. roads and sewers and water-works and for dealing with the electric railway, lighting and power matters. Our system of government at present, however, is such that few good and experienced engineers, except of necessity, care to accept positions subservient to the political boss.
+So, too, the state and federal government, through these changing conditions, are appointing commissions to stud}’’ into and examine the various different phases.of our daily life, and is requiring men of higher abilities than heretofore,—men of expert knowledge; and, as time goes on, it is probable that legislative bodies will depend more and more upon opinions and reports of these technical or expert bodies composed of men trained in trade, transportation, banking, sanitation, engineering, etc.
+To-day the successful administration of commission laws.of the various states which have to do with the transportation, express, telephone, telegraphj gas, water, electric light and other similar companies, requires men of the highest ability; the problems are highly technical, and members of a commission should .possess those high qualifications which go only with experience and recognized standing and they should be free from political interference.
+Perhaps no question before any of the commissions of the country to-day is of more importance than that of valuation. That is, valuation- in the broad sense, which includes reproduction value, going value, franchise value, depreciation, risk, and all of those items that go to make up the total cost and value of any great property, the cost of which can only be passed upon by careful analysis of the evidence of experienced men.
+The statutes of many states stipulate that at least one member of the commission must be an engineer of good repute. Whether or not these commissions have engineers amongst their numbers, the fact remains that they should be composed of men having ability to analyze situations carefully and arrive at correct results, and that the valuation of these properties constitute a very large and the most serious part of their work, and that the commission
+541 U: .
+in turn will have to rely upon experienced J . ; engineers to appraise these properties.	. . T
+The correct appraisal of utility properties . • is a matter of the utmost importance, and great -political consequences hinge upon the result. No absolute decisions as to what constitutes . \ proper value of any property has ever been -given by our courts, and these commissions are really experimental laboratories, and great . care must be exercised by them to see that.	.
+absolute justice be given the.public on the one . hand, and on the other hand, to the capital which has assumed great risks, developed the property and educated the people to the use . of the product which the property produces.
+It must be remembered that the mere putting together of inanimate materials does not represent the cost or value of a property; that in order to bring about the present state of perfection of any industry the property has	-
+been reconstructed many times; fortunes may-	._
+have been lost, hopes and ambitions blasted; for the apparent, prosperous corporation of " to-day has not come into its present existence	.
+• except through hardships and struggles for many 1 years. It seems unfair, therefore, that people ’ -. who sat idly by watching the risk being assumed by others in this development and refusing to participate therein, should now expect to receive ' . all of the advantages without bearing at least a part of the burden.	-	7	\
+The value of a man’s education is not represented by the few paltry dollars paid for college expenses; the value of an opinion from . learned legal council is not represented by the . value of the time consumed in dictating it; the worth of a difficult operation by an eminent surgeon is not measured by time consumed in : performing it; nor is the value of any estab- -	■
+fished business represented by the cost of ■ putting together material things composing it. : ' Any man of ordinary intelligence with suffi- ;	?
+cient financial backing could easily duplicate --the^physical property of the great Oliver Plow ' . \ Works of my city, with its warehouses scat- •	'
+tered throughout the world. So, too, could he : „-.T; reproduce the magnificent Studebaker phnt, J but the cost of reproducing these properties now . ’ .: would come far from representing either the	I
+cost or value of the present property, even in ; y a depreciated condition; the replacement : cost of the various machines represents but-a .. Nty small portion of the development cost and the . Tri bringing of their methods to the present state . J 7 J - ■	-ty Tn
+'	•	~	- T Tn;n
+542	' THE NOTRE DAME SCHOLASTIC
+of perfection. In addition to this development cost there is an element of value connected with the existing property not measurable in dollars. It represents the accumulated energy of, perhaps, several generations of the brightest minds that could be put together with all their hopes, fears and ambitions. The same is true of the value of our great banks, our great newspapers, or any of the great institutions that go to make up this great and prosperous nation—the value of none of them can ever be represented by an estimate of the replacement cost of their present tangible or physical property. How some thinking men can recognize this value in their own private business, but fail to recognize it in a great utility, how they reason that the man who buys a. corner lot and sits idly by while the community grows, is entitled to the unearned increment, while the utility which may have done more than any other industry to build up the territory, is not entitled to unearned increment, is beyond my understanding.
+Elaborate tables have been developed for arriving at depreciation; some engineers in appraising property have even accepted these theoretical curves and applied them in appraisement work, with much unfairness to the owners thereof. True, it may be that in some instances where property has not been maintained in good operating condition a depreciated value should be considered in arriving at the value of a property, but this must be weighed very carefully by the engineer in charge of the work. Age without due consideration of maintenance is absolutely no criterion of'condition or value of 'property. Very often an old operating property may be worth more than a new property. It would be eminently unfair, for example, to depreciate the replacement cost of the Oliver or Studebaker plants and assume' that such depreciated value was the true value. The situation, may, perhaps, be illustrated by the comparison of two railroads. Let us assume that one railroad has been in operation for a quarter of a century; the road-bed and track, bridges and stations have been maintained in a first-class operating condition and their entire equipment has been kept abreast of the times. The second railroad is constructed parallel with the original railroad, identical in- every particular, as near as engineering talent can construct same. - Were one to have the ‘option, of purchasing either of these rail-’
+roads at the same price, both of them having absolutely the same business, there is no question but that an experienced railroad man would select the old road, for the reason that he would of absolute knowledge know that the foundations of the bridges of the old road-were ample and secure, that the cuts were properly drained, that the embankments were entirely settled, that the curves were properly super-elevated, that the signals were in perfect operating condition, that the switches were properly adjusted, that defective rails have been removed, that the entire equipment had been tried out by the test of actual operating experience, and that the operating organization was experienced. With the new road all of the above conditions are unknown except
+. that it is a moral certainty that embankments will settle, rails breaks signals fail to operate, wrecks occur, men prove to be incompetent, and many changes have to be made in the operating force. So, too, a modern con- -structed. hydraulic plant of - some years’ life, which has been properly maintained and has withstood the punishment of severe floods, . is worth more than a new property whose stability may be questioned. The same comparison can be made between almost any new property and an old property properly maintained. If the above mentioned new railroad can be considered to be in one hundred per cent operating condition, then it is certainly fair to assume that the old road may be, perhaps, in one hundred twenty-fiv.e per cent operating condition. The comparison of such properties is not unlike the comparison of men; the experienced man who has been tried and found true ’ is worth more than the new and untried one.
+Many of you, young men; may be employed on appraisal work, of which there is now so much being done, and I want to caution you . to fully appreciate—the responsibility you will assume, for, not only are the savings of a lifetime of many men at stake, but great political principles are on trial, and you must analyze carefully all the elements that have gone into building up the property being appraised.
+The building of most great utilities has been an evolution, and many costs that will be found unnecessary in replacing the existing property were, absolutely necessary in building up the property and business as it now exists. The development of the old property required engineering talent , and business ability of the
+THE NOTRE DA.
+highest order and. a daring of capital that is always necessary in developing new enterprises, or the natural resources of country that are not necessary in replacing existing property.
+- Undoubtedly many abuses exist in our corporate management. I hold a brief for no corporation. In fact I am heartily in sympathy with many of the laws regulating them, but on the other hand, investors of many corporations have never received the financial reward to which they were justly entitled commensurate with the risk they have assumed, and these men should be given the consideration which men in other lines of endeavor are enjoying.
+Much of the existing ill - feeling against corporations to-day is based not upon facts, but upon prejudice, hatred and envy; having for their foundation, the “dollar a line” muckraking article of the past, and the eloquent, political demagogue’s appeal to the thoughtless.
+• We preach doctrines we know to be false so as to get the applause of the crowd. We go from one extreme to another. We worship a man one day and crucify him the. next. We vote subsidies to the new* enterprise one year and the next year we endeavor to confiscate the property.
+It must be remembered that the. natural resources of this country are far from being developed and that a too strict rule or too strict decisions of our commissions will scon result in the strangulation of utility enterprises. We still have mines to develop, water to conserve, power to develop, rivers to control, arid lands to irrigate, travel to improve, commerce to expand,. goods to manufacture, merchandise to market, sanitary conditions to improve and other things innumerable, which require the talents of the business man, the ability of the engineer, the investment of capital and the savings of the thrifty,—and unless fairness ;and justice be accorded all, the only solution will be the development of these resources and expansion of our business by the federal and state government through the usual slow processes with the political executive, and the young man to-day will have to look forward not to owning a property of his own, not to the management of a corporation based upon his ability or training to manage the same, but rather to his employment by the state and the government, and this position and term ’ of employment depending upon his political influence rather than his ability. '	.
+I believe in ambition and initiative and that,
+ME SCHOLASTIC	543
+generally speaking, a man gets that to which he is entitled. It may be that in the future the. people may be convinced that our government is capable of handling the many things that are now entrusted to private capital, and that the result, not measured in dollars alone, will be more beneficial to the nation than under the present system, but when that time comes the rewards should be based upon ability and training for that particular work rather than for political work. But few ambitious .young men voluntarily engage' in municipal, state or federal service to-day anticipating that their ability may in time put them at the head of the department in which they enter, or expecting that their continued service depends upon their ability; whereas those entering private or corporation work expect to be reimbursed for exactly those traits which are not appreciated or recognized in public work.
+If the theory of our education be true, that the college educated man has an advantage over a man educated in the school of experience, as some contend; if you men who are supposed to have been trained to analyze, reason and think during your college career, go out into the world’ and fail to be leaders in the community in which you move, and neglect to use your influence for good, fairness and justice, then the usefulness of a college education may be questioned. I believe, however, that, generally speaking, a college man lives up to that which is expected of him, and that when he goes out into the world he does apply the same principles of reasoning that he has been taught to apply in his college work, that he is not easily swayed by the emotional orator with high-sounding words and pretty phrases, by the muck-raker or the cheap politician, who hopes to elevate himself at the expense of the ambitious, and thrifty. ■
+If I could leave but one thought with you to-day, it would .be that when you leave this university as young engineers who are supposed to have been trained to reason and think, that you should appreciate your position and . that which is expected of you, that you continue not only to reason and think, but to assert yourselves by. exercising your power of speech, for, however much you. may know, you influence others but little unless you have the ability to express yourself, for words properly chosen, and forcibly expressed often convey strong impressions, and with this ability never refuse to fight for that which you believe right.
+THE NOTRE DAME SCHOLASTIC
+544
+Faith.
+j GLIMPSED my mother’s face upon The mirror of the May:
+Her flush the fragile pink of dawn,
+Her eyes the hue of day.
+Her laughter stirred the lisping sea,
+Her tears perfumed the dew,
+Methought her touch had greened the lea And clothed the gnarled yew.
+The thrush her loving carol crooned,
+The lark her sympathy:—
+If she all nature’s heart had tuned
+Perchance she’d caressed me?
+Cloten.
+BY RAY HUMPHREYS.
+Cloten is probably the strangest of all Shakespeare’s fools. He possesses and exhibits qualities and characteristics which in themselves are contradictory and radically inconsistent. At one moment he is a sordid, evident fool, and the next instant, perhaps, he is the personified antithesis of a fool. Essentially his make-up is extremely difficult to fathom, and his character is, at most, rather indefinite and certainly very'- obscure. .
+There has been some doubt expressed by certain Shakespearian scholars and critics as to just what Shakespeare intended Cloten to represent. Some do not hesitate to brand the character a plain, unvarnished, garden variety of fool, while others, going deeper into the matter perhaps, are at a loss just' what to term the luckless Cloten. Several writers have put forth the opinion that Cloten was a rational man, but overshadowed and overawed by the more important character of his mother, the Queen. This, however, appears to be a fallacy . easily disproved by the 'text. There is no reason to believe that Cloten was conceived to merit more esteem than he is actually accorded, or to be regarded as anything more dignified than a typical princely shallow-pate.
+True, Cloten appears to undergo a rather radical change during the progress of. the play. In the first portion of the action none can doubt but that he is a mere fool. His first appearance on the stage so interprets him, while by judging his language from the very start we can readily
+
+assume that all is not right above. Not only does he appear senseless and brainless, but he also carries the role of a bully and a vain ! boaster. In a word, he seems the official dunce of the plot, and plays his cues in that direction exceedingly well. Ignorant, foppish, and pampered, he creates a true picture of a royal numbskull and arrogant knave. Although probably = not openly vicious or criminally inclined, he is, nevertheless, constantly revealing in all I his actions and in all his words, his culpable £ nature. Fired with- an idiotic recklessness he evidently is a strong believer in the divine right of kings, and ever demands all the respect he deems his due. From the first his diluted speeches and deluded ideas form a remarkable record of brazen officiousness, and the tumult of his irrational outbursts not only amuse by their very frivolousness, but also rapidly disgust by the very element of their inherent awkwardness.
+Who can reasonably uphold the sanity of a	|
+fellow who struts upon the stage continually	I
+belittling others and vaunting his own attri- \ butes skyhigh; who boasts of breaking another’s ’ pate because the other interfered .with his lordship’s profanity;. who fears to look upon inferiors without deteriorating?' Hence there seems to be no question but that Cloten is actually what one of his lords so appropriately says of him: “You are a fool granted.’’ Thus is Cloten delineated in the play, and it appears clearly enough that this was Shakespeare’s i ' personal idea of him.	i
+But strange to say, Cloten does not remain .	<
+a fool. He metamorphosizes into a semblance	|
+of a genuine human. This, rather remarkable	i
+fact has been explained as a result of Shakes-	1
+peare losing his original concept of the char-	|
+acter, and patching it up as well as he could	|
+when he finally wrote the concluding scenes.	I
+It seems true that Cymbeline lay uncompleted	|
+for a long period. This probably effected the	|
+change we note in Cloten, although none of the	I
+other characters in the play appear to deviate	I
+from their original paths. In the case of the	I
+esteemed fool, however, he seems to resurrect	I
+his manliness from the dust and reveals a portion	I
+of his character quite inconsistent with that ‘ which went before. His mind seems suddenly to strengthen itself. His vision grows remarkably clear and rational. His speech drops the eternal ego., and becomes tinged with wisdom and /truth. No longer does he ’ fit so snugly into -
+THEf NOTRE DAME SCHOLASTIC
+the quiet niche of the dunce,—he has rather outgrown it, and his part thereupon develops into more of a tragedy than a laugh. ■
+In the famous encounter between Cloten and Guiderius, the former’s better self is brought out to advantage. No longer does he mince words or bestow vain praise upon himself, but determinedly endeavors to slay the mountaineer. That he didn’t do so, was not because he lacked the bravery, but rather the skill and knack of combat. His actions become sane in these last moments, as if a light of reason had suddenly developed upon him, effectively cleaving from him both his ignorance and his capriciousness. In a word, he assumes a new manhood, but in so doing seals his fate. For had he remained the capital fool he started out to be, he most likely would have thwarted death by running from it, instead of bravely facing it.
+, Briefly, Cloten is one of Shakespeare’s greatest examples of fool characterization, for it is a character in which the emotions and passions are so carefully weighed and so minutely mixed as to baffle all critical analyzation and interpretation.
+The Cabin of Pierre Navarre.
+BY ROBERT H. SWINTZ.
+If you should be in South Bend, Indiana, and should happen to stroll down to Leeper Park, along the river bank, you would find an old log cabin. On peering in through the windows you would discover that the cabin contained but one room and that a large stone fireplace occupied one end of it. Although the windows are very dirty and the glass broken in some places, you can tell that they have been built recently and did not belong to the cabin in its original condition.
+You imagine the old log cabin to be situated in a wilderness instead of in a modern park. You see a beautiful young wife sitting in the doorway spinning, while her strong, sunburned husband comes up from tlie river with a gun over his shoulder. You-hear the call of the wild animals and watch the Indians glide down the river in their canoes.
+You begin to wonder who it was that built and lived in the old cabin and how long it has stood, overlooking the St. Joseph. Perhaps
+you become interested enough to enquire about it, and you will find out that way back in 1820 a Frenchman by the name of Pierre Frangois Navarre came up the St. Joseph River from Michigan to take a fur trading station at the village of South Bend. He was agent for the American Fur Company, and was sent here to trade with the Pottawatomie Indians who had a village just north of town.
+Navarre landed on the north bank of the river, about where the Michigan Street bridge is now located, and started at once to put up a log cabin. Pie cut the logs himself and, with the aid of one or two Indians, constructed the building somewhere in the vicinity of what is now known as Navarre Place. This rude log cabin, then, which you are wondering about, was the first trading station in St. Joseph County.
+Although the old affair has only one room, it had to serve the fur trader both as office and home. Many a night Navarre had to sleep on a big pile of furs with a gun in his hand to keep the Indians from stealing them. He knew that something would have to be done to gain their friendship, so he married a fair maiden from the Pottawatomies and brought her to live in the cabin with him. They lived very happily together and six children were bom to them. Nearly a hundred years ago the little fellows played with their bows and arrows around the very doorstep that you are standing on. It is believed bv manv that their descend- * ants are now living in Indiana and Southern Michigan, although no one has taken the ■ trouble to prove their family tree.
+The exact date of Pierre Navarre’s death is not known, but it is known that he died in the old log cabin and was buried some place near Cedar Grove Cemetery, Notre Dame, -and his body still rests there. For several years after the death of Navarre, the cabin was used as a stable for a team of mules; but when the land, north of the river was purchased for building purposes, the old trading post was rather dilapidated and became a nuisance, so the proprietors sold it to the Northern Indiana Historical Society. They moved it across ' the river to its present location in Leeper Park, where they fixed it up as it is seen to-day.
+As you look at the old roughly hewn logs, then, remember that without a doubt many of them were put into place by Navarre himself and that many of the wooden pegs were driven by him ninety-five years ago.
+54$
+THE NOTRE DAME SCHOLASTIC
+The Notre Dame Scholastic
+Entered as Second-Class Mail Matter
+Published every Saturday during the School Tenn at the University of Notre Dame '
+Terms: $1.50 per Annum. Postpaid
+Address: The Editor Notre Dame Scholastic
+Notre Dame, Indiana
+XLVHI.	MAY 29, 1915. NO. 33
+Board of Editors.
+ARTHUR HAYES, ’15
+CLOVIS SMITH, ’15
+TIMOTHY GALVIN, ’l6
+SPEER STRAHAN ’17
+LOUIS KEIEER, ’16
+JOHN R I L E Y, ’17
+DELMAR EDMONDSON, ’17
+E U G EN E MCBRIDE, ’15
+GEORGE SCHUSTER ’15
+MARK DUNCAN, ’ 15
+ANDREW MCDONOUGH, ’17
+EMMETT G. LENIHAN, ’l6
+RAYMOND HUMPHREYS, ’16
+—Soldiers’ reunion used to be a pompous affair. Long files of jovial old fellows could be heard singing and. jesting as they marched by with, the firm tread that Under the Sod only battle can teach. Each and the Dew. Memorial Day was a time -	bf feasting, of pride, and of
+manlj’ sorrow. And. now, a carriage rolls by in which there sits a solitary, gray-headed, thin old man, from whose limbs the cadence of tramping and from whose heart the melody of battle has gone forever. Rusty stacks of queer, antiquated muskets cluster in our
+in Gray who gave their lives, each one of them, that liberty and justice should be accorded an everlasting triumph? Surely we shall. For though the great armies have passed unto the ranks of the "unknown dead," though the headstones in our graveyards will once have been broken down,, the Army itself will live because it is not matter, but eternal spirit. There are Lincoln and Lee, and Grant and Jackson: somehow the ghosts of these immortals have clothed themselves with the glorv of the rank and file. We. cannot think of them without a vision of the civil war, we cannot picture that war without a thought of our Army and its glorious sacrifice; we cannot think of that without Memorial Day.
+—Already it has become a common query "When will the Dome be out?” The sadly harassed Editors say that they Anent the hope it will flutter into view in Dome. a week or two. So other editors have murmured in years gone by, and so this year’s Dome men are saying. None save the printer ever knows exactly. But the Dome generally appears the first week in June. We have the Editors’ assurance that it will do likewise this year. Then the long, winding lines will form, and slowly wend their struggling way toward the door or window where the perspiring business manager and his assistants are checking oil long typewritten lists. Then the subscribers ’ will repair en masse . to the nearest shade for the first perusal. There will
+- be the critical chap who could do a lot better on shorter notice—he being that same shallow -pate who has to date done nothing at any notice—and.then there will be the larger number who will remember that Dome making is slow, hard'-work. These will take into consideration the fact that for every page, for every picture, for every drawing, for every printed line, for every cent expended, some member of the Board has labored and given his best. They will probably realize that fen months of continuous work is rather tedious, they will perhaps consider that they themselves have been none too willing to .co-operate with the Dome builders—even to the extent of going down to MacDonald’s, for pictures—and they will be more willing -to extol the book’s merits than condemn its defects. Theirs is the right attitude. The annual advent of the Dome has become 1 ah . accepted tradition at Notre
+museums, whose memory of human blood seems to have vanished. Trampled old banners stand with their blood stains upon them,. drooping with the weariness "of age. All that remains of them now are the little flags- that float over the graves of the dead and forgotten. The glory , of martial things has drifted sadly and slowly away. It is the way. of all flesh. Fifty years ago there was no Memorial Day; will there be one fifty years hence? Let us look about us. New problems have arisen which give; promise of a menace equal to the old
+. storm of slavery. On al! sides men are chal-. - lenging the old order, everywhere the seeds of revolution are being sown. All the nations of the earth live to-day in a state of bloody turmoil.. Our time of trial will come too, and ’ perhaps it will be soon.. -When we have sung - - new battle songs and learned new hates, will we .
+ever think of the. Boys in Blue: and. the Boys
+THE NOTRE DAME SCHOLASTIC	547
+Dame. The rank and file sign the subscription was a prelate of gracious manners and infinite
+blanks, and have no further concern but to sit :	down .and wait; but ten or twelve men during
+all the months intervening have been working :	every day, often into the small hours of the
+| next morning. Out of nothing but the responsi-| bility and the treasurer’s orders, they have I builded a book. They have had to make the, । same routine different. They have had to do j the same work in a manner that must not smack of “sameness.” They have had to personally interview—often several times—each one of two or three hundred individuals. They have labored with portraits, groups, write-ups, and \	the thousand and one different things that
+|	" go to make up a Dome. They have had to
+i	keep up in their classes while so doing, they have
+I	striven with no other or more substantial
+|	incentive, than the approval of the students.
+|	They have given freely of time they could
+•|	ill afford to spare, and the result of all this
+I	effort will soon be in o'ur hands. The 1915
+j	Dome Board will have completed their task.
+|	Let us hope then that their results will be
+I	appreciated, and that this annual June event—
+I	the issuing of the Dome—will at least witness
+t	no increase in the two different species of N. D.
+|	pests—the never sweat who could have done
+|	vastly better, and the near-findneier who uses
+I	his folks wherewithal to purchase a Dome
+that they might like to see, and which he proceeds to sacrifice the next week for “six bits.”
+Obituary. .
+■ THE RIGHT REV.-CHARLES II. COLTON, D. D.,
+’	. BISHOP OF .BUFFALO. .
+With extreme regret we chronicle the death of Bishop Colton of Buffalo. A man of profound spirituality and great virtue, of beautiful character and large achievement, his career as priest and bishop has been a benediction - to the Church in the United States. May he rest in peace-
+THE RIGHT REV. CAMILLUS P. MAES, D. D.,
+BISHOP OF COVINGTON.
+The Church in this country lost a great prelate in the death of Bishop Maes. His strong native powers were admirably developed . by training in the best schools of Europe. His zeal was unbounded and his activities extended far beyond the limits of . his own diocese. He
+tact. In him the University7 mourns a devoted friend. R. I. P:	'
+MRS. MURPHY.
+We regret to announce the death of Mrs-. Murphy, mother of Clarence Hartnett Murphy, of Walsh Hall, who died recently7 at her home. Mrs. Murphy was the ideal type of Christian mother , and was respected and loved in her community. R. I. P.	.
+Personals.
+—Mr. Stephen Herr (C. E-, To) visited the University during the week and met many of his old friends.
+—Keene Fitzpatrick (Student To-’ii) has been recently elected manager of athletics at Santa Clara College in California.
+—From Hartford, - .Connecticut, comes the announcement of the engagement of Richard V. Blake to Miss Josephine Flynn, one of the most popular young women .of Hartford’s society. “Dick” is a graduate of the Class of. ’13 and is another Notre Dame man who is making good in the legal profession. His law offices are located ht • 739, Connecticut Mutual Building, Hartford, Connecticut.
+—Reverend Michael Lee Moriarty (Litt. B., To) will be ordained to the holy priesthood at St. John’s Cathedral,. Cleveland, Ohio, on Saturday, May twenty-ninth. He will celebrate his first holy Mass in St. Joseph’s Church, Ashtabula, Ohio, the next day.	-
+Father Moriarty is one of the best-known, and best-loved men of the modem period. A man of high character, fine mind and considerable athletic ability, he made a splendid record during his college years. He brings to the work of the priesthood rare qualifications, and we prophesy for him a large measure of success. We congratulate him upon the fulfillment of the dream of his life. -------------------------------------------- - -
+Local News.
+—Position Wanted—See Senior Class.
+—It looked like an automobile show on the. campus Tuesday afternoon. Lizzie was among the cars .most admired.	’
+—The Senior .Examinations will be held next Friday and Saturday, the fourth and fifth . of June. The last milestone.	. - !
+THE NOTRE DAME SCHOLASTIC
+54-8
+—The Germans invaded Notre Dame Tuesday afternoon. No killed or wounded reported by either side. (Has anybody seen “Louie?”)
+—Mr. Charles Somers is brushing up on the legal lore of his native state, preparatory to taking the State Bar examinations at Columbus on June first.
+—The setting up of the eight-inch shell from the “Maine” caused quite a stir last Saturday afternoon. Several essayed to “give ’er a lift” without results.
+—The Civil Engineers left Wednesday for the Notre Dame summer school at San Jose Park, Lawton, - Michigan, where they will camp for several days and do some surveying.
+—Two weeks from Baccalaureate Sunday finds us sporting sweaters and yelling for steam. And to think that this time last year we were swatting June-bugs and predicting spontaneous combustion 1
+—The Junior Class Buffet Luncheon will be held at the Hotel Mishawaka on Wednesday evening, June second. All Juniors who have not straightened out their accounts are requested to see Treasurer Pralatdwski at once.
+—Two more weeks, gentle reader, and the Local Editors will cease to inflict their sad line of wit upon you, but don’t forget to purchase our last edition. It’ll be a world beater.
+5c—At all news-stands—5c.
+—On Tuesday night Bather Cavanaugh left for Chicago, where he preached the sermon at the funeral of Mr. and Mrs. Charles A. Plamondan, victims of the “Lusitania” disaster, on Wednesday morning, at the Holy Name Cathedral.
+—The Carroll Hall Company left for Lawton, Michigan, early last week for the annual encampment. Faces missed from the School as a result, are those of Captain Stogsdall, Sergeant Campbell and Father Burke. They will all return for to-day’s celebration.
+—On Thursday morning, during a drizzling rain, the Battalions ..marched to the Campus and executed their. Decoration Day program without a hitch. The program for the day will likely include a march from the Bend as escort to Secretary Daniels and an excursion to St. .Mary’s after dinner in the same capacity.
+—“‘Notre Dame Day” at the Quality Shop, held last Thursday, proved a huge success,
+for then, even the poorest of us could do more than gaze longingly at the felt and leather -creations that have -attracted us for so long.
+With the dollar and a half left we can buy that Graduation suit that made Beau Brummell jealous. - '
+—The Senior Lawyers will give a dance at the Oliver Hotel on the evening of June the nth. Attendance is limited to fifty couples. This will form the opening event of the Commencement festivities. The committee in charge i of the affair includes Rupert F. Mills, Thomas J. Hearn, Hardy F. Bush, Robert M. Byrnes, John F. Hynes, Harold D. Madden, and William J. Mooney.
+—The Sophomore Orations were	given	;
+W'ednesday afternoon in Washington	Hall.	!
+The contestants were Messrs. Mulcair,	Lyons,	I
+Henry and Voll. First place was given	to Mr.	j
+Henry. His oration dealt with the question- f of Peace. Second place was given Mr. Mulcair.	;
+The Freshman Oratorical Contest, held	I
+Tuesday afternoon in Washington Hall, was	|
+won by Mr. Matthew A. Coyle. His theme	il
+being “Catholic Honor and the Mails.” Second	I
+place, was awarded Mr. Frank Boland. •	I
+—To-day, the Military Organization dis-	I
+bands immediately after the unveiling cere-	I
+monies. Now the fellow who hasn’t attended	I
+drill over four times in his life, will brag, of the	I
+prowess of his company, and incidentally of	I
+his own.	'	•	J
+“They didn’t raise me up to be a soldier;	fl
+I came to school to fool with books and such;	||
+You slapped a heavy musket on my shoulder	II
+And sent me out to drill to beat the Dutch.	Il
+I’ve had enough of military troubles;	II
+To-day I lay my suit and gun away,	4
+And, partner, hear me say,	I
+. That after drill to-day,	y
+I never more am gona’ be a soldier.”	ri’
+—Tuesday morning, St. Edward Park at	4
+Notre Dame burst into bloom as if by magic.	4
+A myriad of pink, geraniums interspersed with	!
+plants of brightest hue was the first sight that	L
+met the eyes of all on Tuesday, and many	|
+stood amazed wondering if the whole plant	j
+body and bloom had sprung up in the night.	!
+St. Edward Park is by all odds the prettiest	p
+place at Notre Dame, and the artistic skill	p
+with which the flowers have been arranged	i
+’this year .makes it more charrning than ever. • It should be the pride of everyone to keep , I
+p
+[i
+THE NOTRE DAME SCHOLASTIC
+this beautiful spot just as it is at present, and all should refrain from carrying their games into this’ section and trampling down the flowers.	.
+—Twenty-four members of the class of 1915 of the Commercial Course, banqueted at the Oliver Hotel Monday evening, May 24.' A rousing good time was enjoyed by these business men, and toasts that would have been in order at an’assemblage of real business men were given. John Kiley presided as toastmaster, and responses were made on “President’s Review’’ by Ralph A. Reitz; “Scientific Bookkeeping,” by Robert G. McGuire; “Pep” by Emil Besten; and “ Eye Racket” by Herman Greig. Music for the occasion was furnished by Elmer Sexton. The favors were neat programs done in blue leather. Officers of the club include Bro. Cyprian, honorary president; R. A. Reitz, president; E. A. Besten, vicepresident; D. W. Kelly,* secretary; and John Kiley, treasurer.
+Athletic Notes.
+VARSITY CLOUTS THE BALL.
+After watching John Maurice Culligan display his athletic prowess in every branch of sport, after seeing his speed on the football field, his dainty grace on the tennis court and his all-round ability on the diamond, we were led to believe that St. Thomas must possess some wonderfully strong teams. A baseball team came down from St. Thomas last Saturday to disillusion us. With- Culligan in the lineup, , St. Thomas may have been strong; with Jack in our midst they proved no match for our ball-tossers.
+The Varsity surprised us almost as much as did St. Thomas. It has become almost a custom at Notre Dame that the team should go stale in the first game after the Eastern trip. With-memories of a fluke defeat at the hands of Lake Eorest in 1913, and another by Beloit last year, still fresh in our minds, we had some-fears for our team last week. The fear was increased when Coach Rockne borrowed Bergman and Mills from Coach Harper in order to more decisively whip the Aggies. But the Varsity looked anything but stale; while the playing of the substitutes was one of the features _ of the game. The consequence was that Notre Dame ran away with the contest, 11 to 2.
+“Ernie” Burke, who substituted for Mills
+549
+at first, proved the sensation of the game. The Indianapolis boy handled nine chances in big league style, stole three bases and drove out three hits for a total of six bases, Ilis speed on the bases completely upset the Minnesota team.- In the fifth inning, the little first -sacker caught the St. Thomas battery men off guard and went from second to home on a short passed ball.
+Burke was not the only star on our team. “Slim” Walsh pitched winning ball, holding the opposing sluggers to seven hits and striking out eight men. “Slim” looked fine in the early innings, but he eased up after his teammates had scored four runs. Walsh showed signs of wildness at times, but excellent support always kept him out of trouble.
+The Varsity ’was hitting in great style. Captain Duggan gave Burke a close chase for the honors by collecting three singles. “Jake” Kline, batting in the clean-up position, came through with a single and a triple, Elward drove out two singles and Lathrop and Walsh each made one hit. Carmody and Corcoran delighted the fans in the last inning by two long hits, “Mike’s” a triple and Corcoran’s a home run.’ Kenny was the only man who failed to get a hit and Joe accepted two walks. Comartin not only failed to fool the Notre Dame batters but he got himself into trouble by walking six men and making three errors.
+Both^Comartin and Corbett of the visitors looked good at the bat and Conway looked like a good ball player. The chunky second baseman got himself in bad with the crowd by.his scrappiness, but nevertheless he played good ball. The visitors are probably capable of playing a better game than they showed Saturday. At least Culligan thinks so.
+EASY VICTORY IX CHICAGO.
+The much - advertised game between St. Ignatius and Notre Dame for the “Catholic College Championship of the Middle West” was pulled off in Chicago on Monday. What- . ever claims St. Ignatius may have had to the championship were relinquished in the first inning when Notre Dame sent five runs over the plate before the side was retired. Burke, whose excellent playing on Saturday earned . him a place in the outfield on Monday, started the game by reaching first on Cunningham’s error. Hits by Duggan and Lathrop filled the. bases. Duggan was caught off second,/but
+55°
+THE NOTRE DAME SCHOLASTIC
+Burke scored on a hit by Mill?. Mills went to econd when Kerwin threw wild trying to catch him off first. Lathrop and Mills scored on Kline’s single. Kline went to second on an error and scored on a hit by Bergman. Bergman stole second and scored when'Kenny drove one through Cunningham. .
+Notre Dame did not score again until the fourth inning when Kenny tripled and came in on an infield out. Notre Dame cut loose again in the eighth. Bergman walked, Carmody singled and Kennv doubled. Walsh’s sacrifice fly, a hit batsman, an infield out and Lathrop’s single brought the total number of runs in this inning up to four. •	-
+The pitching of “Slim” Walsh was the real feature of the game. The tall twirler came back after a rest of only one day and gave about the best exhibition of pitching that a Notre Dame boxman has shown this year. “Slim’s” control was fine as he did not walk a man. * His fast ball was working well and his drop proved a puzzle to the Chicagoans. Walsh allowed only three hits and he struck out nine men. St. Ignatius scored her only run in the third when Griffin singled, scoring Krajewski, who had reached second on errors by. Carmody - and Bergman. Krajewski, by the way, is a brother of the Sorin shortstop.
+The Notre Dame team played- its usual brilliant fielding game, although Walsh disposed of so many batters himself that his • teammates had an easy day. In addition to his nine strike outs, “Slim” had four assists. Bergman made a spectacular stop which brought the crowd to its feet. Kenny led in the hitting with a triple and a double. The rest of the team divided twelve singles, Walsh being the only man who failed to get at least one hit.
+TRACK TEAM SHOWS. FORM. '	:
+The big surprise of the M. A. C. meet was the remarkable showing of the men wlio had not trained for the event. Bergman and Mills had . just come back, from the baseball trip ■ and Eichenlaub had not practised for months,' as he had resigned his captaincy and left the team because of his studies. Of course these men always, do big' things, but we hardly. - expected such a showing under the circum-. stances. “.Dutch” , pulled down io points by ,' running the-hundred in io seconds flat and the two-twenty.in 21:3-0 seconds. The. phenom.- enal time in both' events tell the story better
+than anything else. Rupe Mills won the- high jump with a leap of 5 ft., 9 in., and was not. tied by Julian .as . was reported. Eichenlaub took second in the shot and discus events; being beaten out in both by Bachman.
+Bachman as usual was the individual point winner with 15 points. He won all the -weight events with good distances in each. Bergman and Sheldon tied for second with 10 points each. “Dutch” took the dashes and Sheldon won the mile and the half.
+The meet was a complete walk-away for the Varsity as the Aggies took but four firsts and tied for one. In the mile, the Varsity suffered its worse set-back; for Waage was disqualified for pushing and the Michigan men made eight points. The two mile went to M. A.. C., 6 points to 3; but Burns put up a great fight for first place. Three men tied for first in the pole vault, and as two of them were Aggies, the points went 6 to 3.against the Varsity.
+’ The half and the low-hurdles were won by the farmers, but the gold and blue men in each ■ of these events took second and third; so only one point was lost in each event. •
+’ The rest of the events went to the Varsity; nine firsts and one tie aided by nine seconds proved the ^supremacy of the Gold and Blue. The Varsity, landed first and second in all the weight events, the hundred, the two-twenty ’ and the quarter.
+Bachman, Eichenlaub and O’Donnell handled the weight events to perfection, Bergman and ■ Hardy copped the dashes and. Welsh and Henehan won- the quarter. “Buckey” kept-up ,his good work started in the Michigan University meet when he won the quarter' on a slow track. Last Saturday he proved his former performance was not a fluke by taking his event in the good time .of 52 4-5 seconds. He was not pushed hard in this race and may be able to make still better time. ,	,
+-Kirkland won the . high - hurdles and took second in the low hurdles, giving him 8 points, and John Miller made 5 1-2 points in the jumps. He won the broad jump with 21 ft., 6 1—2 inches and tied for third in the high jump. .	‘
+Yeager 1 diet good work in the pole-vault by tying Loveland and Sargent for first honors at 11 feet;.
+Coach Rockne forfeited the relay to M. A. C., because of the big lead the Varsity had taken, making the .final , score 79 1-2 to 45 1-2..
+THE NOTRE' DAME SCHOLASTIC
+220 yard hurdles—Beatty, M. A. C., first; Kirkland, Notre Dame,- second; Shaughnessy, Notre Dame, third. Time, :25 2-5.
+100 yard dash—Bergman, Notre Dame, first; Hardy, Notre Dame, second; Brusselbach, M. A. C., third. Time, :io.
+Mile run—Sheldon, M. A. C., first; Furlong, M. A. C., second. Time, 4:36 2-5.
+440 yard dash—Walsh, Notre Dame, first; Henehan, i Notre Dame, second; Brusselbach, M. A. C., third. | Time, 152 4-5.
+120 yard hurdles—Kirkland, Notre Dame, first;
+! ’ Beatty, M. A. C., second; Shaughnessy, Notre Dame, [ third. Time, :x6 1—5.
+|	Two mile run—Barnett, M. A. C., first; Burns,
+i Notre Dame, second; Herr, M. A. C., third. Time, i 10:16.
+;	220 yard dash—Bergman, Notre Dame, first;
+[	Hardy, Notre Dame,. second; Peppard, M. A. C.,
+third. Time, :2i 3-5.
+• SSo yard dash—Sheldon, M. A. C., first; McDonough, Notre Dame, second; Voelkers, Notre'Dame,' third. Time, 2:00 2—5.
+16 pound shot put—Bachman, Notre Dame, first;
+; Eichenlaub, Notre Dame, second; Blaklock, M. A. C., \ third. Distance, 42 ft., 8 in.
+i-	Pole vault—Loveland and Sargent, M. A. C.,
+i and Yeager, Notre Dame, tied for first. Height, ri ft. [	Running broad jump—Miller, Notre Dame, first;
+Beatty, M. A. C., second; Martin, Notre Dame, third. Distance, 21 ft., 6 1-2 in.
+Discus throw—Bachman, Notre Dame, first; Eichenlaub, Notre Dame, second; Blue, M. A. C., third. Distance, 130 ft.
+j	Running high jump—Mills, Notre Dame, first;
+Julian, M. A. C., second; Loveland, M. A. C., and Miller, Notre Dame, tied for third. Height, 5 ft., 9 in.
+Sixteen pound hammer throw—Bachman, Notre Dame, first; O’Donnell, Notre Dame, second; Blaklock, M. A. C., third. Distance, 149 feet.
+One mile relay—Notre Dame forfeited to M. A. C.
+Total—Notre Dame, 78 1-2; M. A. C., 51 1—2.
+interhall. OUTDOOR TRACK MEET.
+The Interhall Outdoor Track Meet for 1915 i	was held Wednesday, May 12th. The affair
+'	was won by Brownson with a score of 61 points,
+her nearest rival being Corby,- with 47 tallies.
+. The other three Halls came through with ten points each to their credit.
+As a result of this victory Brownson carried off the Studebaker Cup, the possession of which is the object of annual competition. During the past year it has served to ornament the Sorin parlors.
+Although the two leading Halls gained five ' firsts apiece, the winning team succeeded in placing more men than the next strongest ‘ contender. Walsh, St. Joseph and Sorin each captured one primal position in the high hurdles, the broad jump, and the half mile, re
+spectively. Hayes and Fitzgerald, both of Corby, won two palms apiece for their Hall Call and Coyle again led all others in the mile: .
+100 yard dash—Hayes, Corby, first; Keenan, Brownson, second; King, Corby, third; Lockard, Brownson, fourth. Time, :io 3-5.
+220 yard dash—Hayes, Corby, first; Barry and Keenan, Brownson, tied for second; Rosenberg. Brownson, third. Time, 124.
+440 yard dash—Ryan, Corby, first; Spalding, Brownson, second; Baujan, Corby, third; Sackley, Corbjr, fourth. Time, 156 1-5.
+886 yard run—Hanan, Sorin, first; Logan, Corby, second; Connor, Brownson, third; Flynn, Brownson, fourth. Time, 2:12 3-5.
+Mile run—Call, Brownson, first; Coyle, St. Joseph, second; Reynolds, St. Joseph, third; Murray, St. Joseph, fourth. Time, 4:50 3-5.
+120 high hurdles—Starrett, Walsh, first; Nollman, Brownson, second; Fritch, Brownson, third; Time. :x7 2-5.
+220 low hurdles—-Fritch, Brownson, first; Starrett, Walsh, second; Stallkamp, Corby, third; McKenna, Brownson,, fourth. Time, :2S 2-5.
+High jump—Conrad and Nollman, Brownson, tied for first; King, Corby; Gibson and Clerkin, . Brownson, tied for second. Height, 5 ft., 2 in.
+Pole vault—McKenna, Browmson; King, Corby, tied for first; Lynch, Brownson, second; Dee, Walsh, third. Height, 10 ft.
+Broad jump—Freund, St. Joseph, first; Conrad. Brownson, second; Fritch, Brownson, third; King, Corby, fourth. Distance, 20 ft., 3 in.
+Shot put—Fitzgerald, Corby, first; Franz, Sorin, second; Malone, Brownson, third; Nollman. Brownson, fourth. Distance, 37 ft., 6 in.
+Discus throw—Fitzgerald, Corby, first; Jones, Corby, second; Cofall, Sorin, third; Soldani, Walsh, fourth. Distance, 112 ft., 10 in.
+Half-mile relay—Brownson (Lockard, Spalding, Keenan, Barry), first; Corby (Sackley, Ryan, Hayes, ' King), second. Time, .1:39.
+CORBY VS. SORIN.
+Like a dog in the manger, unable to win the championship herself, Corby lessened Sorin’s chances by treating them to a mess of nice, fresh goose-eggs. True to the example set her by such Varsity men as Kenny, Bergman, and Wells, Father Finnegan’s Hall surprised the over-confident Graduates, and sent them home dripping with kalsomine..
+Corby came within an ace of scoring in both the first and second innings, and really’turned the trick in the third. Amidst the enthusiastic groans of the Sorin fans, Bachman, Dorais, and Fitzgerald .filled the bases on two passes and an assault. Hyland next came across with an infield tap, and Bachman reached home on a passed ball. Then while “Fitz” kept
+552
+THE NOTRE DAME SCHOLASTIC
+the horse-hide occupied between second and third, Dorais sauntered to the plate. Another passed ball soon gave Fitzgerald leave to join him there. In the eighth with two out and two on, Baujan doubled. The game was called during the first half of the ninth.
+Murphy showed the' Super-Students how poor they are at guessing riddles, having thirteen strike-outs to his credit and one scratch hit against him.
+Sorin oooooooo — o 13 Corby .00300002 — 573 Batteries: Finegan and O’Donnell. Murphy Myers and Shea. Umpire—Bergman.
+BROWNSON VS. ST. FLORIAN.
+The St. Florian game was little more than good practice for Brownson’s pitchers, Lynch. Lockard,- and Ogle, each taking his turn on the mound. The outcome was 11 to 1.
+----- ♦ > ----------
+Safety Valve.
+SUGGESTIONS FOR CLASS POEMS.
+• One of the most frequent mistakes made in writing class poems is changing the point of view. If you start out, "standing on the threshold,” which by the way is an altogether original figure, keep on the threshold all through the poem. The following poem is an example of a perfect class poem:
+Dear Alma Mater, we thy loyal sons
+Are standing at the threshold of thy gate;
+We’ve downed our hash and buttered our last buns And now we wonder what shall be our fate.
+The waves dash hard against our little bark, But she is painted shining gold and blue,
+And softly doth she glide through Leeper Park Bearing her adamantine crowing crew.
+The stony road doth bruise our weary feet,
+. As through the. desert sands we daily plough, Breasting the whirling snow and icy sleet,
+With strips of laurel streaming from our brow. ’ ***
+- The following is an example of the sad kind of class poem. It has to be done very delicately to be effective:
+Partings are always sad, but on this day
+Our hearts are overflowed with salty tears, .Because we’ve got to pack and go away
+. Into the tumbling torrent of the years.
+. There may be joy in other hearts to-day,
+But there is not in ours the faintest gleam We’re going out into the twilight gray .
+And eyes of graduates must stream and stream. .
+We kneel and kiss the campus where we played,
+- . We kiss the class room, desk and all our books,
+. We.kiss the tennis courts, and unafraid
+We kiss our teacher dear, despite his looks.
+‘ Continue kissing for three stanzas and end in sobs.
+Dear Fditor:—-
+Why is it that a toothache usually starts at nigh! when a man can’t get to a dentist. Why doesn’t it start in the daytime? F. Kirkland.
+We don’t know, but we’re willing to bite. Why is it, you?
+*** -
+The Notre Dame students are inquiring for the Saint Mary’s Girl who, when playing one of the roles in Faustiila, declared that she wanted a box of shells and twelve kisses.-—No, the students haven’t any sea shells.
+***
+There are no shoes on last year’s feet, No hair on last year’s head,
+■ There is no sheep for last year’s bleat,
+No dough in last year’s bread.	,
+There is no look in last year’s eyes,
+No hear in last year’s ears,
+There are no lungs for last year’s cries,	■
+’ No cheeks for last year’s tears.
+It often happens that when a fellow takes a long time to dress before going to see her; when he manicures his nails, puts time on his hair and has everything' about him shining, he never realizes until he is in the presence of her and her family that he forgot to put a handkerchief in his pocket. Why is it that, as soon as he is sure of the fact, he gets a sneezing fit.— Neither do we know.
+***
+And the student who goes up to the President’s office with a fake telegram and hears the President ask for long distance on the telephone, feels about as comfortable as the dad who' invites the crowd into a restaurant and orders the "eats” only to find he has left his money in his old clothes.
+The Dunkards decided at their general council ' that none of their community might own an automobile. Can it be possible that the Dunkards are in partnership with Ford and are endeavoring to ruin the automobile business?	'
+' *** -
+There was a yqung girl from Decatre Who went to sing in a Theatre,
+. When the poor little thing Made an effort to sing
+She was hit with a big, ripe tomatre.
+.	'	Harold Delaney.
+_ - ***
+Bryan, we understand, considers the attempt to sink the Nebraska as a personal slap at him, and yet Nebraska has sunk him in many a presidential election.	•	. J	.
+• And isn’t it queer that a student who has been a chronic kicker, who has spent four years knocking professors, prefects, meals, etc., suddenly changes when delivering a graduation speech and tells about the' deep affection he has for the school, about the '■unselfish devotion of his teachers and about his own undying loyalty.—What’s he mean? ’

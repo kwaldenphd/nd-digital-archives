@@ -1,0 +1,522 @@
+﻿57°
+AOTRE DAME SCHOLASTIC.
+Wireless Telegraphy.
+BY JEROME J. GREEN, M. E.
+0 send messages without a wire r	connecting the sending and receiv-
+ing stations seems to be almost OK) beyond belief, but it is now a matter of fact, as was demonstrated when Mr. Marconi succeeded in sending a message across the English Channel, a distance of thirty-two miles.
+The. apparatus for demonstrating the effectiveness of the system of telegraphing is comparatively simple. In the experiments recently conducted at Notre Dame University all the essentials of the sending and receiving stations were taken from our regular laboratory equipment, or were constructed in our workshops.
+It has been known for a number of years that electric waves are sent from a conductor when this conductor is rapidly charged and discharged in such a way as to make a series of very sudden disturbances in the ether about the conductor. The waves are said to be propagated in the ether with about the velocity of light, but their lengths are far greater than the length of light waves, and depend on the character of the spark produced, at the discharging terminals. These terminals ' are always in the form of spheres of various sizes, from one to five inches in diameter.
+The ether, surrounding a conductor is made tense (strained), when it is quickly charged to a high potential; then when the discharge takes place, the ether resumes its normal condition. The process of charging the conductor acts z on the surrounding ether in a manner similar to what takes place in water when a stone is dropped into it—there is a splash which causes waves to go out in every, direction.; Charging and discharging a conductor may be said to make a splash in the ether which produces electric waves, and these .waves carry the impulses from the sending to the receiving station in the Marconi system of telegraphy.
+The essential parts of the sending-station are an induction-coil, capable of giving a stream of sparks from; one to ten or more ~ inches in length, a suitable battery or other . source of low tension current; to operate the coil, and an oscillator, or a long vertical wire < suspended so as to be well insulated at every point. The coils used tojproduce X-rays are well fitted for wireless telegraph work. .
+The oscillator is a, combination of large and small spheres having some electrical “ capacity” and so mounted that a spark from the induction-coil may be sent between two large spheres, which are separated by a small space filled with oil or vaseline. The waves sent out from this apparatus may be reflected or refracted like the beam of a search-light. This form of oscillator works well for short distances. The long vertical wire, sometimes ending in a metal sphere at its upper end, appears to enable us to send the waves much greater distances. With this apparatus Marconi succeeded in telegraphing across the English Channel.
+The receiving-station must have a similar vertical wire, its lower end being connected ’ through the coherer to the ground. A sensitive telegraph-relay (suitably connected to the coherer) and a sounder complete the outfit at the receiving-station. -
+The coherer is the essential part of the receiving apparatus. It consists of a small glass tube with metal plugs fitted into its ends. The space between the plugs is filled with metallic filings. Aluminum, nickel, or silver, or mixtures of these metals, give the best results, as far as is known* at present. The mass of. metal in this finely-divided state has the strange property.of:lowering its own resistance when the electric waves are made to act upon it.
+The coherer is put into a circuit with a small dry battery of one or two cells and a high resistance-relay. When the coherer is in its normal condition its resistance^is very high, practically an open circuit; but when the waves act upon it ~the resistance instantly falls to a few ohms. In one trial with our apparatus the normal resistance was about 1,500,000 ohms; after the action of the waves the. resistance- measured only.7'45 ohms.
+The coherer performs the office of the Morse key in the ordinary telegraph system, but it is located at the receiving-station instead of at the sending-station, as in the ordinary system. Our first experiments were made by members of our laboratory class as part of the regular laboratory work. The responses were very distinct when the sending- station and the receiving-station were in adjoining rooms, even with doors closed. Trials were then made to more distant rooms, then to the nearest building. Each, time some defect was remedied and new conditions arranged, such as increasing height of the vertical wire, etc:	‘
+NOTRE DAME SCHOLASTIC.
+571
+
+The greatest distance reached with our first hastily constructed apparatus was about half a mile. The sending-station was then in a three-story building, with the vertical wire extending no higher than the roof. At the receiving-station the vertical wire was suspended from the roof of another three-story building. The impulses operated the sounder very unmistakably, in spite of the fact that many high trees and a large brick church, higher than either the sending or receiving wires, were located on a direct line between the two stations.	‘	.
+A more sensitive relay was then added to the receiving outfit; then the distance was increased to three-fourths of a mile. Finally, with the vertical wire of the sending-station hoisted to the top of a one hundred and thirty-five foot flag-pole, and the wire at the receiving-station suspended from the clocktower of St. Mary’s Academy, distant about one and one-half miles, the dots and dashes were easily produced. At another trial with the sending-station in the same place and the receiving-station at the water-tower in South Bend, about two miles distant, the signals were received. The signals here were fainter,- perhaps for the same reason that the Eiffel Tower in Paris, while if was excellent as a sendingstation proved unsatisfactory as a receivingstation. The reason for this failure in Paris, as stated by the experimenter, Ducretet, was • that the mass of iron in the tower interfered with the reception of the waves.
+To learn what would be the influence of high overrode the discretion of his friends, they
+steel buildings and overhead wires-on this method of transmitting messages, the apparatus was taken to Chicago and tried between the Polk Street railway station and the Tribune office, a distance, of about three-fourths of a mile. A perfect network of wires of all sorts extended in every direction across the narrow •
+street, between the sending and receiving wires. The impulses failed to operate the sounder, - perhaps because the waves were intercepted or absorbed by the wires mentioned above. Another trial a few days later, with everything, more carefully arranged, also resulted in failure. The signals were sent and
+received, however, along the same- street, a
+distance of about one thousand feet, but the	_	_
+upper ends of the sending and receiving-wires Europe. The impetuosity of his attack on the . in this experiment extended above the tele- Gas Company had rebounded on himself. He
+to a tug out in the lake showed that the distance to which signals can be sent is much greater where no obstruction lies between the. sending and receiving-station. Words by the dots and dashes were received in this case at a distance of more than a mile and a half from the life-saving station.	‘
+Many applications have been suggested for this system, mostly for special cases in mili- . tary and naval operations. The energy of; the sending-station, as arranged at present, is, how- . ever, wasfed, because the impulses are propa-“ gated with equal intensity in every direction. This propagation in every direction, of course, makes it possible to intercept the message at ’ any point within the radius of the influence. Such interception may, however, be prevented . when the action of the waves is better under- . . stood, and some means may be invented .to ' secure privacy and increase the working dis-tance.—The Independent.	T -
+
+
+
+John Barry, Politician.
+LOUIS T. WEADOCK (LAW), ’99.
+John Barry was a ruler of men. The quar- . rels and intrigues of his stormy political life ? had made him sure of himself, and a large > number of hard-won victories had made others sure of him. Men knew him as a leader of shrewdness and even craft and as a man of undoubted courage. While his strength often
+admitted that he never led them into a corner out of which he could not fight his way.. He was above all a maker of situations, and these he turned to the p'oliticaLand pecuniary . advantage, his enemies said, of himself and His followers.
+As he leaned against the smoking-room door on the Laconia. one September afternoon
+he stood distinctly out from the crowd. His prominent hose and firm jaws told his strength and tenacity, while the slender fingers and even the hard, cold eyes; showed that the force in the man was tempered with cunning. ■■
+His friends and enemies agreed that Barry had never given a greater proof of his sagacity • _ than by spending the’ last two months in '
+phone, telegraph and other wires suspended had led the bitter fight, and had been conspic-across the street.	■ -	uous among the wreckers. >At a crisis, he had,
+A trial from a Chicago life-saving station in- his own words, “used the most effective
+II
+
+572
+NOTRE DAME SCHOLASTIC.
+means in his power;” and out of the employment of these adequate but irregular methods grew a scandal which had routed his followers and driven Barry himself abroad.
+In his absence his agents had constructed an elaborate machine. The actual presence of the chief himself was needed to put it in motion. He was now returning with silent hope of complete victory and far-reaching revenge. His. plans were laid with scrupulous care, and as soon as he landed in New York the war on the old foe was to recommence, and not to cease until the Company was crushed and Barry was again supreme.
+This consciousness of power pleased Barry, although his well-disciplined face did not show it. He sought no companions, and in the smoking-room . was half feared, as all silent men are feared. There was one passenger, however, to whom silence was no bugbear. This was a broad-shouldered, loud-voiced contractor from Kansas City. His insistence won him recognition, and on the morning of the second day he approached Barry with a bold request.
+“There’s a girl on board,” he said, “that’s going back to the United States, after a two-years’ residence in Europe. She was in school. I know her people out in Kansas, City, and I suppose I should look after her, but the fact is, I’d rather play poker than entertain a girl. So if you’ll go up and see that the girl' isn’t lonely I’ll; be much obliged to you.”
+Barry listened carelessly. There were many things which he would prefer to a girl’s society, but he thought of the long days ahead, and went out on deck to be introduced.
+The girl was tall and fair, with all the fearless poise of the West. The wind, which tossed her hair round- her fresh, young face, only half hid her grave, thoughtful eyes. Barry rapidly became interested in. their owner, and lost.no opportunity of being with her. They sat side by.side at dinner and walked together on deck. The politician’s, impassive face relaxed while he was with, her, and her eyes brightened when he returned to her side.
+They, talked, very little at first. Barry’s life, had made him a. good listener, and the girl rarely ventured an opinion; but when she became interested hen rare insight and sympathy carried her out of her habitual restriction, and then; Barry would listen with a. newfound. pleasure. The girl had a little of the “Puritan: conscience,” and-the strangeness of. this; made; him. even more-interested , in her..
+He thought he knew, the reason of his old loneliness, and determined to clear it up forever. He would ask her a question. One answer would lock his life to hers, and Barry knew there were limitless possibilities for both. With such a woman he could place himself where he would. He wanted to protect her, to guard her from all the blackness in the world. He knew that she cared for him, and he went, straight at his object.
+One day he sought her out, and they sat together, side by side, in the sunshine. At first, she did not understand him, but her intuition quickly told her that she was being forced rapidly to a decision whose effects she dreaded, but which she could not avert. In sheer desperation she. flung out a word to stay him: -
+“You must come out in January,” she said breathlessly. “ I am to be married then, you know.”	.
+“ Might I. ask—” he began.
+“Ridley Corbin,’.’she replied softly.
+Barry’s eyes flashed.
+“Ridley Corbin,” he repeated, deliberately! This was the man he was going out to destroy.
+“ He is—”
+“The best'friend father has. He is the president of the Gas Company. He saved the Company from ruin-and-Tather from disgrace. I am to marry him.
+“Do you loye him?” he asked quickly.
+“Love him?” she repeated in a brave effort to be calm. “He saved father—helped him to escape from criminal men, from—
+“ Me,” broke in the man roughly, “ I am your criminal—my name, is John Barry.”
+“You!” she cried wildly. “No, not you—you are too good, too' strong. You said your—”
+“Yes, yes, I. know. Barry is not so clean a, name as that you.know me by. But it is mine,” he said defiantly; “I am not ashamed of it.’
+The girl’s. lip quivered and her eyes filled with tears.	... -
+“I thought I could trust in you.”
+“You can trust in me. I love you. Do you . hear?” 1 love you. I—” He checked himself. .
+. Both were silent. Barry spoke again.
+“ I am on an errand,” he said huskily, “ a< dangerous errand—it may; be for your father and Corbin. Men are .waiting for me in New York. I am to, help them. 1 have promised. My careen hangs on it. For you J give, it up. You . shall be .protected—and that man—the. man that hates me and loves, you—he too, because! he. loves you,7shall bet safe.”
+NOTRE DAME
+SCHOLASTIC.
+Decoration Day Ode, 1899.'
+PATRICK- j. DWAN, I900.
+EEP in the heart must lie true reverence still, And bide, its time, till some great nation’s call. But merely breath for Freedom—breath that’s all; Then those deep notes of the heart shall thrill.
+Then must awake perforce that dormant might That crouches lion like, responsive still, To nature’s velvet heart and iron will, And fill with greater force her love of right.
+. The human heart, that sphere where nations dwell And deeds are long accomplished ere the hand Dare move or lips repeat the words that tell
+Of conflicts waged, or where the victories stand,— This magic pride, this nobler love of life, Can never breathe ’mid wrong’s uneven strife.
+The bugle calls the warrior to prayer;	•
+Yea, more, to sacrifice; he is the priest;
+The holocaust, the sacred feast;	'
+And stands unshackled Belona's victim there.
+For him in vain shall anxious friends await, And fickle hopes are cherished day by day. While he is fainting on some rugged way His children watch beside the open gate.
+11.
+Yea, well indeed our country owes a flag, A tear, and all that nature more than owes, To crown the graves of those who braved our foes, Whose dying words were: “Onward! never lag!”
+Unknown among the heroes of our day,
+Unknown to history, unknown to song;
+But God alone can tell what deeds belong To half our soldiers martyred in the fray.
+Forever to the name of battles cling— “All honor to the leaders of our men Ring out, ye heavens! Praise our chief, our king!” Forget the deeds of humble soldiers_then?
+Who is the bravest hero? who, but he .
+That offers life and all but to be. free!
+Let other days be given to chiefs of men,
+Let nations march before their marble shrines, ■ And honor those who fought in other times, To-day We// guard our unforgotten dead.
+Strew flowers on every soldier’s clay, And shade them with the flag for which they died. Forget their creed, for each one nobly tried.
+Regard with equal love the Blue and Grey.
+.	in.
+Regard no less those new-raised mounds that lie Beneath the cocoa trees in Southern lands,
+Or the sea-washed corse late cast on foreign strands;
+In our hearts their memory will never die.
+They sought their country’s honor, not their fame, And raised with pride our country’s honored flag When it w’as cast ’neath bondsmen feet—a. rag, Defamed its color and despised its name.
+No more those heroes’ feet shall tread the way And reanimate -the brow of love!
+But tears have purified their dying day.	’
+They are immortal where they strove!
+How oft does night in broken slumbers keep Awake in fears those eyes that fain would sleep;
+For when they close, perhaps some phantom hand
+. Shall fondly stroke a tear-stained cheek, Or ’mid the night shades hear the spirit speak:
+‘My love, we parted in another land.”
+Thus to pain and nothingness at last!	■
+To-day has melted into yesterday. .
+But memory is freshened day by day, .
+Though future disappears into the past.
+-	iv.	.	,
+’Tis wrong indeed to sing in gloomy mood
+The noble thoughts that o’er our souls prevail, Or more ennobling thoughts a far off hail;
+For strength and truth is true heroic food.
+No matter if the war were right or wrong,	’
+It never was the soldier’s right to say;
+It was his part in meekness to obey. .
+To him, for this, all honors shall belong. ..	. ..
+Disloyal tongues would still have cast disdain . . .
+On those brave heroes that have offered all,
+The first to stand beneath a leaden rain,	\
+And drain the wine cup filled with poisoned gall.
+Too late you questioned if the war was right:
+You sickly herd with dying soldiers fight! :
+Oh! visit not the sacred shrines that bear
+The hallowed dust of heroes that have bled;
+Go, hide within some darkened cave instead, -Lest silent tombs would breathe a bigot air!
+Nor need you blush whom this weak theme engage; , For what is done you never can gainsay, .
+Nor will our glory ever fade away, But it will brighten our historic page.
+v.-
+Weave the myrtle with the ivy, , , .Strew them, on the hero's grave!
+Blend the myrtle with the ivy, And thank him’ for the life he gave!
+574
+NOTRE DAME SCHOLASTIC
+age, was never so deserving of punishment as either of his two older brothers, yet, for some ; reason unknown to. him, he always received	I
+more abuse and less favor than either. He	J
+could not win his mother’s friendship by I flattery, as they were accustomed to do..	|
+Tom and Joe were strong, hardy' boys, and | as they grew to manhood their untrained dis- | positions developed also, until their mother | could control them neither for good nor for | personal gratification, and so a climax was | reached.	|
+As Dan Egan was her second husband, her 1 love, if she had any, may have been divided j among the half-brothers and sisters, but no | one was surprised when the boys left home. I Willie alone seemed.affected, for he loved his | mother and little sisters. The latter loved him | also, and cared for him during his frequent | sick spells.	. i
+It was not difficult to find employment in the Ottawa Valley at that time, and the boys were soon at work on a drive on Black River, a tributary of the Ottawa. “ The Drive” is the name given to the work of driving or floating logs down the river in spring. It is always	'
+considered a dangerous occupation, especially	j
+for beginners. All the logs cut by the lumber	|
+men at the winter camp are piled on the ice,	j
+and in spring the drivers, as they are called,	1
+roll the logs off and keep them moving in the	I
+middle of the stream until they reach their	]
+destination.	.	’
+After two months the logs of this drive ' arrived at the mouth of Black River, just above Des Joachim’s Point. Here there is a well-known rapid in the Ottawa, and the logs must be rafted before going further. The second night after settling in the new camp the three brothers started with two companions to go to Pittewawa, a small town on the Ontario side. A bright moonlight made crossing the	:
+river on the loose logs easy, yet the task this	i
+night proved to be more difficult than ever. ।
+The men—Willie was only a chore-boy—got	I
+into some trifling dispute when starting, and 1 as the other two were as hot-headed as Tom and Joe, they were involved in an excited argument when the river bank was reached.
+On a boom of square timber in the middle 1 of the river the quarrel came to blows. They ] clinched and tumbled. Hearing the noise,	j
+- Willie, then a few yards ahead on the small	J
+_ loose logs, turned suddenly. .	‘
+There was a loud splash and the four men ? rolled off the boom. Willie forgot his footing,' d
+A Mother’s Prayer.
+ANDREW J. SAMMON.
+“ It’s too bad she sent the youngest fellow away,” said Tom Cannon.
+“Yes, but what’s worse,” commented his hearer, Dave Cahill, “ the last prayer she said for him was—‘that ye may die standin’.’”
+Tom and Dave were classmates in the little log school house with- Willie Egan, a delicate youth of their own age. Dave was ever Willie’s support in multiplication and long division. Tom was no good in any class, but always agreed with whatever Dave said. They used the same sled at recess and some two of them were sure to go with the old wooden bucket to a neighboring farm-house whenever fresh -drinking water was needed. They had been intimate friends, but now Willie was gone, and they, too, were obliged to leave school on account of potato-picking and threshing.
+“ Be me oath, then, they were the fine boys to work,” said Tim Durack. “When we were here last year, do you mind how they kept things goin’? They were reckless, to be sure, but she might have chastised thim and not sint thim off like that.”	,
+“ Musha! don’t be talkin’, Tady Durack,” said George Meskill, feeling for his plug of “ blackstrap.” “What else, what is it! Sure thim scamps of boys nearly kilt a poor ould Indian basket-peddler an’ stole all his fine baded moccasins from ’im—at laste the two biggest o’ thim did—an’ sickly an’ all as the young skamer is, he is blamed too for the divilment. The poor woman feared the revenge of the other yallow-faced nagers, an’ ’twas well for her not to have thim cornin’ to her door afther the poys’ scalps, bad as they wor.”
+This was the conversation during the afterdinner smoke of a crowd of threshers at Dan Egan’s place, in what might , then be called a back-woods district of eastern Ontario. When no big work in threshing was to be discussed, even these modest men sometimes turned the conversation to their neighbors in general.
+Mrs.-Egan was a Scotch woman, very strict in many things, but not a good Christian mother. When her children annoyed her personally they knew it from the forcible application of the rod, while many actions deserving such application would pass .unnoticed. They were seldom punished at the right time.
+Willie Egan, then about fourteen, years of
+
+»
+NOTRE DAME
+SCHOLASTIC,
+575
+and there was another splash. Luckily enough he fell near a boom-stick and grabbed the chain, else he would have been swept underneath by the current. When he scrambled to his feet again he stood shivering and paralyzed with fear, not for himself, but because of the sure death awaiting the two brothers that he dearly loved and their unfortunate companions.
+Below the boom-sticks that girt the river from shore to shore, the surface of the water seems to bend, for here the rapids begin. Willie’s first impulse was to look in that direction. A dark mass or heap of something rose with a rolling motion.
+“My God! it is they,” he thought within himself. He held his breath. A muffled, chok-
+would not be'surprised to hear of his death . some time from some excitement. As they drove to town Willie related all that had happened, and the old man invited him to stay that night at his house. .
+Though his bed was better than the camp bunk, Willie did not sleep much that night. Not the least among his distractions was the thought of the kind benefactor under whose ’ roof he was trying to sleep.
+“ What a strange old man,” he thought, “ and; so kind. I too might have died had he not picked me up and brought me back to my senses!” But his surprise was increased .to 3 astonishment the next morning.
+In the darkness and trouble of the night he
+Y4*
+- ing shout from the struggling bodies convinced . did not know with ,whom he was riding,: or,
+him. They had risen for the last time, clinched in death, and moving faster and faster toward the rapids.
+Willie continued his way to shore as best he could, the dark, rolling bundle flashing in his vision at every step, and the choking shout
+echoing with horror the ground he wept desire for something pause between sobs, prayers or of church
+iruhis ears. Falling on bitterly, and a burning like prayer made him His only knowledge of was a remembrance of
+how he and his brothers used to hide from the bible teacher—a virtuous, hard-working man, but not clever enough to. find them at home. '
+“O Lord!” he continued, “I can not, I will not recross that river. I will not go back to that camp. But neither will they! I know I am wicked! What shall I do? Where shall I go? and where are they gone? They, too, O God! were wicked boys like me!”
+Pausing awhile he would listen and look toward the rapids. Not a sound was heard but that, of rushing water in distant streams, the roar of the rapids below and the imaginary echo of the voices of his drowning companions. Rising to ascend the bank by an old winter
+as he said afterwards, there was not enough money in Renfrew County to induce him to go to the house of such a man. At breakfast the housekeeper showed him to the table, remarking with her usual courtesy:
+“Make yourself right at home now, Father y Devine will be in directly.” .	.	’ ;
+“Father!” thought Willie; “if he’s her father he is surely old enough to vote.”
+Just then a side door opened, and the verier- . . able man of .the house entered with a warm • . welcome for his young guest.	- I
+He was the parish priest of the village and had just returned from his morning’s Mass. Laying his breviary and beretta.on the centretable he was soon seated opposite Willie and helping him to the best his house afforded.
+“ How did you sleep last night, my dear boy?” was his second remark. So far, Willie had not spoken. The sight of this old grayhaired man, with cassock and Roman collar, had almost taken his breath away. It almost equalled the shock of the night just past. The horror Willie had for a Catholic priest was such that he believed to speak to one would choke him. A chill ran through him for a moment, and he felt much relieved when he
+logging trail, he ran in the direction of the controlled himself long enough to say:
+“Well.”	...
+The old priest attributed his strange look to his troubles, and tried to make matters as pleasant as possible for him.
+Willie had been taught from childhood. to detest a Catholic priest above all other men; and now the thought that he was in the same house, even at the same table, with one, so worked on him that he decided to prepare for
+glgg
+
+
+
+$
+main road whence he heard the faint sound of sleigh bells. The exertion proved too much for him. He fell, unconscious, on the icy trail, a few yards from the road. When he recovered a gray-haired old man was rubbing wet snow to his forehead. Had not this old man, who was returning to Pittewawa with his horse and cutter, been at that point of the road at that precise time, this story might not be told, for Willie had fallen under excitement more whatever might happen. This, he thought^ is than once, and the riien in the camp said they one of the men I’ve heard mother and her
+
+
+
+SCHOLASTIC.	*
+Chute remained the same. There could be seen the same saw mill, the same flour mill, woollen mill, blacksmith’s shop and the same postmaster.
+One Saturday evening in spring, when the farmers were gathered, getting supplies for seeding time, the village was hushed to silence by the news that Mrs. Egan was dying. Extra sorrow was expressed because the reverend Mr. Stash was not there to console her. He was absent on business in By-town, now Ottawa, but his wife expected him that evening.
+When the stage arrived from Renfrew there was no minister to reward the crowd of rustic onlookers. A tall, clerical-looking man alighted at the hotel with the half dozen other passengers. Eleven small boys—,all in the village—gathered around him. He might be our own minister they said, but he has no whiskers.
+Then an old man named Dan Tuffy, with long boots outside his trousers , and horsewhip under his arm approached the stranger, and said, looking up squintingly at him:
+“Troth ’en ’tis yoursel’ looks like a clargy-man, an’ there’s a poor woman beyant dyin’, an’ her own pasthor, bad luck tuh him, didn’t come th’ night. Sure’n if ye are a reverent, yoursel’ might call on the poor crathur ’afore she die.”
+“With pleasure, my friend,” said the stranger; “and, let me see. Is her name Mrs.—Mrs.— Eg—(pulling an envelope from his pocket)— Egan?” ‘
+“’Tis the same, sir, but not long she’ll be among us, I fear.”
+“Thank you, kindly, sir. In fact, I called purposely to see this lady, and just now learned that your own good minister is absent.”
+The stranger was soon ushered into a small cottage near the post office. He advanced to the bedside of the dying woman, who turned toward him with out-stretched hand, saying, with feeble effort:	.
+“ Thank heaven, some one has come at last. Suppose Joseph sent you, since he has not returned?” ' .	• ;
+. After this, much exertion she fainted away, and; the attendants rushed in, thinking this would be her last speech.
+The strange clergyman became excited also, and carelessly threw off his overcoat. When the woman recovered he came closer and took her hand:,1	~
+“O God!” she shrieked, in a dying tone, “ydu are a Catholic priest! a Jesuit! O heaven!
+^6	NOTRE DAME
+friends talk about so violently, and yet he is not wicked looking!
+■ The sign of the cross after breakfast sent another chill through Willie; but not until Father Devine had shown him all his little possessions outside and was about to take him .into the church did Willie feel that his hour had come. Visions came to him of stories told about trap-doors, dungeons and murders committed in Catholic churches and monasteries— fireside yarns of the callers at his mother’s house. His two brothers were of the same opinion regarding priests, yet it was an old priest that drove twenty miles to send home the news of their death.
+Their bodies were never found, and they .were soon forgotten at-Micksburg. Their stepfather died suddenly the following year * He had just finished dinner one Sunday when he dropped dead in the doorway while passing -from the dining-room. Such a death from heart trouble was the first of its kind the neighbors had ever known, and while they believed in heredity, they wondered why Willie Egan should be subject to like troubles. Once, they said, when Mrs. Egan was severely chastising Willie he fell into a spasm, and when his step-father came to the rescue he fell too, and the wife and mother necessarily forgot -	> o
+her grievance. This was the first time she learned that Willie was so seriously affected with heart trouble, and ever afterward, when an attack came on him, and she felt charitable, she joined the neighboring women in . worrying over poor Willie lest he fall some. time when alone and die. Some few years . later Mrs. Egan sold the homestead and moved to the Chute, a small village receiving its name from the fact that a river crossing its only street shot'down over a high precipice below the saw mill.	-
+Here she lived with-her daughter, Willie’s half-sister and wife of Rev. Joseph Stash. The good husband, besides being pastor of the home flock and several outside missions, was village postmaster, county supervisor and .school trustee. Whatever denomination the outside flocks may have been, the home one was Baptist, and, according to George Meskill, the reverend gentleman himself -.was known among the Irish settlers, as “ the Protestant. priest with the whiskers.”
+. As years passed, Willie Egan was forgotten - at Micksburg and the Chute. The country improved with time; much forest was cut a down and many , new farms cleared, yet the
+
+
+NOTRE DAME
+SCHOLASTIC.
+577
+
+Go way!” and she tried to turn from him.
+Holding her hand, he said:
+“Mother, I am! But I am also your son! Speak to me! Look at me again! I am your
+own son, Willie. 0 mother! accept my blessing before God!.”
+•	He knelt a moment and with tear-stained eyes:
+forgive me and you meet your
+then she spoke
+“Too late, Willie—but—let forgiveness— from—you—” and her head fell lifeless on his arm. -
+Raising his eyes to heaven he stood partly leaning against the mantlepiece, with hands raised in benediction over -her. When the attendants entered again they found him in the same position, but his head was drooping on his chest and his heart was silent. Then his old schoolmates thought of the prayer of his mother seventeen years before.
+Birds.
+MATTHIAS J. OSWALD
+•	Much that is interesting and useful to mankind may be said concerning birds. They are intelligent and keen. Some years ago a friend of mine undertook to feed some birds during winter time. Each day he gathered the crumbs that fell from the table and threw them on a dry spot in front of the house. After he had done this for about a week, the birds became very friendly; they alighted on his arms, shoulders and feet, as though they had lived with him for years. Similar examples can be - shown by men that make the study of birds their life-work.	.
+Birds possess many striking characteristics ■ in common with man. How well they know a friend and an. enemy! While they pay little or no attention to a dog, they are—the robin and the sparrow especially — generally noted . for fighting with cats.' These are, perhaps,, the most bitter enemies of birds. I have often seen a cat climb a tree upon which was a bird’s nest for the third and fourth time, but as the branch was too slender, she sat eying the nest as the fox views the sour grapes when he can not reach them. Cats, however, as birds well know, are not their only enemies. There are unfortunately many young boys that think it a great pleasure arid happiness to murder a helpless little bird. It is a remarkable fact ' that when birds, especially the robin, the sky
+lark arid the. different German finches, have young ones, they will rather suffer themselves to be butchered than forsake their young3 intime of- danger.'	.	.	' ?
+Birds, as a whole, live as men and nations; some are friendly to one, but hostile to another class. The barn-swallow, and the sparrow, for instance, never get along together. While the former is very industrious and skilful, the latter is lazy and petulant. A few years ago'/T observed a sparrow that would not build its? own nest. It drove a swallow from her nest; and fitted that out for itself. For many days' a struggle between the two birds went on. The swallow merely wished to assert : her rights; the sparrow, on the other hand, stood by the old barbaric theory that might makes right. One day while the latter was in the: nest, a great number. of swallows assembled/ and closed the entrance, thus taking revenge on their adversary.	.
+Within the last few years birds have increased in number more rapidly than ever before. This is due to the fact that people are beginning to value them more and more. Ten or twelve years ago, singing birds had nearly been ..ex-, terminated in some parts of Germany. Some savage boys had for many years destroyed all the nests,, and killed all the young birds they could find. The result was,• as some true Germans have expressed it, .that the country was robbed and desolated, all the musical charm had vanished. The government then passed a law, subjecting everyone that was discovered disturbing a nest or killing a sing-, ing bird to a severe fine. This means has proved very beneficial to that glorious country;; There is nothing more delightful'to the poetic mind than to spend a day in spring or summer in the green, shady forest that resounds with; the sweet, melodious songs of thousands of birds. This fact is fully appreciated by the Germans, and there is perhaps no people that value these singing birds more than the Germans do at present.
+3
+
+5S
+
+
+*3
+• Tears.
+PATRICK J. DWAN.
+Are idle/ tears3 but shed in vain ?	;
+Are widowed hearts but made for pain? Ah! grief’s-a, tide that strikes our shore And drops a pearl upon our floor; ; . ; And widowed hearts that, sorrows kiss "
+- Are but enlarged for greater bliss. - ’
+•s
+--s
+578
+NOTRE DAME SCHOLASTIC.
+RMM SU®
+Notre Dame, May 37, 1899.
+13ubltstjcb rbtrg SafurtiaD curing ffirtm JEimc at B. iSntbrrsitD.
+Entered as second-class matter at the Post Office, Notre Danie, Ind.
+Terms, $1.50 per Annum. Postpaid.
+Address:	THE EDITOR NOTRE DAME SCHOLASTIC,
+Notre Dame, Ind.
+The Board of Editors.
+SHERMAN RAYMOND JOHN J.
+PAUL j. STEELE, ’97; O’MALLEY, ’98;
+DOWD,
+EDWARD C. BROWN. JULIUS NIEUWLAND, JAMES F. MURPHY,
+99!
+99;
+99;
+995
+LOUIS T. WEADOCK, 99;
+LOUIS C. M. REED, IQOO;
+RAGAN, ’97;
+THOMAS. A. MEDLEY, ’98; .
+JOHN F. FENNESSEY, ’99;
+EUGENE A. DELANEY, ’99;
+JAMES J. TRAHEY, ’99;
+JOSEPH F. DUANE, ’99;
+MATTHEW SCHUMACHER, ’99;
+FRANCIS O’SHAUGHNESSY,'OO;
+THOMAS J. DILLON, I9OO;
+ST. JOHN O’SULLIVAN, I9OO.
+H. P. BARRY,	1
+HENRY S. FINK, \
+Reporters.
+—The Scholastic is pleased to reprint the following from the Chicago Chronicle of last
+j
+I
+The doctorate address to the 167 students of the graduating class of Rush Medical - College in Studebaker hall yesterday afternoon by Reverend Andrew Morrissey, President of Notre Dame University, was declared afterward by President Harper of Chicago University, with which institution Rush Medical College is affiliated, the most learned discourse on the object and duties of physicians to which he had ever listened. The audience which filled the hall was held in close attention throughout, and the oration was freely declared a powerful one.
+
+E
+—All persons interested in the. Marconi system of wireless telegraphy are referred to Mr. Green’s article on “Wireless Telegraphy,” in the first pages of this edition. .
+‘ ' —The alumni of Notre Dame and St. Mary’s Academy have lost none of their college spirit and enthusiasm since leaving school. When our athletic teams were in Chicago last Saturday all the old students-were out in full force To cheer for the Gold and Blue, and, despite.the fact that the weather was extremely disagreeable, stayed to encourage our boys on until
+. the last ball, was pitched;- Notre Dame may well feel proud of her alumni and friends.
+The Dr. Edward Johnson Scholarship.
+Some months ago we announced that an old student and lifelong friend of Notre Dame, the late Rev. Thomas Carroll of Oil City, Pa., had founded a scholarship here, and had thus given an enduring proof of his affection for his Alma Mater and of his devotion to the cause of higher education. To-day we are happy to inform our readers that the University has received another scholarship, this, too, coming from an old friend of the Institution—-Dr. Edward Johnson of Watertown, Wis.
+Dr. Johnson was born in the County Clare, Ireland, in . 1822, came to this country in 1836, and seven years subsequently settled in Watertown, where for twenty-eight years he dealt in drugs and medicines. He has always been known as an ardent patriot and a devoted member of the Church of his fathers. Although not a wealthy man he has ever been a generous contributor to whatever was intended to promote the cause of religion or education. Fie contributed most liberally towards the erection of the beautiful Church of St. Bernard, Watertown; and St. Bernard’s parochial school, in the same town, built by funds supplied by him, is a worthy monument oRhis faith and munificence'.
+But the principal objects of Dr. Johnson’s benefactions have been the poor and the distressed, thousands of whom in all parts of the world hold his name in benediction. In 1884 he was chosen treasurer of the Irish National Land League, and succeeded in collecting for his countrymen of the Emerald Isle large sums of money when famine and oppression were afflicting them most sorely. And many men, now in comparative affluence, point to him as the one who gave them a start in life when they were utterly penniless and quite unable to make a move forward or upward without external aid.
+Quiet and unassuming, Dr. Johnson is one of those men who have managed to'"accomplish great things without. thereby attracting any special attention. In his works of beneficence and charity he never allows one hand to know what the other does, and hence the world has learned.Tittle of vvhat he has accomplished for the weal of his fellowmen.
+His., foundation of the scholarship, which will.hereafter bear his name, reveals the character of. the man. “I am not,” he said, “a wealthy , man, but, I .wish" to do something that
+■ !
+
+NOTRE DAME
+SCHOLASTIC.
+579
+p ‘5
+/
+£
+p f
+will live after 1 am dead and gone, something that will be productive of good for generations to come. I feel that 1 can do this best by contributing to the education of those of our bright, deserving Catholic youth who have not the means of educating themselves. For this purpose 1 am glad to be able to set aside a fund that- will be permanently available in an institution such as Notre Dame, in which 1 have the greatest faith and confidence.”
+Would that we had more to imitate Dr. Johnson’s noble example. There are thousands of Catholics in this country who can, better than he, afford to found scholarships, and by so doing render incalculable service to the cause of Catholic education, especially higher Catholic education. Among these are many who have no heirs, and who should therefore consider it an honor, as well as a sacred duty, to set aside at least a part of their wealth for educational work. There are others who wish to erect a monument to the dear departed, to the cherished memory of some loved one who was prematurely taken from them. What more splendid and more enduring monument than a scholarship bearing the name of the one to be honored and remembered!—a monument,
+•which, unlike one of granite or marble, will -no reason why the money necessary for. such .
+for all time to come be prolific in good work, while at the same time effective in keeping vivid the memory of the departed.
+Why are scholarships so rare in our Catholic colleges? We love to think it is not because our people are indifferent in the matter, or because they are unduly attached to the goods .of this world, but, rather, because their attention has not been directed to the importance of their making such a disposition of at least a portion of their possessions.
+The scholarships received by the University
+of Notre Dame are held in trust for the benefi- endowed secular institutions along lines that .
+ciaries of the fund. These are for the most part poor but talented and deserving young men, especially those aspiring to the priesthood, who could not without assistance have the benefits of a collegiate education in a Catholic institution. The University itself does not receive a cent of the money. It is all invested in first-class securities and controlled by a board of trustees composed of officials of the University and of gentlemen who have no financial interest in the institution, but whose names
+alone are a guarantee to the public that all and culture.which her founders always desired funds will be carefully and conscientiously to see her become, and then, too, will alb her administered. The interest only is used for the. children more than ever take a. special pride beneficiaries of the fund, whilst the principal in calling her Alma. Mater. -
+remains intact in perpetuity for the sole pur- . pose for which the endowment Is. made. .
+We trust that the examples of Father Carroll A and Dn Johnson will have many, imitators, ? and that we shall soon be able to record a long list of new scholarships available for. tlie education of our poor, but gifted and worthy Catholic youth who are found .in large num- ; bers in every part of the country. There’are many among our wealthy Catholics who could -easily found ten or twenty scholarships and not feel the outlay required. There are very many who, without inconvenience, could spare money for four of five, while there are hun- J dreds, if not thousands, who could, without f stinting themselves, lay aside enough to establish one scholarship.	.	. r
+We feel that much more should be done in this direction than has hitherto been accomplished, and we are' not without hope that the - -noble examples above mentioned will be productive of much fruit among the old students and the countless friends and well-wishers of our Alma Mater. To accomplish at least a part of the great work which she has- long had in . contemplation, Notre Dame should have two or three hundred scholarships, and we see
+foundations should not be secured if our friends, and the friends of Catholic education will only give the matter the attention it deserves. Guarantees that will satisfy any business man Will be given that all moneys will be used ; exclusively for the purpose intended, and the founders of scholarships will be kept duly . informed of the work accomplished."	'
+With proper endowments, Notre Dame could readily achieve what she has heretofore not even dared to attempt, and she would then be in a position to compete with our richly^
+
+are now impossible. Let, then, the friends of Catholic education, especially the friends of: . higher Catholic education, realize the impor- . tance and the magnitude of the work we have’ alluded to, and we are sure the scholarships desired will soon be forthcoming. Notre Dame , will then be able to enter upon a new era of usefulness, and extend the sphere of her < activity in a way that will gratify all who are v interested in the cause of truth and religion. Then, indeed, will she be that centre o Flight - A
+-J’S
+31
+ass
+NOTRE DAME SCHOLASTIC.
+1 I t
+i i
+Chicago, 81 1-2; Notre- Dame, 62 1-2.
+
+
+I
+I
+
+
+“That’s the greatest surprise of my life,” said Coach Stagg, a moment after Corcoran had sprinted by Burroughs in the loo-yard dash, and there were a great many- others whose surprise ranked as high as Stagg’s.
+Notre Dame has every reason to feel proud of her track team; they didn’t win, but they made the men of Chicago work as they never worked before. The 120-yard hurdles and the one-mile walk was where Notre Dame lost. Although Herbert in the hurdles and Shea in the walk did wonderful work, the track was not springy enough for Herbert’s peculiar gait. Shea followed on the heels of his men from start to finish.
+Too much praise can not be given Captain Powers, and Corcoran. We all knew Powers and what to expect of him, but we little dreamt that Corcoran would win the 100, 220, and 440 yards from Chicago’s crack sprinters. Both Powers and Eggeman were unfortunate. In the' discus Powers shot ahead about three feet, and it did not seem that he could lose, but Schmahl’s last throw beat him a few inches. Eggeman had second place in the hammer throw, but Fosde’s last throw beat his by one inch.
+The first event was the 120-yard hurdles. Chicago had four men entered against Herbert. Herbert was behind in the start, but gradually closed up the gap and got third place.
+The TOO-yard dash came next. There was a strong, cold wind blowing in the runner’s faces. : Corcoran did not get off very well in the start, but when about twenty yards from the tape he forged ahead and won easily. O’Brien made a hard struggle for second, but could not make it.
+Powers was slightly off form- in the.pole vault, and could do no better than 10-3, and Drew could not go higher. Magee and Glynn tied
+I
+j
+for third, so the points. The strong wind that * was blowing precluded any possibility of fast time in the mile. Gaffney gave Brown a close finish, and Grady was an easy third.
+Tucker and Smith set a blind pace in the 880, and then dropped. Herbert ran hard, but could finish no better than third.
+:	Corcoran’s spurt won him first in the 440.
+O’Shaughnessy came third, one-fifth of a sec-	__
+pnd later, after running a game race; O’Brien ta"5.e’ i°7 ^eet	inches.	• -
+did good, loyal work. Brown and Gaffney
+- raced hard for the quarter ,mile< Brown finished.. 407 feet'5 inches. Glynn, Notre Dam^ third; distance, ' c firer by half a^ wheelri Burroughs again,y -J
+start in the 220, but again Corcoran sprinted past him. Shea was unable to get a place in the walk; his work was such that he will be figured on in the future. Duane was the only Notre Dame man entered in the 220 hurdles, and got second. The wind was too strong for Mike Connors in the mile; he ran a plucky race, however, getting second place. Powers won the running high jump with ease as also the shot put. Eggeman got an easy second in that event. Powers and Corcoran got first and second in the running broad jump without any trouble. Eggeman got third in the hammer throw, Powers 2d, and Glynn 3d in the discus.
+One hundred and twenty yard hurdles—Manning, Chicago, first; Hamil, Chicago, second; -Herbert, Notre Dame, third. Time, 0:17 3-5.
+One hundred yard dash—Corcoran, Notre Dame, first; Burroughs, Chicago, second; O’Brien, Notre Dame, third. Time, 0:10 3-5.
+One-mile bicycle race—Brown, Chicago, first; Gaffney, Notre Dame, second; Grady, Notre Dame, third. Time, 3:°2 4-5-.
+Eight hundred and eighty yard run—Moloney, Chicago, first; Smith, Chicago, second; Herbert, Notre Dame, third. Time, 2:04 3-5.
+Four hundred and forty yard run—Corcoran, Notre . Dame, first; Slack, Chicago, second; O’Shaughnessy, Notre Dame, third. Time, o: 51 2-5.
+One-quarter mile bicycle race—Brown, Chicago, first; Gaffney, Notre Dame, second; Goodenow, Chicago, third. Time, 0:36.	’
+Two hundred and twenty yard dash—Corcoran, Notre Dame, first; Burroughs, Chicago, second; Moloney Chicago, third. Time, :02 4-5. ’
+One-mile walk—Parker, Chicago, first; Davis, Chicago, second; Kichberg, Chicago, third. Time, 7:31.
+Two hundred and twenty yd. hurdles—-Trude, Chicago, first;. Duane, Notre Dame, second; Hamil, Chicago, third.
+a
+
+¥
+Time, 0:26 3-5.	*	■ .	’
+One-mile run—Smith, Chicago, first; Connor, Notre Dame, second; Brayton, Chicago, third. Time, 4:42.
+Pole vault—Drew, Chicago, and Powers, Notre Dame, tied for first; height, 10 feet 3 inches. Magee, Chicago, and Glynn, Notre Dame, tied for third; height, 10 feet.
+High* jump—Powers Notre Dame; first; height, 5 feet 8 inches. Byrne arid Schmahl, Chicago, tied for second; "height, 5 feet 6 inches. ri" -	:
+Shot put—Powers, Notre Dame, first; distance, 40 feet 6X inches. Eggeman, Notre Dame, second; distance, 38 feet 3X inches., Schmahl, Chicago, third; distance, 35 feet inches. -.’ri
+Broad jump —Powers, Notre Dame, first; distance, 21 feet 2ri of; an inclk Corcoran,. Notre Dame, second; .
+distance, .19; feet' 8^finches. - Schmahl, Chicago, third ; distance; ig. feet 4% inches.
+Hammer’ throw ^Mortimer, Chicago, first; distance, 118 feet io}4 finches; ’ Fogle, Chicago, second; distance, 107 feet 11 finches; Eggeman; Notre Dame third; dis-
+4
+
+Discus, throw—Schmahl, Chicago, first; .distance,;io8 .. _ ; pt RfZinchps • Pnurprs Mntrp/Damp wrnnH- distancp	>
+'J
+NOTRE DAME SCBCEASTKi.
+Notre Dame, 7; Chicago, 2.
+The game last Saturday on Marshall Field was by far the best of the season from a fielding point of view; never were more-hits pulled -down than on that day. Gibson pitched his star’ game, and. for eight innings he held Alonzo’s men down to, two hits; all this was done in spite of the fact that it was a bitterly cold day. Lynch at short performed wonders in .fielding hard ones andithrowing over to first; his neighbor on the second sack made a stop that established his reputation with the University of Chicago men. Donahoe and Lynch were the hitters of. the day.
+For those That weren’t at the game be it known that our picture of Gibson does not in
+the least resemble him.
+two-base hit, and scored on a passed* ibalK Neither, side, could send a man ,hdrn.e;;uritilj our lucky seventh came around, and then/ouir. hitters put the finishing touches bn the.game?
+O’Neill got a pass tO: first. .Becker got a- hit, and O’Neill came home; because Allen: dallied with Gibson’s, grounder; then Donahue; came up to bat. Smith was tired the way: things were going, but Donnie wasn’t;, he connected for two bases. Gibson arid Becker, scored. Then Lynch picked, out a ba.t-, and, smote the spheroid heavily. -Whemthe fielders untangled,: Bobbie was brushing his clothes on third. .	.	.	.	;. A.-yA
+Brown then appeared on the scene? and: drove the ball afar in the left section : oLthe field. Southard sprinted after it,,and made a
+"TO ‘^*7'J^*»'j’r"^. ■y«-
+brilliant catch,, but could not. get it home im At five o’clock Satur- ’ time to-stop Lynch. A megaphone*: in the grand stand said: “The score is now seven:.-to-
+I
+day afternoon that satisfied look wasn’t there, and. in its place was one of determination to do, and he did in a mostastonishing manner. Seven ; of. the Kerosene men shattered the air. thrice and,returned;to.the bench. A.few managed to get. their, club on.the ball, but there was always some: nimble-footed youth from Notre Dame ready to receive the sphere with pleasure, and then.refer the matter to McDonald; and Mac has: only one-course of action, i. ^.. letting the batter, sit down and rest.
+“ Peaches” O’Neill was very much in evidence all through-the game. The “mighty”
+
+
+“Hersch.” stole second, and, much elated thereby, attempted to purloin the three-quarter sack. It was a. good attempt — that’s all. Fleming was waiting for him with the ball.
+I’ts an old saying that a good baseball player makes a,poor umpire. We’re inclined to believe that saying even , if it is old. Jimmy Callahan may be a good pitcher. Bobbie Lynch says he is; but as an umpire, Jimmy is decidedly— well—passe.
+Gibson slowed up in the ninth, as we had the. game won , and we could shut them out. Kennedy, the. .star hitter,who didn’t get any
+
+rc
+one.” Holland and Mulcare started to?breath: again during the two more innings -that; were played for form’s: sake, and soon everybody:'
+was - hustling to	get	supper,		for it' was /them?	
+seven o’clock.				- ■	" \ A ■'	
+-	The	Score	:.		
+Notre Dame		A.B.	R.	I B P.O. A. E. J -	
+Donahoe, c. f.		5	I	2 I 10/	
+Lynch, s. s.			I	i 240 y -r	
+Brown, 2 b.		4	o'	0 2	3 .r	
+Fleming, 3 b.		4 .	O	b 2	1. 0	A -ssy;> ii
+McDonald, 1 b.		3	I	0 11	0 0 -	
+Farlev, 1. f.-O’Neill, c. .		■ 1 - 3	0	■o„o 0 O CO 0’ <-	■ < '
+Becker, r. f.		4 '	I	I 000-	/A '■ a; ;
+Gibson, p.		3	i	■ O I . 2 .. O j '	
+						
+Totals		31	/	■ 5 27..	/	-J -z
+Chicago		A.B..	R.	IB. P.O. AX E.’ / ?	
+Merrifield, 3 b.		. 3	0	i t 3* t -	z- **
+Herschberger, c. f.	-	. 3	0	0 0 00 ..	
+Kennedy, 1 b.			0	0 14 0 0 : '	
+Allen, s. s. Southard, 1. f.		3 4	I 0	« 0 GJ M 0. to p/w' 1 ‘ .V	
+Vernon, 2 b.		4	1	2	2 .. 2 - ’ O' /'.	
+Smith, p.		3	0	.0 I -'4-.;?O5‘lA?	' *	- Ay
+Bod well; c. Ewing, r. f		3	0 p	0 ' 4 6 I- o 'o??:-;	Sv 'X-U.s, rA’-A'A' 1 <- / >lrf
+.Totals		27 '	0	.4y27;;l374j^-	-A * V
+Two base hits, Donahoe, Vernon				,; Southard. Three \	
+base hits, Lynch. Passed bails, O'Neill; Baseson balls,off Gibson 4. off Smith 4. Hit by pitched ball, Gibson,-McDonald, Merrifield. Struck out by Gibson 7, by Smithy?
+hits,.tried “ muckerism; ” the applause from the _________________
+errand stand- was such, however, as. to cause Double plays/ Allen to Vernon to' Kennedy,? Smith; to . . , • ' j £ 1 ' u	Kennedy.. Umpire, Callahan; Chicago. , /'yr,
+him to discontinue that kind of play; he cer-	J
+tainly. showed remarkable, judgment; he took	.	.	.***
+the smallest man on the team \to operate on. ~ Notre Dame, 16; Nebraska, 8.	’
+Neither side scored in the first inning. In the	:	AAi
+second McDonald knocked one down to Merri- Monday’s game was not such ' a brilliant : field who neglected to stop it. Farley sacrificed;, exhibition in fielding as that; bf Saturday; but?
+O’Neill got a single, arid Mac scored. Bodwell > the batting was a revelation to the scarlet-:
+missed, the ball atdhe plate, and O’Neill scored. - clad men front ithe prairies./ F
+Becker and Gibson went out. Verrion got a-.. two bagger and a triple/was all? our ?
+ISO
+
+582	NOTRE DAME SCHOLASTIC.
+like taking. There’s such a thing as making a lightning rod of it and running it into the o	o	o
+ground.
+The felicitous and facetious Holland was elected to do the twirling. He gave perfect satisfaction to everybody except the gentlemen from Lincoln, Neb. They were heard to murmur at times; but that was to be expected, as they only hit the happy boy for five safe ones, and the said boy secured three hits himself out of four times at bat.
+McDonald knocked the ball the farthest that has been seen on the home grounds. He could easily have made a home run, but he became weary and rested softly on third.
+Young Matthew Donahoe is getting into the pernicious habit of opening every game with a two bagger, showing not the slightest regard for the pitcher’s feelings. Another feature of the game was the clever sacrificing of McDonald. He advanced Fleming three times to second, and each time Fleming scored. Still another feature was the asininity shown by the bleachers yelling: “ Hit it out!” If you are a spectator and not captain, it is because the captain can play better ball, and it is extremely improbable that he needs any of your valuable advice. If you don’t like the way in which the game is played, the study-
+hall is open.	The Score:	,
+Notre Dame	. A.B. R. I B. P.O. A. E.
+Donahoe, c. f.	631201
+Lynch, s. s.	522253
+Brown, 2 b.	5 2	1	0 4	1
+Fleming, 3 b.	5	3	3	5	1	2
+McDonald, 1 b.	21	1 13 0 0
+Farley, 1. f.	3 2	1	1 0 0
+O’Neill, c.	412311
+Becker, r. f.	5	13000
+Holland, p.	4	1	3	1	4	0
+Totals	39 16 17 27 15 8
+Nebraska.	A.B. R. I B. P.O. A. E.
+Moore, c.	3 1, r 5 2 I
+Reeder, 2 b.	3	2 -2	4. I 2
+McDearmid, s. s.	4101 IO
+Gordon, 3 b.	5	2	12	10
+Kingsbury, c. f.	k-t Cl 0 0 CO
+Lehmer, r. f	300	0	0	1
+Rhodes, 1 bi	4008	1'1
+Bolen, 1. f.	2 I O I I -2
+Melford, p.	3	1	1	020-
+Rhea, c. f.	.	1001	1	1
+Bliss, r. f.	1	0 0 0 0 0 ■
+Totals	1 O' 1 = 1 1 Ln 1 co 1 CO
+Two base hits, Donahoe, Moore. Three base hits, Me-	
+Donald. Passed balls, O’Neill 2, Moore 1. Base on balls, off Holland 4, off .Melford 2. Hit by pitched ball, O’Neill, Melford. Struck out by Melford 5, by. Holland 2. Stolen bases, Lynch, Farley, Brown. Double play, Fleming unassisted. Umpires, Dwyer and Freeze. Time, 2 hours.-
+Exchanges.
+We have received a copy of the twenty-ninth annual joint debate between the societies of the University of Wisconsin^ The briefs of the debaters are exhaustive, and, being well arranged and edited, they form a valuable brochure on the subject of Municipal Ownership.
+*
+We wish to acknowledge receipt of the Transit, an annual published by the Engineering Society of the State University of Iowa. The contributions, naturally, are upon technical subjects that are of special interest to engineers. “Projection of Maps,” “Structural Steel Works,” “Bridge Engineering,” and the other articles are carefully prepared. -
+* *
+Time was when the Fordham Monthly was a paper to be read and admired, when it ranked among the foremost of Catholic college journals; but of late it has steadily degenerated, until, with the present number, it has reached the uttermost bounds of mediocrity. There must be something wrong in the management ' of the Monthly, for we are loath to believe that Fordham, which has a reputation to sustain, can not produce a more creditable periodical than that which lies before us. And our wonder is the greater because the Monthly is a monthly.	- ‘
+* *
+In these days when college magazines are filled almost exclusively with short stories, or “stories that are short,” it is a novelty to find an exchange that contains only serious essays. Such an exchange is the Review from the University of Ottawa. This magazine publishes only solid matter—perhaps a little heavy— which never falls short of the high literary standard that long ago was set by it and its predecessor, the Owl. In the current number there is a paper on the Catholic influence on English literature, which treats the subject very thoroughly, and calls to our attention the numerous Catholic writers of the last few centuries and the importance of their contributions to our literature.	-
+In the same number Mr. McTighe shows himself a botanist as well as a writer of no mean ability in his interesting paper on the “Propagation and Sagacity of Plants.” The paper on Rudyard Kipling is well written and very interesting.
+NOTRE DAME SCHOLASTIC.
+have perfect control of them. Speaking of the training, in this"respect is where Mr. Macdonald has proved a most worthy captain. He never requires one of his men to be on the field at work unless he himself is there. The first man in uniform when training hour comes, he is first on the field and last to leave.
+Little Gibson needs no introduction. Readers of the Scholastic will remember accounts of many victories won by his right, arm and cool head. All Western college teams have tried his curves, but the secret of them is never solved, and, Sphinx-like, he goes around decimating all our opponents. He is playing his third year with the Varsity, and has made a record for himself this year that beats all his previous work.
+Gibson has been greatly handicapped this season by being out of condition when the most important games were to be played. At the time that we met the Ann Arbor team he had been out of the Infirmary only three days. Nevertheless, he pitched winning ball, and that the game went to Michigan was no fault of his. In his classes he is the same “star” that he is on the diamond, and is always among those at the top.
+ANGUS D. MACDONALD.
+This issue of the Scholastic presents you with pictures of two of Notre Dame’s best baseball players. During the past two years, while we have been building up the national game here and bringing our team to a level with that of any other in the West, the two men whose pictures you see here have been fighting our battles, and are in no small measure responsible for our success. Although baseball has been played here for many years, we seldom encountered outside teams. Never until the spring of 1897 did we send our team away to compete on other diamonds. Last year and this year, however, they have made several trips, and won twelve out of sixteen games.
+Mr. Angus D. Macdonald, leader of the team and first baseman, is spending his third year on the Varsity. In ’97 and ’98 he made an enviable reputation among the first basemen of the West. On account of his thorough knowledge of the game and his well-deserved popularity, among the players, he was the unanimous choice for captain. He has been a great success in this capacity, and many times his direction of the players in a tight pinch has turned victory in our favor. He has a fine athletic form, and by conscientious training has developed all his muscles so as to
+NORWOOD R. GIBSON.
+584	NG^RE DAME SCHOLASTIC.
+Local Items.
+—The Most Reverend Thomas Joseph Carr, D. D., Archbishop of Melbourne, Australia, will be a guest of the University this coming week, and it is hoped that the students will have the honor of hearing this distinguished educator and prelate.
+—The elocution contests for Carroll and Holy Cross Halls were held yesterday morning. Fathers Maguire, Crumley and Prof. McHugh were judges. Messrs. Schoonover, Bender and Stanton were for Carroll Hall. First place was given Mr. Schoonover. Holy Cross Hall had four representatives, Messrs. Ewart, Murphy, Heiser and Sutton. Mr. Ewart captured the prize. All in all, the contest was exceedingly close. Mr. Bender of Carroll Hall was second by only a few points. •
+—The Philopatrians held their annual picnic last Thursday. Bro. Cyprian, director of the society, had everything in charge, and according to reports made a most entertaining host. The St. Cecilian Society was invited to the picnic as guests of honor. Many professors were in attendance on the occasion. The feature of the afternoon was a game of baseball between the professors and the students. The pedagogues were unable to slide bases in very swift style, so the boys turned them down by a score of 26-25. Messrs. Schillo and Steiner took the part of chefs and served the dinner. How well they performed their task may be judged from the fact that no one has gone to the Infirmary as yet.
+—Since vacation-is approaching the different heroes of Brownson Hall are becoming very solicitous about their general appearance. O’Reilly is struggling hard to get that far-off, dreamy gaze which is so poetic on a summer night and so successful with the other sex. Maloney has gone to the Infirmary to get that ascetic look which never fails to attract attention. “ Pete ” Crumley has sent for a box of pomatum to make his moustache stand out in points. Ahern has applied to Madame Yale to remove his characteristic bloom. “ Lobstah ” is deeply engaged in a book on etiquette. Baer has been handing in life-giving essays to his professor, each essay contained a proposal. McNulty has brushed up his old correspondence; and now Mac is writing at least two tender missives a day. Daily is struggling hard to compose a Juliet potion in the chemical laboratory, and Dillon—well—Tom is about the same.
+'—On Tuesday last the Columbian Society held its annual banquet. The feast was set for 1:30, .and about five minutes before that time forty handsome fellows assembled in the parlor, and awaited “ the tocsin of the soul—the dinner bell.” The dinner was a sumptuous affair. It was served with that nicety and’ pre
+cision which Brother Anthony and his efficient corps of waiters so well understand, and as course after course vanished, a satisfied look stole over those beaming faces, and at two o’clock the toasts began. Mr. Baab, in behalf of the society, surprised Professor Carmody, who is the President of the organization, by beginning the toasts with a presentation speech. The reason for this procedure may be found now by looking on the dresser in the Professor’s room. There you may see a handsome silver dressing case and shaving set, and Prof. Carmody says they are the most-prized objects in his room. Speeches and recitations were then made by Messrs. Ahern, Lennon, Collins, H. Crumley, Sullivan,’ O’Neill, Baldwin, and Schwab. From these speeches it became evident that the Columbian Society is one of the most important organizations in the University. Among its members are found illustrious actors and deciaimers. It is represented in the baseball team and in the track teams. The picture of one of its members is found with those of two other gentlemen of the University adorning the walls of the institution as the first debating team. After the dinner and the speeches the banqueters took a long stroll, and returned in the dusk of the evening with that peace of soul that comes from “ a day well spent.”	•
+—The following is the programme for Memorial Day exercises, May 30, 1899:
+Mass..................................... 8	a. m.
+FORMATION AND ORDER OF MARCH.
+After Mass the line of march will be formed at the front of the church and move to the Community Cemetery in the following order:—
+St. Edward’s Hall Carroll Hall St. Joseph's Hall Brownson Hall Sorin Hall Holy Cross Hall
+■ University Military Companies Notre Dame Band
+Notre Dame Post, No. 569, G. A. R. Norman Eddy Post, N. 529, G. A. R.
+Auten Post, No. 8, G. A. R.
+Other honorably discharged soldiers and sailors Citizens
+Members;of the Faculty.
+Programme of Exercises. Music.................................N. D. Band
+Prayer.............Rev.	Chaplain Cooney, N. D. Post
+Song—Selection........’..............Glee Club
+Address..........................Mr. Francis O’Shaughnessy, ’00 Reading Roll of Honor—Comrade P. O’Brien, N. E. Post Music................   Band
+Lincoln’s Address at Gettysburg—Master J.. Abercrombie Closing Address...........Comrade	J. J. Abercrombie
+' Decoration of Graves—Eight students of St. Edward’s Hall
+During the ceremonies at the cemetery the United States Flag at the University entrance shall be at half mast. From the cemetery the line of march shall return to the front of the college where, after a selection of the band, the flag shall be raised to full height.

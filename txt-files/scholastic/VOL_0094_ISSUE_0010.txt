@@ -1,0 +1,917 @@
+﻿Plant and Equipment
+and the Engineer
+At Du Pont, men with many types of training translate laboratory developments into full-scale production
+Roger Jones, B.S. in Chern., Haverford College '52 (right), and operator check temperature control in the conversion of furfural to furan.
+Among the most interesting fields for engineers at Du Pont is the design of plants and equipment.
+It takes ingenuity of a high order to translate a small-scale laboratory operation into all-out commerical production. Design engineers cannot always use purchasable equipment to scale up research findings, even with considerable adaption. About half of the time at Du Pont, entirely new equipment must be designed because of the novelty of the process developed by research.
+For example, a number of unusual problems were involved in designing the equipment and plant for a process in winch hexamethylenediamine, one of the intermediates for nylon, is made from furfural, derived from such agricultural by-products as corncobs and hulls of cottonseed, oats and rice.
+In this conversion, these steps are involved:
+C4H3OCHO furfural
+2H2 ----------->
+2HC1 ----------->
+2NoCN ----------->
+4H2
+22__C4H4O
+catalyst	f0™
+C4H8O tetrahydrofuran
+C1(CH2)4 Cl dichlorobutane
+NC(CH2)4 CN adiponitrile
+H2N(CH2)6 nh2 hexamethylenediamine
+Here are some of the special problems that were encountered:
+1.	Design of equipment with close temperature control for converting furfural to furan. The design finally settled on employs a large number of tubes containing a catalyst, with a coolant circulated around them. Special sequence
+Scale model of a part of the plant where adiponitrile is made from furfural.
+timers were devised for operation of the valves controlling production and regeneration cycles.
+2.	Design of high-pressure agitated autoclaves for the hydrogenation of furan to tetrahydrofuran.
+3.	Selection of corrosion-resistant equipment for the hydrochlorination of tetrahydrofuran to dichlorobutane at high temperatures.
+4.	Design of a unique five-step distillation train to obtain high-grade adiponitrile without trace impurities.
+Although most of these problems involve a great deal of chemical engineering, also needed on the designing team were mechanical, electrical, civil, metallurgical and industrial engineers. Thus design work at Du Pont is open to men with many types of training, and there is abundant opportunity for all.
+E. W. Griffin, B.S. in M.E., Duke; M.S. in Ind. Mgt., Georgia Tech ’52 (right), instructs operator in handling of vapor-tight horizontal vacuum filter used in separating adiponitrile from sodium chloride.
+NEW BOOK. Send for "Chemical Engineers at Du Pont,” just off the press. Explains opportunities in research, development, production, sales, administration and management. Address: 2521 Nemours Bldg., Wilmington, Del.
+•W.U.S PAT Off
+BETTER THINGS FOR BETTER LIVING ... THROUGH CHEMISTRY
+Listen to “Cavalcade of America," Tuesday Nights on NBC—See It Every Other Wednesday on NBC TV
+Dec. 5, 1952
+I
+12-Day All-Expense Football Tour Notre Dame vs. Southern California
+SATURDAY, NOV. 28, 1953 at Los Angeles
+Leave Nov. 22, 1953 — Return Dec. 3, 1953
+4-Day Tour to Oklahoma — Sept. 24-27, 1953 For Full Particulars on Both Trips Write .. . EARL J. (Pete) REDDEN WESTWARD HO TRAVEL BUREAU
+1671 Lincoln Way East	South Bend, Ind.
+Shoe Rebuilding Zipper Service
+Washington Shoe Shop
+Right Away Service 116 W. Washington Ave.
+South Bend
+Hat Cleaning	Shoe Dyeing
+Take Care of Your
+Christmas Buying through the Notre Dame
+Marketing Club and
+The ZEAT/fER. Shop.
+Ill W«il Wa«hia«t»B Av«.
+Between Joer's and The Blarney
+Congratulations
+to the
+1952 Fighting Irish
+from the
+NATIONAL MILK COMPANY
+921 Louise Street	South Bend, Indiana
+The Scholastic
+Your Headquarters in South Bend for Notre Dame Games
+• Hoffman
+• LaSalle
+• Oliver
+SOUTH BEND HOTEL ASSOCIATION
+South Bend, Indiana
+The Huddle
+Congratulates the 1952 Notre Dame football squad.
+Stop at the HUDDLE for that little snack between classes.
+Dec. 5, 1952	5
+PAIIKER
+mterrowd
+Our special new value enables us to give an extra pair of pants with every custom-made suit.
+BOYNTON
+
+Be sure to stop in Wyman’s Men’s Shop and ask about our
+Span Shirt Contest—1st prize, 12 shirts; 2nd prize, 6 shirts.
+We have been given a 20% discount by our wholesaler so we pass this great saving right along to you.
+PARKER-WIHERROWI 115^ North Main Phone 3-6318
+Leave after your last class—
+FIX UNITED
+-Bi HOARE FOB THE
+HOLIDAYS
+IHA FEW HOURS
+South Bonds for reservations, call 2-1401 or an authorized travel agent.	■
+COMPARE THE FARE AND YOWL GO BY AIR
+nited air lines
+6
+The Scholastic
+FOR A LONG TIME we’ve suspected that today’s college man would no longer "gladly die for dear old Siwash.” Neither does he play ukuleles and sing “Alma Mater” at the drop of a beanie.
+We believe, too, that when it comes to sportshirts the college man is no different from his older brother in town. He doesn’t go for
+fads and screwball styles. But he does go for smartness, good workmanship ... and above all, value.
+That is why we believe you’ll like the new selection of sportshirts by Manhattan*. For they have all these qualities, plus a distinctive air that sets them above the ordinary shirt.
+So ask for Manhattan... the college man’s sportshirt.
+Have You Selected
+Your Christmas Cards?
+Since 1942 we have displayed and sold Christmas cards with designs reverently executed by some of the best Christian Artists.
+We invite you to come in and make your selection from South Bend’s only Catholic shopping center.
+AQUINAS LIBRARY & BOOK SHOP
+110 E. LaSalle
+There are always five expert barbers ready to serve you at Cyr’s Barber Shop.
+You can save time by calling for an appointment. Phone 3-0678.
+CYR’S
+BARBER SHOP South Bend's Leading Barber Shop 100-102 S. Main St.
+W. E. Cyr, Prop.
+Dec. 5, 1952
+7
+The biggest wheels on campus
+Vol. 94 December 5, 1952 No. 10
+Disce Quasi Semper Victurus Vive Quasi Cras Moriturus
+Founded 1867
+Entered as second class matter at Notre Dame, Indiana. Accepted for mailing at special rate of postage, Section 1101, October 3, 1917. Authorized June 23, 1918.
+wear Arrow Shirts!
+Arrow White Shirts. Arrow Solid Color Shirts, Arrow Stripes ...all in your favorite collar styles... §3.95 up
+Afi/lOW »»--------------->■
+--SKIRTS • TIES • UNDERWEAR • HANDKERCHIEFS • SPORTS SHIRTS_1
+Editor
+ROBERT G. FINNEY
+Associate Editors DONALD J. CARBONE THOMAS E. FOOTE
+PATRICK C. CARRICO .............News
+PETER K. CONNOLLY . ..Assistant News LAWRENCE J. BREHL ... Assistant News ROBERT E. HAINE ..........  Features
+JOHN F. SAND................................Sports WILLIAM F. NOONAN ... Ass’t. Sports THOMAS C. MURPHY ..........Advertising WILLIAM KERWIN ............Circulation JOHN P. DEFANT ... Faculty Moderator
+Make GILBERT’S
+your VAN HEUSEN headquarters
+GILBERT'S
+813-817 MICHIGAN STREET Open evenings until 9 o'clock
+FOOTBALL REVIEW STAFF
+REVIEW EDITOR: Don Carbone.
+GAMES: Bill Londo, Bill Noonan. Pat Carrico. Bob Finney. Ken Murphy, Bob Frolicher. Tom Foote, Jack Sand, Tom Welly, Bob Hainc.
+FEATURES: Bob Haine, Tom Foote, Ray Kennedy, Jack Sand.
+BIOGRAPHIES: Phil Bolin. Bob Frolicher. Jack Sand. Pat Carrico. Ed Giacomini. Bill Noonan. Ed Milota.
+STATISTICS: Jack Sand.
+MAKE-UP: Don Carbone, Bob Finney. Tom Foote. PHOTOGRAPHY: Bob Huddleston, Bill DeCrick. Don Carbone, Scotty Sullivan. Gordon DiRenzo. Jerry Sheehan. Bagby Studio, South Bend Tribune. Associated Press, United Press.
+ART: Bob Swanson.
+ADVERTISING: Tom Murphy. Jerry Baier.
+Member of Catholic School Press Association, Associated Collegiate Press. Represented for national advertising by National Advertising Service, Inc., 420 Madison Avenue, New York City.
+The Scholastic is published weekly during the school year, except during vacation and examination periods at the University of Notre Dame. Address all manuscripts to the Editor, Box 185, Notre Dame, Indiana.
+COVER: Notre Dame on the march —
+through its toughest season, through ten hard and well-fought games, the Fighting Irish emerge as ever with a record — and a spirit — that is typically . . . Notre Dame.
+5
+The Scholastic
+football Review...
+Dec. 5, 1952	9
+I don’t want a man to go in there to die gamely—I want a man to go in there fighting to live!—Knute Rockne.
+Contents
+The Staff -------------- 8
+The Season _______12-24
+The Team_________25
+The Roster____________28
+The Players _______29-36
+The Coaches________37-38
+Behind the Scenes 39-40
+Statistics ___________41
+Freshman Football_____42
+Band & Cheerleaders .43
+HEN you have boys who
+will never quit under even the most adverse circumstances, you know that you will be proud	;
+of them regardless of the score.	j
+—Frank Leahy.	?
+i
+f.
+Irish line holds os Lattner sends Penn’s safetymen back with a long spiraling punt, h
+Irish Tie Quakers9 7- 7
+By BILL LONDO ,
+Philadelphia, Pa., Sept. 27 — Notre Dame went into the first game of its 64th season today with hopes of winning its 400th football victory, but after the Irish put together an impressive first-quarter touchdown, they sputtered around Franklin Field for the remainder of the afternoon and were lucky to escape with a 7-7 tie with the Pennsylvania Quakers. The deadlock was watched by 74,411 spectators, the largest opening-game crowd in Philadelphia gridiron history.
+That first-quarter TD would have been enough for victory had not the Irish defense made one mistake—a. mistake that resulted in a 65-yard Pennsylvania touchdown. Early in the third period on the first play after receiving a Notre’ Dame punt, Glenn Adams hit Ed Bell, who had gotten behind the Irish secondary, with a perfect scoring strike, and the big end scampered all the way. Carl Sempier’s extra point tied the score;
+Even then Notre Dame almost snatched victory in the waning moments of the fray. With the ball on the Irish 20-yard line and two minutes remaining on the clock, quarterback Ralph Guglielmi began throwing. First he hit John Lattner on the Irish 41, then he tossed for seven yards to Joe Heap. After a time out Guglielmi pitched to Bob O’Neil for a first down on the Penn 37.
+With the’ capacity crowd in an expectant roar Guglielmi threw to Lattner who grabbed the ball on the south
+12
+sidelines near the Penn 25 and pivoted to avoid the onrushing Bell. The pivot was successful but as Bell drove' past Lattner he reached out with a long arm and knocked the ball from Lattner’s grasp. Penn’s Noel Schmidt fell on it, and the ball game was over, as the Quakers ran two plays into the line assuring the tie.
+Notre Dame started the game like the Irish powerhouses of old, booming 89 yards down the field in 15 plays the first real chance they had with the ball. Lattner, a star-spangled halfback all day, ate up most of the yardage with two dashes down the north sidelines, one for 21 yards and the other for 22.
+The drive threatened to stall, but a fourth down pass to Heap from Guglielmi, the first play the Columbus, Ohio, sophomore directed, brought a first down on the 11, and Lattner scored in three lunges from there. Menil Mavraides place-kicked what at the time seemed like' an unimportant extra point.
+Two plays after the kickoff Penn fullback Don Zimmer fumbled and Dave Flood recovered for Notre Dame. On the first play Guglielmi faded and hit Heap with what looked like a 44-yard touchdown toss, but the officials decreed otherwise, and instead of another score the Irish were given a 15-yard penalty.
+Notre Dame failed to move and Lattner punted to Schmidt, who promptly dropped the ball on the Quaker 15-yard line. Mr. Flood hapened to be nearby
+so he again fell on it for the Irish.
+Heap got two yards and Guglielmi five as the first quarter ended. After Neil Worden hit for a yard, Lattner went for a first down on the Penn three, but the officials said that Johnny had started to move before the ball was snapped and the Irish were set back to the 13. A fourth down Guglielmi pass then failed.
+It was then the Quakers decided that if the Irish weren’t going to score they might as well try themselves. After a quick kick, Penn recovered an Irish bobble and moved to the Notre Dame eight-yard line, with an Adams pass to Bill Deuber the big play in the drive. But the Irish braced and took over on downs.
+Unable to gain, Lattner punted out of bounds on the Penn 49. Adams connected with Deuber again, and the latter sprinted all the way to the Notre Dame three, where Gene Carrabine shoved him out of bounds. Zimmer failed at the center twice, and then Dan Shannon spilled Adams back on the seven. A pass failed and the half ended a moment later.
+Penn tied the score the second time the Quakers got the ball in the third period with the Adams to Bell aerial. Sempier’s conversion came with six minutes gone in the quarter. After that the game see-sawed until the closing Irish punt.
+Statistics for the game were nearly even. Penn made 15 first downs to 11 for Notre Dame. .The Irish, led by Lattner who went for 86 yards in 16 tries, gained 183 yards rushing to 153 for the Quakers. In the air Penn made 188 yards, with 65 coming on the scoring toss, while the Irish quarterbacks, Guglielmi and Tom Carey, gained 97 yards on ten completions.
+Irish gang up on hapless Quaker.
+Irish End Bob O Neil (82) drags down Longhorn Gib Dawson after a short gain.
+Texas Topples, 14-3
+By BILL
+NOONAN
+15-yard advance against the Steers.
+a
+After
+Jones three. Texas
+than going for the touchdown. Dawson split the uprights, and it was 3-0 Texas.
+another toss went incomplete, hit end Tom Stolhandske on the With fourth down coming up, played for three points rather
+ND 15. play by Lattner 27, the
+The advance started on the After a slick 29-yard keep-it Guglielmi and two bursts by moved the ball to the Texas
+Ralph Guglielmi (3) flips a first-quarter jump pass to Johnny Lattner for
+
+Austin, Texas, Oct. 4.—An amazing transition took place in the span of a halftime intermission here this afternoon as Notre Dame’s underdog Fighting Irish whipped the University of Texas Longhorns, 14-3.
+The Irish attack, which had sputtered and stalled while wallowing deep in its own territory during the first half, suddenly became a well-knit, smooth-working machine after the second-half kickoff. Two 85-yard scoring marches featured the ND form reversal which saw them roll up 233 yards on the ground and in the air, compared with their meager 55-yard output of the initial 30 minutes.
+With T. Jones and his passes leading
+the way, the Longhorns drove from their own 48 in the first quarter to ND’s two-yard stripe, where Gib Dawson, their leading ball carrier, fumbled. The alert Irish safetyman, Gene Car-rabine, recovered.
+John Lattner punted out of bounds for Notre Dame at the start of the second quarter, and Texas began moving downfield again. A tricky pass play from Jones to Dawson to Jimmy Dan Pace put the ball on the Irish seven.
+In the second half, the Leahymen didn’t .waste any time showing they were a different team. Neil Worden brought the kickoff back to the 26, and Joe Heap’s two carries brought the leather to the 35-yard line. A holding penalty, however, slapped the Irish back to the 15.
+Worden quickly got those yards back on an off-tackle shot to the 30. From there, Art Hunter took a Ralph Guglielmi jump pass for a first down on the 40. Then Heap and Lattner, on successive trips, put the ball on the Texas 44, the first time Notre Dame had been in enemy territory all day. Worden gained 13, and Guglielmi kept for five more. After a motion penalty set them back, Guglielmi tossed to Lattner on the flat, and he in turn spotted Joe Heap downfield. Heap was downed one yard short of paydirt.
+On the next play Lattner knifed his way over, and the Irish had the lead. Minnie Mavraides’ boot made it 7-3.
+Outplaying the orange-clad Texans both on offense and defense for the rest of the quarter, Notre Dame headed goalward again early in the final stanza.
+Irish offense stalled, and Paul Reynolds was sent in to kick from the 31. Bob Raley, Texas safetyman, let the line-drive punt bounce off his chest on the two-yard line. Shannon, who was rambling downfield, pounced on the ball for the Irish, setting the stage for the last touchdown. Joe Heap racked up the six points on the first play.
+Mavraides again converted, and in one of the most startling upsets of the young football season, Notre Dame had beaten heavily-favored Texas, 14-3.
+
+Guglielmi Rips Through Pitt Defense as Seaman (62), Hunter (90) Pave Way.
+Pitt Upset Stuns Crowd
+By JACK HEALY
+Notre Danie, Ind., Oct. 11—AU deemphasis behind them, Pitt revitalized Panthers exploded through the much heralded Notre Dame defense today, twice in the first period, and spoiled the Irish opening home game played before 45,503 greatly surprised fans, with a 22-19 upset victory.
+Both teams started slowly, not accomplishing much in the way of scoring threats, running plays and being forced to kick. -Then with ten minutes gone in the first period, Rudy Mattioli, sophomore Pitt quarterback, pitched out to halfback Billy Reynolds, and 79 yards later the Irish were on their way to the first loss of the season. Again the Irish and the Panthers traded punts, until, with ten seconds left in the period and Pitt in possession, Jacobs, the other Panther halfback, broke into the clear in the Irish secondary, tucked another Mattioli pass under his arm and went 63 yards for the touchdown. Missing the first try for the extra point, Pitt led at the end of the first quarter, 13-0. Neither team scored in the second period.
+A combination of fumbles, penalties and a smart, aggressive Pitt defense had canceled the’ Irish offense in the first half. But within two minutes after the second half had started, it appeared as though the Irish would duplicate their rally against Texas a week ago. Guglielmi chopped six points from the Pitt lead by engineering a seven-play, 78-yard march to a touchdown, sending fullback Neil Worden through the middle for the last 12 yards. Mavraides missed the conver
+sion.
+Notre Dame then went into an 8-3 defensive set-up and stopped Pittsburgh cold on their first series of downs in the third quarter. Paul Blanda’s kick drove Notre Dame’s Paul Reynolds back to the 25. The Irish were then handed a 15-yard clipping penalty, and as a result Guglielmi’s passes fell short of a first down.
+Pitt took over on the Irish 49 yard line, calling for a fair catch on the punt by Johnny Lattner. Mattioli then launched the drive for what was to be the winning touchdown.
+He completed a 27-yard pass on the third down, which kept the march alive'. Two successive handoffs to Reynolds and Jacobs brought the ball to the one yard line with four chances to score. Matrioli needed only two, as he carried it across himself on the second try. Blanda again converted.
+Notre Dame got started on their second score without any wasted motion. They took the kickoff on the 27, covered the necessary 73 yards in 14 plays, and checked the Panthers while Mavraides converted, making the score 20-13. Five of those 14 plays were passes by Guglielmi, the last of which was to Art Hunter for 12 yards. Hunter was dropped on the one yard line and Guglielmi called his own signal, scoring without any difficulty.
+On their next series of plays, Pittsburgh was unable to make any headway and had to kick. The Panthers gained possession again almost immediately though, intercepting Guglielmi’s next pass.
+It appeared as though Pitt was off and running again when Reynolds raced 34 yards in the Panther drive. They stalled however, and Blanda had to come in and kick. He tried to put it in the corner but the ball fell short.
+Notre Dame’s Joe Heap gathered it in on the eight and back-tracked practically to the goal line trying to pick up some blocking. He found what he' was looking for and by the time Heap reached the Irish 30 he was away. When he crossed the goal line there wasn’t anyone within shooting distance of him.
+Just one point away from tying the ball game, and a good eight and a half minutes yet to go, Mavraides’ perfect
+Johnny Lattner Clawed by Panther
+conversion was nullified by a 15 yard penalty. Trying it again from 17 yards out, Mavraides second attempt was spoiled by a bad pass from center.
+However, the extra point, had it been good, wouldn’t have made any difference. For the next Notre Dame opportunity to score was halted on the Pitt 24. A pitchout to John Lattnei-was knocked down by the Panthers’ defensive right end Joe Bozek. Fred Poehler recovered for the Irish, but the resulting loss on the play made it third down and 19. The Irish couldn’t make it and Pitt took over with 1:45 left.
+Blanda kicked again and Notre Dame was operating from their- 20. With 50 seconds to go the Irish were' penalized five yards for holding. Guglielmi then tried to pass and missed. He tried again and slipped, right end Zombek nailed him in the end zone for a safety, and Pittsburgh defeated Notre Dame for the first time since 1937.
+14
+The Scholastic
+Elusive Ball Helps ND Top Purdue
+Lafayette, Ind., Oct. 18.—The Irish uncovered a new scoring weapon in the form of the Purdue fumble play here today and used it frequently to upset the favored Boilermakers, 26-14.
+Billed as an aerial circus starring Ralph Guglielmi and Purdue’s Dale Samuels, the game instead became a comedy of errors, featuring 11 Boilermaker bobbles and 10 by the Irish. Notre Dame players recovered 15 of the loose pigskins.
+The script was discarded on the very first play of the game when Purdue’s Rex Brock fumbled the opening kickoff and Jackie Lee recovered. It took the Irish three plays to cover the needed 24 yards for the first touchdown, Joe Bush scoring the tally on Notre Dame’s version of the fumble play. The ball squirted from Johnny Lattner’s hands on the one-yard line and landed under Bush in the end zone to give the Irish the lead with 1:32 of the first quarter gone.
+Bruising line play by the Notre Dame defense stopped the Boilermakers •with a net gain of 63 yards in 34 attempts, while the Irish managed 195 yards against a Purdue defense that outweighed them some 15 pounds per man. The Samuels-Guglielmi passing duel failed to materialize, as Guglielmi directed only six of 76 Irish offensive plays and Samuels, definitely having an off day, retired in favor of Roy Evans for most of the second half.
+Both quarterbacks completed touchdown passes, however, with Samuels hitting Bernie Flowers from 27 yards out in the first quarter to tie the score, 7-7. Guglielmi’s TD aerial was a brilliant 47-yard effort to Lattner on the last play of the first half to give the Irish a 20-7 halftime lead. In the meantime Tom Carey directed a 68-yard march for Notre Dame’s second touchdown, Neil Worden going over from the one.
+Purdue came within threatening distance once in the second half, after recovering a Carey fumble on Notre Dame’s 35 early in the fourth quarter. It took the Boilermakers just two plays to score their second touchdown, with Flowers taking an Evans pass on the 20 and sprinting into the end zone.
+The Irish lost no time in adding the insurance touchdown after Purdue’s quick tally. Lattner took the kickoff to the 26 and 12 plays later Worden was across the goal line with his second TD of the day. Tom Carey directed this drive and accounted for most of the yardage himself with a 41-yard pass to Art Hunter.
+By BOB FINNEY
+The 26 points proved to be more than enough, and Purdue didn’t threaten again.
+After Lee picked Brock’s fumble out of the air to open the game, Joe Heap made a first down on the 14, and Lattner* reached the goal line in two plays, fumbling to Bush for the score.
+Purdue was forced to punt after receiving Mavraides’ kickoff, but Phil Mateja intercepted a Carey pass on Notre Dame’s 40 and Samuels’ tosses worked this time. Flowers carried his pass into the end zone with 6:45 of the first quarter left.
+Notre Dame came right back to take the lead after the kickoff, aided by a roughing penalty and a weird offsides battle on the Purdue goal line.
+With second and three to go on the Boiler-maker seven the Irish shifted into the ancient box formation and pulled Purdue offside, moving the ball to the two. Lattner went over, but Notre Dame was offside, and the ball went back to the seven. The shift ruse worked again to pull Purdue offside, and Worden ended the referee’s marching by powering over on the next play. Menil Mavraides kicked his second extra point, and the score was 14-7.
+The second quarter was a duel of punts and fumbles, with the ball changing hands 11 times. Finally Seaman recovered a Mateja fumble on Purdue’s 37 with one second to go in the half,
+Fullback Worden Barrels Over Purdue Goal-Line for Notre Dame’s Second Score.
+setting the stage for Guglielmi’s touchdown heave to Lattner, and the Irish left the field leading, 20-7.
+Brock again fumbled the kickoff to open the second half, but Notre Dame couldn’t score, and Purdue took over after Mavraides missed a field goal attempt from the eight. Penalties kept Notre Dame in the hole throughout the quarter, but the Irish defense and Boilermaker fumbles prevented Purdue from mounting a drive. Late in the period an Evans-to-Flowers pass gained 47 yards and put the ball on the Irish 20. On the second play, however, Max Schmaling fumbled, and Jackie Lee recovered on the Notre Dame 15.
+As the fourth quarter began Notre Dame drove upfield, losing the ball when a Carey pass was intercepted by Norm Montgomery on the Irish 41. Purdue drove down to the 11 before Schmaling fumbled again, and Sam Palumbo recovered. .
+Carey started the team upfield again, but fumbled on Notre Dame’s 35, setting the stage for Purdue’s last score, putting the Boilermakers within six points of the Irish.
+Boilermaker hopes were short-lived and they could only stop the Irish once during the final touchdown drive. Lattner was smeared on the 32 for a third-and-fifteen situation after making one first down, but Carey’s long pass to Hunter erased Purdue’s efforts, and it it was easy from then on.
+Evans filled the air with passes in the short time remaining, but, after making one first down, he was pulled down on his own 48 as the game ended.
+December 5, 1952
+15
+Another Lattner gain is brought to a halt by Tarheels Eure (72) and Lackey.
+ing the march — once on his own 34 and again on the Tarheel 34 — the young Irish quarterback gambled on fourth down. The first time, Worden made his gamble good, and the second time Guglielmi himself sneaked for the needed yardage.
+Six times during the drive Guglielmi hit green-shirted receivers. His fifth completion came after the second gamble, Heap gathering it in on the 10. Then, with 18 seconds left, Guglielmi pitched into the end zone to Hunter, who made a diving catch inches from the ground. Arrix made it 14-7.
+After the intermission, Heap took the kickoff and broke the back of the Tarheels with an 84-yard touchdown gallop. Arrix started making it a habit, and the scoreboard read 21-7 with the last half 18 seconds old.
+ND Says NO to N€, 34-14
+By KEN
+Notre Dame, Ind., Oct. 25.—For the first time this season the eyes of 54,000 Stadium fans were not glued to the clock in the waning minutes, as the Fighting Irish unexpectedly stumbled across a breather in the suicide schedule here this afternoon.
+The oddsmakers’ 20-point spread was right on the nose, as a diehard North Carolina team, handicapped by a three-week polio layoff, bowed to the home forces, 34-14.
+It took the Notre Dame squad just foui- plays and less than two minutes to maneuver the opening kickoff 77 yards into scoring territory.
+Quarterback Tom Carey gave Lattner first crack at the Carolina defense and he obliged for five yards to the 28. Heap then hit big Art Hunter with a 14-yard jump pass for a first down on the 42. Heap kept it on the next play, belted over Tom Seaman’s left guard post, was sprung loose by Don Penza, and raced 50 yards down the sideline before being driven out of bounds on the Carolina eight-yard line. Fullback Neil Worden got into the act and picked up the remaining yardage 021 the ensuing play. Bob Arrix came through in his baptism of fire with a perfect placement, and it was 7-0.
+But Coach Car] Snavely’s crew wasn’t ready to quit yet, and parlayed a recovered fumble into the tying score two minutes later. When the Tarheels couldn’t get moving against the tough Irish defense, Bud Wallace boomed a punt to Heap on the Notre Dame 20. Heap got to the 23 before he was separated from the pigskin, and Carolina’s Dick Kocornik recovered. After a crack at the line proved un-
+MURPHY
+successful, freshman quarterback Marshall Newman dropped back and pitched a scoring pass to end Tom Adler. Adler converted and the Tarheels were back in the ball game, 7-7.
+Instead of the anticipated scoring duel, the remainder of the first quarter resolved itself into a scoreless punting duel with the Carolinians, on the strength of Wallace’s strong foot, getting a little the better of it.
+And as the second quarter wore on, the vaunted Tarheel defense proved all it was cracked up to be. Finally, with three minutes of the half left on the scoreboard clock, Ralph Guglielmi came in at quarterback to see if he could make the deadline.
+With the Carolina goal 76 yards upfield, Guglielmi started driving the ten men with him relentlessly. Twice dur-
+Carolina still kept coming, but the Irish defensive platoon dug in on the ND 23 and held- With 77 yards to go again, Carey came back in at quarterback. Twelve plays later, keyed by Lattner’s 29-yard sally with a pitch- | out, the Irish were a yard from paydirt. Three straight cracks at the line got nowhere, but on the do-or-die handoff, second-string fullback Tom McHugh bucked it over. Arrix proved he was human, and with 8:40 gone it was 27-7.
+Lattner set up the final Irish tally in the fourth quarter with an interception of a Newman pitch. Only 1:40 deep in that final period, McHugh	/
+sliced off tackle and rambled through	1
+the entire Tarheel secondary with a 20-yard scoring carry. Arrix picked up where he had left off, and it was 34-7.
+Midway through the quarter North	(
+Carolina retaliated, as Newman collab-	I ‘
+orated with end Benny Walser on a	•
+17-yard scoring pass, but it was too little and too late. Adler’s second conversion made the final tally 34-14.	f
+It's anybody’s ball as Ready (74) moves in to recover a fumble by Lattner (left).
+16
+The Scholastic
+
+ABOVE: The girls are finally ready, and their sophomore escorts whisk them off to an evening of dancing at the Palais. BELOW: When the bands got tired, there were the Harmonicats; when the feet got tired, there were cokes and talk.
+CotiUwn Time
+Fall, a home football weekend, and the traditional opener of the Notre Dame social season, the Sophomore Cotillion.
+First on the agenda was the pep rally in the Fieldhouse. Assured that ND would win on the morrow, they hustled off to the Palais. There, from an Indian Summer setting, a ‘‘Carolina Moon” beamed approval upon the 400 couples, as they danced to the music of Johnny Palmer.
+An impressive victory over the Tarheels the next afternoon was followed by the big Victory Dance. Mass and Communion Sunday morning, “g®odbyes” to the imports, and the weekend had vanished all too quickly.
+Saturday was the time for strolling, then cheering the Irish to another victory.
+Irish Dump Navy, 17-6
+By BOB FROLICHER
+Cleveland, Ohio, Nov. 1. — Notre Dame’s Fighting Irish, backed by over a thousand student-trippers, dumped the Naval Academy, 17-6 at Cleveland’s Municipal Stadium today before a near capacity crowd of 62,000.
+The vaunted Midshipman forward wall just wasn’t enough as the Irish tore it to shreds, using every means of scoring except the point after touchdown. This marked Notre Dame’s seventh consecutive victory over Navy.
+Leahy’s forces started off with a bang. After taking the Navy kick-off on the 28, it took the Irish only seven plays to score, Worden crashing over from the one. The height of this drive was a 41-yard pass and run on an
+through and blocked it, Capt. John Gorski recovering foi* Navy on the 41. The Midshipmen again stalled, and on a fourth-down-one-to-go gamble, end Bob O’Neil and tackle Sam Palumbo crashed through to cut the try short at midfield.
+Early in the second period the Irish tried their third field goal which fell short. After Navy’s offense was stopped, the Midshipmen punted to the Irish 36. A Guglielmi to Penza toss moved the ball to the Middie 43. By virtue of a Guglielmi to Heap pass, and successive runs by Pa terra, Worden, and Heap, Notre Dame pushed the ball to the eight-yard line. Two plays later Worden plunged over to end the first
+Paul Reynolds Breaks Up a Navy Pass.
+Halfback Heap (42) Scoots Down the Sidelines on a Punt Return Against Navy.
+optional play from Joe Heap to Johnny Lattner. However, a 15-yard penalty nullified the T.D. and set the Irish back. After Guglielmi’s third down pass was incomplete, Bob Arrix came in to boot a 26-yard field goal to put the Irish in front 3-0.
+After exchanging punts following the kickoff, linebacker Dick Szymanski intercepted a pass by fullback Fred Franco on the Navy 23. However, Guglielmi fumbled three plays later, the Middies recovering this time at midfield. The Irish defense stymied the Navy attack and a reverse on a fake punt by Paul Reynolds moved the ball again into Middie territory.
+The Irish could only move to the 35. Arrix attempted his second field goal, but Eisenhauer, who was later injured and removed from the game, broke
+half scoring. Arrix’s try for the point was ■ blocked. Shortly before the half ended Mavraides kicked the Irish’s fourth try for a field goal, but the boot was wide.
+The second half turned into a defensive battle, the Irish being the first to score. The Leahymen moved from their own 25 to the Navy 10 where they lost the ball on downs. An offside penalty pushed the Middies back to their own five. Two plays later quarterback Steve Schoederbek faded deep and was pinned in the end zone for a safety by Irish end O’Neil.
+Middie Bob Cameron punted from his own 30 and Reynolds returned it to the Navy 40. A run by Paterra and five consecutive carries by Worden rammed the ball all the way to the Navy 17. Two runs by Reynolds and
+Paterra moved the ball deep into Middie territory, this time to the four. Worden hit the line twice for the Irish score. Mavraides’ P.A.T. try missed and Notre Dame led, 17-0.
+The Midshipmen averted a shutout by making their only deep penetration and scoring their lone touchdown in the fourth quarter. Linebacker Tony Cor-renti intercepted a Guglielmi pass on the Navy 40 and returned it to the Irish 39. Aftei- pushing for a first down, alert Jack Whelan snagged a Schroeder pass on Notre Dame’s 31. However, on the next play Guglielmi fumbled on a handoff to Reynolds, Gurski again recovering, on the 30. On fourth down Schoederbek passed to end Jim Byrom who grabbed it on the 10 and scampered the remaining distance.
+Lattner Stiff-Arms Toward Paydirt.
+18
+The Scholastic
+All Aboard! Student trip
+St.
+gets underway from Mary’s siding.
+Irish chances against the Navy were discussed enroute to the Cleveland scene. BELOW: Pro football scout Jack Lavalie speaks at rally held in the Carter Hotel.
+CLEVELAND STADIUM
+The Scoreboard indicates the trend.
+
+7 he Cleveland Express
+Outnumbered but not out-cheered in spacious Cleveland Stadium, N. D. student trippers experienced a long and memor-
+able city.
+weekend in Ohio’s largest
+Everything was perfect—
+weather, rally, victory, and Saturday night dance. On Sunday there was time for last-minute sight-seeing, and then the train, 40 winks, St. Mary’s siding, and it was all over—a good one to remember.
+Some of the 62,000 watch Joe Heap pull in a pass as two Navy tacklers move in. BELOW: More music—this time in Dixieland fashion by members of the ND band.
+An accordion concert met with the approval of the passengers.
+Irish Spirit Triumphs Over Oklahoma
+Notre Dame, Ind., Nov. 8—An in->pired, courageous band of Fighting Irishmen came from behind three times on this hazy autumn afternoon to upset the splendid and highly-favored Oklahoma Sooners 27-21 in a titanic struggle ’that will go down as a classic in Notre Dame football lore.
+The undefeated Oklahomans, rated No. 4 in the nation, came to South Bend expecting to add to their national championship hopes with a crushing win over the Irish in the first encounter between the two teams. But it was only the great running of the Sooners magnificent Billy Vessels that kept them in the game at all.
+Vessels racked up all three Sooner touchdown? and accumulated IDA yards in 17 carries, but his individual efforts were more than nullified by a galaxy of Irish stars that luminated the gridiron before a capacity throng of 57,000 and a national TV audience of an estimated 30.000.000.
+From the very start there was little doubt that the Irish were keyed to turn the Game of the Year into the Upset of the Year. Directed by Tom Carey, they stormed down to the Sooner 2-yard line the second time they got the ball. A penalty set the Irish back at this point, and Bob Arrix’s eventual field goal attempt from the 8-yard line failed.
+The Wilkinson-coached Sooners drew first blood late in the first quarter after a poor ND punt gave them possession on the Irish 28. T-magician Eddie Crowder flipped a short pass to Vessels, who scampered the remaining 20 yards untouched, and Buddy Leake converted the first of his three successful attempts.
+Then late in the second period the Irish put together a scoring drive of 59 yards to tie the game at 7-7. Ralph
+Touchdown! The Sooners seem unhappy
+By TOM FOOTE
+Gugliehni threw a 16-yard pass to Joe Heap for the touchdown and Arrix converted to deadlock the count. Just two minutes later, Vessels shot through the right side of the Irish line, cut over to the east sideline, and rocketed 62 yards to give the Sooners a 14-7 halftime advantage. It looked then as if the heralded Sooner offense might eventually run away with the game in the second half.
+But Irish hopes surged again when the Leahymen marched in 15 plays from their own 20 to the Sooner 6 after receiving the kickoff. At this point, Keller of Oklahoma recovered an Irish bobble, but a few plays later, Lattner intercepted a Crowder aerial and blasted his way 20 yards to the Sooner 7. Worden smashed over in three plays, and Arrix made it 14-14.
+Yet, the third play after the kickoff found Billy Vessels again wandering loose in the Irish secondary, and the brilliant All-American threaded and sped his way 47 yards for the third Oklahoma touchdown.
+This turn of events, which would have demoralized many a lesser team, only served to spark the Irish to greater heights. After receiving the kickoff, they marched 79 yards in 12 plays to tie up the game again. A 36-yard pass play from Heap to Lattner had put the Irish on the Sooner 27, and Carey then called on Worden for the next seven plays. “The Bull’’ responded by powering into the end zone for the final yard, just after the fourth quarter opened. Arrix, under great pressure for the third time, converted to make it 21-21.
+One minute later and Notre Dame
+as ND’s Worden matches their 3rd TD.
+was in front to stay, after one of the most devastating tackles ever witnessed in the Irish Stadium. Larry Grigg-grabbed Mavraides’ kickoff on the 6 and dashed to the 24 where he was met by one Dan Shannon in a collision that rocked the Stadium and sent reverberations all the way back to the Sooner state, where the echoes will continue to haunt the Oklahomans for some time to come.
+The ball was knocked loose from
+Sixty-minute Lattner nails Leake.
+Grigg (or better said, Grigg was knocked loose from the ball) and Al Kohanowich recovered for the Irish.
+Lattner then stormed 17 yards to the 7 and Carey quickly pulled the Sooners offside by shifting from the T into the box formation. This placed the ball on the 2, and after Worden barreled to the 1-footline, Carey sneaked over as Irish fans went wild. Arrix’s try for extra point was blocked, but as things turned out, it was not needed.
+Thirteen minutes remained in the game and with it plenty of scoring chances for the potent Sooners. But the superb defensive play of the Irish, an important factor throughout the game, rose to the occasion to stymie the Big Seven champs, as the Sooners failed to advance beyond the Irish 30 in the closing minutes.
+And when Reynolds emphatically batted down Vessel’s last desperation pass and the final gun sounded, students, alumni, and rooters in general rushed onto the field, hoisted Irish stars to their shoulders and marched them off the field in an impressive victory celebration.
+The Scholastic
+the hall decoration contest.
+One Wonderful
+Weekend
+This was a special one — the biggest weekend of the season. There was a lot of activity involved in it— the pep rally at the Fieldhouse on Friday evening and later, if you were fortunate enough to have a bid, the first annual Commerce Ball got underway at the Palais Royale. On Saturday the Hall decorations went on display to the thousands about the campus. Then there was the Oklahoma pep rally and the game—and what a game! Afterwards, if you cheered for ND, you rejoiced at the Victory Dance. Sunday: Mass and the usual “goodbyes,” and the campus was quiet again.
+Farley’s clairvoyant double entry took top honors in
+LEFT: Commercemen and their dates
+successfully
+RIGHT:
+Badinites got into the
+act with a poorman’s banquet.
+launched a advertising.
+new enterprise.
+One young lady handled the
+Everyone seemed happy—even the Oklahoma cheerleaders.
+Dec. 5, 1952
+21
+Bobby Joseph holds, Bobby Arrix kicks, as the Irish break the ice with a 14-yard three-pointer in the third quarter.
+Fumbles Costly in MSC Victory
+East Lansing, Mich., Nov. 15—Before a record-breaking crowd of 52,472 at Macklin Field, a courageous band of Notre Dame defenders could not compensate for the fatal rash of fumbles by the Irish offense as they handed Michigan State’s • Spartans a 21-3 victory and the mythical national championship.
+Gamewise the statistics showed that the Irish outran, outpassed and totally outgained the Spartans. The statistics also showed that Notre' Dame backs fumbled seven times and the alert Spartan defense pounced on all seven bobbles. Two of the fumbles were turned into touchdowns, with the help of two 15-yard penalties.
+After the' Spartans kicked off to open the game, they got a break that could have broken the game wide open, but couldn’t capitalize on it. Quarterback Tom Carey fumbled on Notre Dame’s first play from scrimmage, and Doug Weaver recovered for the Spartans on the Irish 34. Running plays picked up a first down but two five-yard penalties and a superb Irish defense shoved the Spartans back again. On fourth down fullback Evan Slonac tried a field goal from the 35 which fell short.
+Both defenses dug in after that and ; neither team was able to move out of its own territory through the exchange of punts. Early in the second quarter however MSC’s Gordon Serr recovered a Lattner fumble on the Irish 15, but the surging Notre Dame defensive wall again threw back the Spartan threat Before the half had ended the Irish fumbled away the ball once more, but
+22	.	'''V
+By JACK SAND
+the powerful Spartans could do nothing about it.
+After a bitterly-fought scoreless first half the Irish broke the ice—early in the third quarter when Bob Arrix booted a 14-yard field goal. The score was set up when State’s Billy Wells fumbled on the opening play and Johnny Lattner, a defensive standout all day, recovered on the Spartans 13.
+At this point it looked as if Notre Dame’s lead was as big as a mountain, especially since the Spartans were pushed back to their own nine after the ensuing kickoff. However a quick kick by State’s quarterback Tom Yew-cic gave the Irish the ball on their own 40, from which they drove to the 28 only to lose possession through another fumble.
+The Spartans wasted this one too, when Lattner intercepted a Willie Thrower pass on the Notre Dame 10 to stop MSC’s only decent drive of the game.
+On the next play,, however, Spartan linebacker Dick Tamburo made his third straight recovery of an. Irish fumble on ND’s 13, a fumble which finally proved costly to the Irish. After picking up a meager five yards against the “eleven blocks of granite/’ the Spartans received a gift in the form of a holding penalty on the Irish which placed the pigskin on the one yard line. From here Capt. Don McAuliffe slipped through for his first of two touchdowns. Slonac converted and State led 7-3 with
+five minutes left in the third period.
+With approximately 11 minutes gone in the third period the Spartans scored again as McAuliffe piled over from the one, after Henry Bullough fell on Fran Paterra’s fumble on the Irish 21. Another holding penalty inflicted on the Irish hurt in the same spot—the one yard line, and gave the Spartans a 14-3 lead.
+Early in the fourth period the' Irish, with Ralph Guglielmi doing the quarterbacking, smashed 64 yards downfield, only to be frustrated when they missed a first down by inches on the Spartan one. Lattner provided the longest run of the day during this march when he rambled 36 yards to the MSG 34. At this point he pitched a 24-yard pass to Joe Heap on the Spartan 11, from where Neil Worden and Guglielmi carried to the three on a couple of plows. On fourth down Guglielmi tried a quarterback sneak which fell short v of the crucial first down by inches.
+With only four minutes remaining in the contest, Spartan safety man Jim Ellis intercepted a Guglielmi pass on the Irish 34, and returned it to the 24. The lads from the cow college then capitalized on this final break as Slonac cut around right end for the tally. He then followed with his third straight extra point, making it 21-3.
+Overall the Irish churned up 147 on the ground to State’s 128. In the forward passing department the Leahymen held an 150 to 41 edge. But all this was nullified by seven Irish fumbles and 89 yards of very disheartening penalties.
+, ■	.	The. Scholastic
+Irish Romp Over Hawkeyes9 27-0
+Iowa City, Iowa, Nov. 22—‘The old adage, “While the cat’s away the mice will play” was in full evidence this afternoon as the 1952 Fighting Irish overpowered Iowa 27-0. With Head Coach Frank Leahy confined to his home by a flu attack, Line Coach Joe McArdle unleashed a powerful attack and a stalwart defense which crushed the upset-hungry Hawkeyes.
+The mice—Joe Heap, Neil Worden, Johnny Lattner and Tom McHugh— ran with devastating power and speed as they removed any chance the Hawkeyes had for duplicating the many upsets which have featured this fine rivalry.
+Irish offensive backs were not alone in the laurel-taking, as Notre Dame’s fine defensive unit turned in another excellent performance. Although without the injured Dave Flood, the defense stopped the Iowa attack five times within the 25 yard line. Sam Palumbo, Bob O’Neil and Jackie Lee sparked the' defensive line as they denied paydirt to the attacking lowans.
+Forrest Evashevski’s pupils first felt the pierce of the Irish attack just six minutes and 13 seconds after the game began. Taking the initial kickoff, Notre Dame drove 66 yards in 13 plays as Neil Worden crashed over from the two.
+Worden scored his touchdown from the right halfback position, as Coach McArdle experimented with a backfield completed by Tom McHugh, Joe Heap, and Tom Carey. McHugh led the attack with his powerful rushes and key blocking.
+After holding Iowa on the' ensuing kickoff, the Irish stalwarts marched goalward again only to be denied on the one foot line. Iowa then put on its longest drive of the day as it marched all the way to its own 43 before being forced to punt.
+Both teams unleashed their passing arms as Ralph Guglielmi and Tom Carey traded salvos with Jack Hess and Dusty Rice of Iowa. The Hawkeyes seemed to be getting the best of the barrage as they drove down to the' Irish seven. At this point the Notre Dame defensive stiffened and Lattner punted out of danger.
+The Hawkeye’ attack was repulsed again and Binky Broeder punted to Lattner on the 14. Following a phalanx of blockers, Lattner cut to his right and went the entire 84 yards for the score.
+The third period was scoreless as the Irish accumulated the majority of their 145 yards of penalties.
+December 5, 1952
+By TOM WELLY
+In the final stanza Notre Dame’s fleet array of backs found paydirt again, as “Bull” Worden added his second touchdown and Joe Heap took a pass from Guglielmi from the 12. Guglielmi’s pass to Heap was the best play of the day, as the faking of McHugh and Guglielmi brought the Hawkeye defensive in, only to Be surprised by the accurate heave to Heap in the end zone.
+Notre Dame showed its versatility in the final drive as Fran Paterra and Ralph Guglielmi traded the running and passing assignments in an attack that was climaxed by Worden’s drive' from the two.
+John Lattner nears half-way mark in his 84-yard punt return for a touchdown.
+23
+Paterra’s pass to Hunter and Guglielmi’s bootleg play for 16 yards featured the final scoring sequence of the afternoon.
+Iowa’s valiant Hawkeyes struck back with Bert Britzmann passing to his favorite target, Don McBride, as they attempted to score in the fading minutes of the game. Paul Reynolds ended the uprising by picking off a Britzmann toss on his own five yard line to halt the final drive of the game.
+Don Bucci, Bob Martin, and Bob Rigali saw action in the last quarter as Notre Dame showed their best all-around strength of the season. The combination of a tight-fingered backfield and an immovable line proved the difference as the Irish effectively rebounded to supply Frank Leahy with a perfect 27-0 tonic.
+LEFT: Heap tries to move away from a troop of Trojans. RIGHT: Worden (at left under Trojan) stopped, for a change.
+Trojan Defeat Climaxes Upset Season
+By BOB HAINE
+Notre Dame, Ind., Nov. 29—An underdog Notre Dame team gave previously proud and unbeaten Southern California a defensive lesson this crisp Winter afternoon, as 58,394 watched the Irish fashion a convincing 9-0 upset win over the Pacific Coast Conference champions.
+Notre Dame’s defensive unit was the difference in today’s rugged battle. Combining vicious line play with an alert pass defense, the Irish completely baffled a Trojan offense that had rolled to nine straight wins during the course of the season. The Californians managed only five first downs and 64 yards rushing while five of their aerials were intercepted. With the exception of one major USC threat, it was all Notre Dame.
+Ihe Irish scored their touchdown in the second period when Jim Sears, finding himself trapped after receiving AllAmerican John Lattner’s high, floating punt, attempted a hasty lateral to teammate Al Carmichael—who was nowhere around. Menil Mavraides, Irish right guard, pounced on the ball on the Trojan 19 yard line. The Irish drove to the one yard line, then with 8:35 remaining in the second period Lattner plunged for the touchdown.
+Early in the third period Notre Dame drove 37 yards to the USC 17 yard line where their attack sputtered and stalled. On fourth down, Bob Ar-rix, who missed his first placement attempt after Lattner’s touchdown, lofted the clincher—a neat three-pointer that split the north uprights. Notre Dame lead 9-0.
+. Notre Dame’s defensive unit got its greatest test mid-way in the fourth
+period, after the Trojans recovered an Irish fumble on the Irish 27 yard line. Notre Dame linemen Bob O’Neil, Sam Palumbo, Jackie Lee, Bob Ready and Paul Matz and linebackers Dan Shannon, Dick Szymanski and Capt. Jack Alessandrini collaborated to stop USC fullback Leon Sellers inches short of a first down and a yard short of a touchdown.
+The' Irish took over on their one yard line—a testimonial to their over-powering defensive strength.
+Only on one occasion did Notre Dame fail to exhibit an air-tight pass defense. In the fourth period Sears completed a 50-yard toss to end Jim Hayes, who slipped and fell on the ND 25 yard line. On the next play Shannon inter-
+cepted a Sears pass on the Notre Dame ten to end the threat.
+The Trojans, in the course of the afternoon, became adjusted to Irish interceptions. Besides Shannon’s steal, Lattner, Jack Whelan, Paul Reynolds and Alessandrini picked off Southern Cal aerials—and beat the Trojans at their own specialty.
+Until today the Trojans had intercepted 29 of their opponents passes, seven for touchdowns. Today they picked-off only two of Notre Dame’s 15 attempted passes.
+Contrasted with the Trojans total of five first downs were the 12 made by the Irish, who shredded the Trojan defenses for a 194-yard rushing total for the' afternoon. Only in the passing department did the Irish stumble, gaining only ten yards -on one completion in 15 attempts.
+Worden was the top Irish ground gainer with 73 yards. Lattner, the 60 minute performer, had 66 and Pattera 42 yards on five carries—the best average of the day.
+The Notre Dame victory was the seventh in the current campaign (plus two losses, one tie) and marked the 15th Irish victory over the Trojans against seven loses and two ties in a series that began in 1926.
+By toppling the Trojans from the Nation’s undefeated, the amazing Irish added the fourth sectional champion to its list of victims. The' others were Texas, winner of the Southwest crown; Purdue, co-champion of the Big Ten, and Oklahoma, Big Seven champions. The Irish tied Penn, Ivy League winner.
+24
+The Scholastic
+Statistics ♦ ♦ ♦ of the 1952 Season
+Player	TD	PAT	FG	PTS	TC	NYG	AVG.	PA	PC	INT	NYG	PC	NYG	PR	NYG	KR	NYG	pi	YR	p	YP	AVG
+Alessandrini .. ..	0	0	0	0	0	0	0.0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.0
+Arrix		0	10	3	19	3	5	1.7	0	0	0	0	0	0	0	• 0	0	0	0	0	0	0	0.0
+Bigelow		0	0	0	0.	0	0	0.0	0	0	0	0	0	0	0	0	0	0	0	0	1	36	36.0
+Bush 		1	0	0	6	0	0	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0
+Carey		1	0	0	6	42	62	1.5	41	20	3	250	1	—11	0	0	0	0	0	0	0	0	0.0
+Guglielmi		1	0	0	6	48	31	0.6	142	61	9	683	0	0	0	0	0	0	0	0	0	O'	0.0
+Heap 		5	0	0	40	89	383	4.3	13	7	1	130	29	407	10	126	6	145	0	0	0	0	0.0
+Hunter		1	0	0	6	0	0	.0.0	0	0	0	0	16	246	0	0	0	0	0	0	0	0	0.0
+Joseph 		0	0	0	0	2	12	6.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0
+Lattner		5	0	0	30	148	734	5.0	5	2	2	33	17	252	7	113	3	45	4	58	64	2345	36.6
+Martin		0	0	0	0	1	2	2.0	1	1	0	5	0	0	0	0	0	0	0	0	0	0	0.0
+Mavraides 		0	6	0	6	0	0	0.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0
+McHugh		2	0	0	12	32	124	3.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0
+Morrissey		0	0	0	0	1	—2	—2.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0
+O’Neil 		0	0	0	2	0	0	0.0	0	0	0	0	1	12	0	0	1	0	0	0	0	0	0.0
+Paterra 		0	0	0	0	28	130	4.6	3	2	. 0	66	3	17	0	0	2	42	0	0	0	0	0.0
+Penza 		0	0	0	0	0	0	0.0	0	0	0	0	11	164	0	0	0	0	0	0	0	0	0.0
+Reynolds 		0	0	0	0	18	49	2.8	O'	0	0	0	0	0	10	104	5	94	2	8	1	28	28.0
+Rigali 		0	0	0	0	1	14	14.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0
+Shannon 		0	0	0	0	0	0	0.0	0	0	0	0	0	0	0	0	0	0	2	19	0	0	0.0
+Szymanski 		o-	0	0	0	0	0	0.0	0	0	0	0	0	0	0	0	2	2	2	19	0	0	0.0
+Whelan 		0	0	0	0	0	0	• 0.0	0	0	0	0	0	0	1	5	0	0	4	35	0	0	0.0
+Worden 		10	0	0	60	150	504	3.4	0	0	0	0	16	80	0	0	5	75	0	0	0	0	0.0
+TOTALS .... OPPONENTS	26 17	16 13	3 1	183 108	563	2048 1315	3.6	205 197	93 80	15 15	1167 1090	94. 1167		28	348	24	403	15 15	139	66 72	2409	36.5
+OPPONENTS’ FUMBLES RECOVERED: Flood 5, Shannon 3, O’Neil 3, Lee,
+Key—TD: touchdown. PAT: point alter touchdown: FG: held goal. PTS: total points. TC: times carried. NYG: net yards gained rushing. AVG: average yards per carry. PA: passes attempted. PC: passes completed, INT: passes intercepted. NYG: net yards gained passing. PC: passes caught by. NYG: net yards gained with received passes. PR: pimt returns. NYG: net yards gained re nrning punts. KR: kickoff returns. NYG: net yards gained returning kickoffs. PL- Opponents’ passes intercepted. YR: yards intercepted passes returned, P: pants: YP: punting yardage, AVG: panting average.
+Zhe Ze am...
+Notre Dame’s Fighting Irish of 1952
+First row (l.r.): Bob Joseph, Lee Getschow, Neil Worden, Frank Varrichione, Bob O'Neil, Jack Alessandrini (c), Al Kohanowich, Tom Murphy, Jim Weithman, Virgil Bardash, Ed Buczkiewicz, Tom Seaman.
+Second row: Art Nowack, Walt Cabral, Bob Arrix, Armando Galardo, Fran Paterra, Paul Reynolds, Art Hunter, Dan Shannon, Dick Frasor, Dick Szymanski, Paul Matz, Joe Heap, Ralph Guglielmi.
+Third Row: Ed Sarna, Tom Carey, Bob Rigali, John Lattner, Jim
+Schrader, Don Penza, Joe Bush, Rockne Morrissey, Menil Mavraides, Sam Palumbo, Tony Pasquesi, Don Bucci, Bob Taylor.
+Fourth Row: John Steelier (mgr.), Emory Dakoske (mgr.), Paul Robst, Jim Bigelow, Bob Ready, Tom McHugh, Gene Carrabine, Jack Lee, Fred Poehler, Bob Millenbach (mgr.).
+Not in picture: Dave Flood, Fred Mangialardi, Jack Whelan, Bob Martin, Jack Stephens, Ed Cook, Leo Callaghan, Pat Galvin.
+They come from all parts of the United States	.	.	.	from
+Honolulu to Miami . .	. from Lowell to New Orleans	.	.	. and
+especially from Chicago to Pittsburgh . . . from large cities and small towns . . .	from rich families and poor	.	.	.	from
+Catholic prep schools	and public high schools . .	.	but now
+united under the Golden Dome for a common purpose and ideal . . . to play and to win for Notre Dame. . . . From the first week of September to the last week of November, they live, think, and breathe the game. . . . Yet, they are still primarily Notre Dame students. . . . They study, work, play, and pray . . . have the same hopes, desires, fears, and worries as any other college student . . . remaining for the most part unaffected by their success and fame on the gridiron. . . . Representing the school of Our Lady each Fall Saturday, theirs is the task of continuing the glorious traditions of the “Fighting Irish.” . . . Win, lose, or draw they exemplify the Spirit of Notre Dame . . . and have caught the imagination of thousands. . . . In keeping with their Rockne heritage, they do not play to die gamely . . . but fight to live.
+JACK ALESSANDRINI, captain of the 1952 football team, hails from Charleston, W. Va., and is a 21-year-old senior majoring in business administration. He played right guard on offense and linebacker on defense. One of the many outstanding plays Jack made this year was in the Texas game when he broke up a play close to the N.D. goal line which ended a Longhorn scoring threat. After his two years in the Air Force, Jack hopes to play pro ball and ..them go.into- business with his father. His intense'interest in'the game was shown by his hard work and methodical play. A born leader, his sportsmanship and industry have proven him a worthy captain of the Fighting Irish.
+December 5. 1952
+DON PENZA, first-string offensive left end, has made a specialty of driving, shoe-string catches for valuable yardage when it is most needed. Notable examples are those of the North Carolina and Navy games. Don is in the Arts and Letters College, majoring in political science.
+^laMu
+TOM MURPHY, one of the few seniors on the 1952 roster pursuing three monograms, is an economics major and would like to enter a business firm or law school after graduation. As first-line left tackle on offense, Tom saw his full share of action this year.
+Art Hunter
+Don Penza
+Tom Murphy
+Joe Bush
+ART HUNTER, after winning his first monogram at center, was shifted to end during Spring practice. He has since made himself noted for his pass snatching and rugged line play. Hunter was lost to the Irish for a while at the beginning of the season due to an ankle injury.
+JOE BUSH, offensive right tackle, is majoring in political science. Joe was bothered all season with a shoulder injury. One of his outstanding plays this year was in the Purdue game when he recovered a fumble for a TD, the once-in-a-lifetime thrill for a lineman.
+FRANK VARRICHIONE, an education major in the
+of Arts and Letters, was switched from offensive guard to offensive tackle at the outset of the season and has been a regular at the tackle post since. His spirited blocking paved the way for the second-half comeback against Oklahoma.
+Bob Taylor
+College
+Frank Varrichione
+FRED POEHLER, a pre med. major in the College of Science, alternated at offensive right and left tackle, though an injured
+back disc before the season limited is one of the few service veterans in the Air Force.
+his starting assignments. Fred on the squad, having served
+. BOB TAYLOR, normally a defensive tackle,
+got in at guard
+in the victory over Iowa. Rated second in the state of Illinois in high school wrestling in his junior year, he was also named to several all-state grid squads.
+Fred Poehler
+30
+The Scholastic
+VIRGIL BARDASH, a 22-year-old senior majoring in business administration, was an alternating guard and tackle on the Irish eleven. After graduation and a hitch in the Air Force, he hopes either to play pro ball or attend law school.
+Virgil Bardash
+Tom Seaman
+TOM SEAMAN, senior Commerce man, has played nearly every minute for the Irish this fall at the offensive left guard spot. In the 27-21 upset over Oklahoma, Tom played the entire 36 minutes on offense. He is considered by most as the best blocking lineman on the squad.
+Paul Robst
+PAUL ROBST, a reserve guard from St. George High School in Chicago, saw little action this fall, but provided much of that famous Fighting Irish spirit with his all-around hustle. A junior, Robst is a chemistry major in the College of Science.
+MENIL MAVRAIDES, shifted from end to offensive guard and defensive tackle on the right side of the line at the beginning of the season, shared the PAT and field-goal kicking job with Bob Arrix. “Minnie” is earning his second monogram this year. He’s majoring in political science.
+Menil Mavraides
+(juG/uh
+Art Nowack
+JIM SCHRADER, the first string Irish center, played practically every minute the Irish had the ball this season. A steady performer and a dependable blocker, Jim cleared the way for many of Lattner and Warden’s power bucks. The sturdy Pennsylvanian is a domestic marketing major in the College of Commerce.
+ART NOW ACK, a second-string center and linebacker, attended Aquinas Institute in Rochester, N. Y., a school which has produced many Irish grid stars. Art is one of the famous LIFE magazine color photo subjects. A physical Education major, Art hopes to make a career of coaching.
+Jim Schrader
+Dec. 5, 1952
+RALPH GUGLIELMI, the air-minded quarterback of the Irish,
+shared the backfield brain-trust with Tom Carey. Ralph tossed
+four touchdown passes this season, the most important coming in the closing minutes of the first half against Purdue. When “Goog" isn’t throwing a football, he’s studying to become
+TOM CAREY, the diminutive quarterback, shared the starting
+role with Ralph Guglielmi. Tom showed himself a brilliant
+play-caller and accounted for valuable yardage as a runner as well as a passer. Against Oklahoma he scored the winning touchdown and also completed five out of five passes.
+a dentist
+Bob Martin
+Ralph Guglielmi
+Tom Carey
+BOB MARTIN, reserve quarterback, is a southpaw. Bob, who is a sociology major, calls getting into his first college game this year his greatest thrill. In that game, which was against North Carolina, he demonstrated his passing abilities by throwing a 30-yard pass to Don Penza.
+ED BUCZKIEWICZ, a senior reserve quarterback, earned seven letters in basketball and football at Weber High in Chicago. Ed’s major is political science, and after his graduation in June, he hopes to get a job in the Illinois Department of State.
+Ed Buczkiewicz
+
+Joe Heap
+John Lattner
+JOHN LATTNER, one of the few men on the team to play the entire 60 minutes in any game, held down the right-halfback slot on both platoons and handled almost all the punting chores. John’s all-around prowess includes passing and fine defensive work, too.
+Frank Paterra
+JOE HEAP, first-string offensive left halfback, developed into the pony of the Irish backfield. Heap utilized his great speed to lead the team in pass receptions, but is most remembered for his dramatic punt returns of 92 and 84 yards against Pitt and North Carolina. Heap also passed for valuable yardage.
+FRAN PATERRA, an Arts and Letters junior, saw considerable action at halfback. A threat both on the ground and in the air, he illustrated this to best advantage in the North Carolina game by picking up big chunks of yardage both ways. Fran led the Irish backs in rushing against Southern Cal.
+32
+The Scholastic
+
+BOB JOSEPH, a junior halfback, is also the number-one holder for Bob Arrix’s attempts for points after touchdowns and field goals. Bob is a physical education major and hopes some day to become a successful coach.
+BOB RIGALI, reserve offensive right halfback is enrolled in the College of Commerce. Bob didn’t play much this year, partly due to a shoulder injury, but he is still a mighty fancy-stepping ball carrier who is known for his fight and spirit.
+Bob Joseph
+Rockne Morrissey
+Lee Getschow
+ROCKNE MORRISSEY, majoring in civil engineering, got a brief chance to play in the North Carolina game. Although Rock didn’t see much game action this year, the diminutive defensive halfback is a real hustler. He played two years at
+LEE GETSCHOW, a physical education major, doubles as a defensive and offensive halfback. Fishing, hunting and skiing take up a good part of his time when he isn’t playing football. A junior, Lee will serve a hitch in the Air Force after gradua-
+Purcell High in Cincinnati.
+
+TOM McHUGH, who played fullback when Worden didn’t, was also a member of the punting and kick-off teams because of his . defensive prowess. His offensive play was bruising too. In the
+North Carolina game he came away with scoring honors in the third period. Tom is a physical education major.
+NEIL WORDEN, the Irish ace fullback, is a physical education major. He surpassed his scoring pace of last year and finished well ahead of the other backs. Neil played an important part in Notre Dame’s upset of Oklahoma 27-21, scoring two of the Irish’s hard-earned touchdowns.
+BOB ARRIX, a reserve fullback, served as Notre Dame’s kicker starting with the North Carolina game. The compact New Jersey lad also contributed two field goals, both of which gave the Irish early leads against Navy and Michigan State. Bob iced the USC game with this third three-pointer.
+Bob Arrix
+33
+BOB O’NEIL, number-one defensive end, was particularly noted for his breaking up of interference and hard smashing tackles. Bob is a Commerce senior majoring in Business Administration. Although Bob will go immediately into the Air Force upon
+raduation,
+pus NROTC unit.
+FRED season • ing a threats.
+he is still undecided on his future career.
+Bob O'Neil
+Paul
+Matz
+Fred Mangialardi
+PAUL MATZ, first string defensive left end, developed into fine performer this season under the tutelage of End Coach Johnny Druze. Matz teamed up with right flanker Bob O’Neil to constantly harass the opposition’s passer. The former Mt. Carmel High School star is a sophomore in Aero Engineering.
+MANGIALARDI, defensive left end was hampered all with a knee injury. He will be remembered for recover-Penn fumble which stopped one of their big scoring . Fred is an economics major and a member of the cam
+
+Sam Palumbo
+WALT CABRAL, a major in physical education, alternated at both offensive and defensive end this season. A dislocated back
+vertebrae before the season started and an infected foot the Texas game slowed him down considerably. Walt all the way from Hawaii.
+SAM PALUMBO, first-string left tackle in the defensive line, is a business administration major. Highly rated by the press for his outstanding work all season, Sam was instrumental in smashing the Texas ground game and spent most of the MSC game in the State backfield.
+before comes
+Walt Cabral
+BOB READY, first-string
+Bob Ready
+An ankle Middies.
+defensive tackle this season, is in
+the College of Arts and Letters. A standout in the line all year, he was particularly troublesome to Texas and Michigan State.
+injury against Navy confined his
+action against the
+TONY PASQUESI, second-string defensive right
+tackle, is
+marketing major in the College of Commerce. Tony came into his own against North Carolina and saw considerable action thereafter. Tony considers beating the Sooners his biggest thrill.
+__1
+Tony Pasquesi
+34
+The Scholastic
+Jack Lee
+JACK LEE, middle-guard on defense, was chosen Lineman of the Week in the mid-west after his outstanding play in the Purdue game in which he recovered two key fumbles, and blocked a punt. He played practically every minute on defense. Jack is in the College of Arts and Letters.	‘
+JIM WEITHMAN, senior phy. ed. major, foresees two years’ service as a Marine platoon leader upon graduation. Second-string middle-guard in the defensive line, Jim has been used mainly at the all-important right end position on the extra-point nine-man line.
+DAVE FLOOD, right-side linebacker, has a great ability for diagnosing plays. He was lost to the Irish for the season after suffering a broken collarbone in the Michigan State clash. A senior majoring in physical education, Flood would like to coach after football.
+Armando Galardo
+ARMANDO GALARDO, better known as “Army,” is a junior enrolled in the College of Commerce and is majoring in accounting, which he considers his favorite course. A halfback, he has also shown himself a defensive player, intercepting three passes in last year’s Old Timers Game.
+Dan Shannon
+
+Jim Weithman
+
+Dick Frasor
+DAN SHANNON, outstanding as first-string linebacker this season, gained recognition as the hardest tackler on the Irish squad. His stadium-shaking tackle of Oklahoma’s Larry Grigg caused the Sooner back to fumble and set up the winning ND touchdown. Dan is enrolled in the College of Commerce.
+1
+DICK FRASOR, substitute offensive center and defensive linebacker, saw quite a bit of service in the Michigan State and Iowa games. Sophomore Frasor is another of the Notre Darners coached by former Irish great Terry Brennan at Mt. Carmel High in Chicago. He is enrolled in the College of Engineering.
+DICK SZYMANSKI, another defensive stalwart, held down the right side of the crackerjack ND linebacking trio. Dick was particularly outstanding in the Purdue and Navy games. Against the middies, he intercepted two passes and was a main cog in stopping the Navy offense cold. Dick is a Commerce student.
+Dick Szymanski -
+Dec. 5, 1952
+35
+
+Jack Stephens
+Jim Whelan
+JACK WHELAN, a 21-year-old administration, played first-string his feats was an interception of a He will also be remembered for several TD runs in the Penn game, enter the Air Force.
+AL KOHANOWICH, a 22-year-old senior majoring in physical education, alternated at defensive halfback and right end, recovering the key fumble in the Oklahoma game which set up our winning tally. He was also one of N.D.’s kick-off specialists. Al will enter the Marines after graduation.
+Safety Men
+Paul Reynolds
+Pnntoi
+Jim Bigelow
+PAUL REYNOLDS, as a safety man on both the offensive and defensive platoons, developed into one of the most versatile men on the squad. Besides excelling in batting down passes and returning punts, Paul also did the kicking behind John Lattner. In the Texas contest he had his line drive punt fumbled, setting up the second Irish score..
+
+JACK (JUNIOR) STEPHENS, who switched from the basketball court to the football field, furnished enough talent to help the Irish pass defense in both the Purdue and North Carolina games. Stephens set up the first Irish score against the Boilermakers with a game-opening, ball-jarring tackle of halfback
+Rex
+Block.
+DON BUCCI, s substitute quarterback and third-string defensive
+backfield major in ball and
+man, played against the Hawkeyes. An accounting the College of Commerce, he captained both the footbasketball squads in high school.
+senior majoring
+in business
+defensive halfback. Among Texas pass on the N.D. 15.
+stopping Joe Varatis from Upon graduation Jack will
+Don Bucci
+Al Kohanowich
+Gene Carrabine
+GENE CARRABINE, a member of the College of Commerce, was first-string safetyman until leg injuries against Purdue curtailed his activity and forced him to miss the Oklahoma game. Gene’s desparation tackle of a Penn receiver just three yards short of paydirt undoubtedly saved that tussle.
+JIM BIGELOW, reserve quarterback and punter, saw action in both the Michigan State and Iowa games. Against the Spartans he got off a nice long punt in the first quarter when he replaced John Lattner. Bigelow is a sophomore in the College of Arts and Letters and plans to major in journalism.
+36
+The Scholastic
+Zhc Coaches
+A football team’s success is determined largely by the men who mold it . . . who instruct its members in the fundamentals of the game . . . men who themselves were noted stars in their playing days . . . who possess a storehouse of experience with which to impart knowledge to their more youthful counterparts. . . . Of the eight-man ND staff, six are Notre Dame alumni . . . the other two, graduates of Fordham, where they played under Line Coach Leahy	.	. . following	him to Boston College, then
+to Notre Dame. .	.	. All eight	of	them, well-versed in the
+strategy and tactics	of the game .	. .	great coaches . . . Christian gentlemen . .	.	family men	. .	. Notre Dame men.
+HEAD COACH FRANK LEAHY masterminds the Irish football machine both on and off the field. On Saturday afternoons his sideline histrionics often rival the performances of the teams on the field as he frets, fumes, and paces nervously up and down in front of the bench when the Irish are in a tough spot, points out errors and outlines strategy to the substitutes, then beams benevolently as "the lads” wrap up another ball game.
+But Leahy’s work isn’t limited to the Saturday afternoon performances in the stadium. His week includes watching movies of next Saturday’s opponents in action, analyzing the play, and with his assistant coaches mapping strategy to fit the various strengths and weaknesses of the two teams. Leahy oversees the practices during the week, correcting mistakes, instructing the individual players, and keeping the entire team in top condition. Besides this he spends hours in his office working out new plays, being interviewed by the press, and doing the paper work required of a modem football coach.
+December 5, 1952
+’ 37
+John Druze
+END COACH JOHN DRUZE, seldom sees the Irish play outside of practice—he spends his Saturdays during the football season in the pressboxes at other games, scouting future opponents. A former proball player, Druze also captained the famed “Seven Blocks of Granite” during his undergraduate days at Fordham.
+CENTER COACH WALLY ZIEMBA, like Druze, scouts for the Irish on Saturday afternoons. Ziemba began his football career as a monogram-winning tackle but later switched to center where he won All-American honors in 1941. He joined the coaching staff after sendee in the Marines during World War II.
+TACKLE COACH BOB McBRIDE, besides his regular coaching duties at practice, mans the phone connected with pressbox and score-board during Irish games, gathering information about both teams’ strength and weaknesses and passing it on to Coach Leahy. McBride joined the Notre Dame coaching staff in 1949.
+Joe McArdle
+GUARD COACH JOE McARDLE, distinguished himself this season when he substituted for Coach Leahy at the Iowa game, spurring the Irish to a 27-0 victory. His regular station during home games is the scoreboard, where he watches the spacing of the team on the field. At games away from home, he keeps an eye on ND defense from the press box.
+Wally Ziemba
+Bill Earley
+BACKFIELD COACH JOHNNY
+LUJACK, spends Saturday
+John Lu jack
+Fred Miller
+MILLER — divides his time the Miller High Life Brewing
+VOLUNTEER COACH FRED between his job as president of
+afternoons in the pressbox, watching for weaknesses in the Irish offense. New to the coaching staff this year, Lujack was an All-American quarterback on the 1946 and ’47 Notre Dame . teams and spent four years playing pro ball with the Chicago Bears before returning to coach the Irish backs.
+Co. and the Miller Lumber Co. of Milwaukee and his voluntary post as assistant to Coach Leahy. A three-monogram man during his student days, Miller received his training under the immortal Rockne.
+BACKFIELD COACH BILL EARLY, has the job of keeping substitutes ready for action on the sidelines during the Notre Dame games. A former Irish star, Early began his coaching activities here as mentor of the B squad in 1945. A noted linebacker and breakaway runner in his college days, he took over the varsity backfield in ’47.
+38
+The Scholastic
+DIRECTOR OF ATHLETICS ED. “MOOSE” KRAUSE graduated from Notre Dame in 1934 following a brilliant athletic career. A talented gridder and three-time basketball AllAmerican, Krause undertook a coaching stint at St. * Mary’s. College in Winona, Minn., and then moved to Holy Cross, where he served as Crusader line coach. In 1942, he was brought back, to Notre Dame as a line coach, and that -winter, after the death of George Keogan, the basketball coach, Krause was appointed to fill that vacancy. Krause continued to tutor Irish basketball squads until his appointment as Director of Athletics was announced in the Spring of 1949.
+As Director of Athletics, the whole athletic program at Notre Dame is under Krause’s supervision. Besides arranging Irish football, basketball, and track schedules, Krause's services as Notre Dame’s representative at NCAA meetings and conventions and as speaker for the numerous banquets and quarter-back club dinners held throughout the nation have been of inestimable-value.
+EUGENE PASZKIET, Head Trainer, graduated from Notre Dame in 1950 and was appointed last Spring to replace former trainer Hugh Bums. First on the field when injuries occur, Paszkiet’s skillful treatments have enabled many key players to
+remain in this year's thin Irish
+ranks.
+behind the Scenes
+Gene Paszkiet
+Bob Millenbach
+Yet, a football team could not operate without the men behind the scenes . . . the unsung heroes who devote their careers to carrying out the countless details that arise preparatory to the Big Game. From the director of athletics who first schedules the contest on down to the trainer who cares for the sprains and bruises after the smoke of battle has lifted from the field ... all of them, as much a part of victory as the halfback who ran 50 yards for the winning touchdown . . . important cogs in a dynamic, efficient organization . . . and a winning one.	_
+Student Managers ROBERT MILLENBACH, EMORY DAKOSKE, and JOHN STOELLER were, in the words of Capt. Jack Alessandrini, the “big brothers” of the 1952 Fighting Irish. Working under the supervision of Jack McAllister, the managers cared for and distributed equipment and assisted players in following trip itineraries. They were aided in their chores by many underclass members of the Manager’s Association.
+Jack McAllister
+John Stoeller
+Emory Dakoske
+JACK McALLISTER, Equipment Superintendent, has been buying, fitting, issuing, and maintaining uniforms and equipment at Notre Dame since 1931. Aided by the student managers, “Mac” is responsible for the complete outfitting of the Irish— whether at home or away.
+December 5, 1952
+39
+THE athletic director, the trainer, and the student managers are the “front men” of the extensive and intricate* behind-the-scenes organization necessary to develop a football Saturday to precision smoothness. Never seen by and almost unknown to the majority of the fans are the men off stage entrusted with the task of making everyone happy with the week’s-end gridiron matinee.
+At Notre Dame this task falls chiefly upon the ingenuity and experience of four men. Herbert E. Jones acts as .business manager. To see that Notre Dame always gets top billing; there’s Charles Callahan, director of sports publicity. The distribution of tickets is capably handled by M. Robert Cahill, while the indispensable Joseph Dierickx rounds out the foursome as custodian of the stadium.
+Handling a crowd as large as the one that floods South Bend on the Saturday of a home game entails extensive, almost endless arranging. Herb Jones has a staff of over 2,000 who serve as parking lot attendants, ushers, venders, ticket takers, and the' like. The welfare of the football fan is his prime concern.
+When the team takes to the road, Herb arranges for their transportation, accommodations and meals, as "well as the many other details that arise. In addition, he orders all athletic equipment, takes care of all expenses that the team might incur, and handles all athletic accounts.
+As director of sports publicity,
+Business Manager Herb Jones (left) charts an Irish trip with assistant Len Kahler.
+Maura Mills and Bill Londa (standing) assist Sports Publicist Charlie Callahan.
+Charlie Callahan sees to it that every Notre Dame fan will get more' than his share of pre-season “inside dope.”
+During the season he supplies leading publications with the information that breeds heroes and briefs the' world on football as played by Notre Dame.
+The Notre Dame pressbox, rated as one of the best in the country, also comes under the' Callahan jurisdiction. Over 300 sportswriters, announcers, technicians and television men must be supplied with all the materials necessary for their job.
+But that’s not the end of the job
+for the' publicity department. Every year thousands of letters are received requesting pictures, autographs, statistics from the past, and game strategy and explanations of various plays. All are answered.
+Another of the offices in Breen-Phillips Hall is the headquarters of Ticket Manager Bob Cahill.
+Early each summer Bob is faced with the problem of distributing some 500,000 tickets to eager football fans all over the country. This task is all the harder since there are seldom enough tickets to fill the huge demand.
+Bob, who needs a staff of 14, begins his job early in July by mailing applications to the seasonal box holders, alumni, and students and their parents.
+Joe Dierickx is the final member of this production crew. As custodian of the stadium, he has been painting railings and seats, cleaning the stands, resodding turf, and maneuvering tarpaulins on and off the playing field for 20-odd years.	'
+Joe' cares for and trains the Irish mascots, Shanon View Mike and Pat.
+Although the fans may never see these four men, they would also never see an ND home game without them.
+40
+The Scholastic
+Zkc freshmen-.
+Rocks That Sharpen The Varsity’s Attack
+Bob Lally
+During the past two months, while the Irish varsity was churning through seven of its ten opponents, a trio of former Notre Dame stars in the person of Dick Cotter, Bill Gaudreau, and Bob Lally have been tutoring a huge batch of freshmen whom they expect will help form a championship Irish squad in the near future.
+Leading the parade of tmorrow’s ' stars at tackle is 6-foot, 220-pound Al
+Barlow; 225-pound Gene Martell from Pennsylvania; 6-foot 3-inch John Ke-galy, a 215-pounder from St. Ignatius High in Chicago; Bob Lasch, another 6-3, 215-pound tackle from Pennsylvania; and Pat Nakfoor, a 6-foot 5-inch giant from Lansing.
+Holding down the commanding berths at the guard slots are Ray Lemek, a 6-1, 207-pounder from Sioux City, Iowa, and Tom Giek, 6-foot 204-pounder from Crystal Lake, Ill. Tagging right along with these two is George Nicula, 210 pounds, from Warren, Ohio, and Jerry Culbertson, 192 pounds, from International Falls, Minn.
+Moying to the center of the frosh line we find Jim Mense, a 6-foot 205-pounder from Hamilton, Ohio, who is considered one of the finest prospects on the field. Following Mense is 225-
+pound Bernie Giacalone from New York City and Jack Mulcahy from Columbus.
+Filling out the end positions on the squad with just as much depth as the rest of the line we begin with Gene Kapish, the 6-foot 2-inch 200-pound brother of former' ND monogram winner Bob Kapish. Gene is a fine pass receiver and blocker, . . . when he is teamed up with Pennsylvania’s Wayne Edmonds, you couldn’t find a faster combination on the field. Other very capable and promising pass receivers are Don George, a 6-foot 4-inch 205-pounder from Dunbar, Pa.; Gene Smes-saert, South Bend’s gift to the team; Jack Dumas, a 6-3, 195-pounder from Grand Rapids, Mich.; and ex-marine Bob Hennelly from St. Phillip’s High in Chicago.
+For the all-important quarterback spot on the squad Don Schaefer, a 5-11, 190 passing whiz from Pittsburgh; Jim Ramm, another good passer from Youngstown, Ohio; and Art Rohack, a 5-11, 175-pounder from Philadelphia, fought it out.
+Running from the halfback slots were six potential Irish stars, led by John Gaffney and Dick Fitzgerald, a pair of Chicago rockets. Four other top-ranking performers are Dick Keller, a slick 180-pounder from Toledo; Dick Wash-
+T H E
+C O A C H
+E S
+Bill Gaudreau
+ington, a fast, shifty scat-back from Pennsylvania; and George Wilson and Dick Hendricks, another darting duo.
+In the defensive halfback positions were a pair of hustling 170-pound twins, Dan and Dave McNamara, while Chicago’s Benny Zajeski, a 6-foot, 3-inch Mt. Carmel product, anchored down the middle of the outer wall.
+The fullback slot was manned by either Nick Raich, 5-10, 175-pounder from Milwaukee, or John Armerod, a. strong runner and passer from Providence, R. I. Fitzgerald and Zajeski also ran out of the fullback spot, to exemplify the all-around strength shown by this year’s freshman squad.
+LEFT: Band in position for traditional game-opening ceremonies. RIGHT: Colorful Irish Pipers, a recent innovation.
+Music-Makers and Thunder-Shakers
+Crowd-pleasing performances are not limited to the teams that duel in Notre Dame stadium four times each Fall. Pre-game and half-time color are important, too. Without them, some of the 56,000 patrons of Notre Dame stadium could well be disappointed on a Saturday afternoon.
+The Notre Dame music-makers have been crowd-pleasers. Four times a year they pour out, 108 strong, from the north ramp of the stadium. Led by five cart-wheeling cheerleaders, Irish mascots Shannon View Mike and Pat, and Drum Major Jerry Gatto, they fan-out, halt, reform and salute the thousands with a stirring fanfare and a huge HELLO. Then, with their introduction completed, they return to the sidelines to await the half-time performance.
+'This year's Notre Dame Marching Band, directed by Robert F. O’Brien, drilled consistently to turn out five half-time shows. Practice was held two hours an afternoon, five days a week—sometimes under the' floodlights -of Cartier Field. At the Pittsburgh game a complete Irish show was presented. An election theme was carried out for the North Carolina game, and
+By BOB HAINE
+the Oklahoma game found the band saluting the Sooner State with excerpts from the score of the musical Oklahoma. In Cleveland, site of the 1952 student trip, the band enlarged their election theme to full half-time proportions in an effort to aid the “get out the vote” campaign aimed at the 62,000 that viewed the Notre Dame-Navy skirmish in Cleveland’s Municipal Stadium. The band concluded their season at the Southern California game by giving a musical interpretation of the seasons of the year and, as an added feature, paying tribute to Studebaker’s 100th anniversary.
+A recent innovation has been the “Fighting Irish Pipers,” a kilted group of eight who appear with the band at all stadium performances. Trained by Mr. Louis Snedden, a native of Scotland who played the pipes extensively in the British Isles, the group has been a colorful addition to half-time proceedings at Notre Dame Stadium.
+Like the band, the' thundershakers,
+cheerleaders if you prefer, play their part in the Fall pattern of stadium color. During the season they control the cheers and rousing chants of the students in the stands—and controlling an excited or bored student body is no easy task in either instance.
+At Notre Dame, cheerleaders are selected by competitive tryouts held before the season begins. The “chosen five” practice an average of six hours a week to perfect their various cheers and tumbling techniques—the latter being their sideline specialty. Leading pep rallies plus taking Shannon View Mike and Pat through their paces on the ND sideline are more responsibilities that tend to make the cheerleaders Notre Dame’s “busiest five.” Upon graduation they are awarded a ND monogram, a token of appreciation for their services.
+When the season has been completed, interests of the Notre Dame band and the cheerleaders turn elsewhere. The band concerns itself with its concert season—this year a 3000 mile tour reaching the southern extremities of Florida. The cheerleaders—well, basketball season is another thing.
+Irish cheerleaders Hannan, Keegan, O’Leary, Kruse, and Vasconcelles limber up for a busy season along the sidelines.
+42
+The Scholastic
+Zhe Koster
+of the 1952 Fighting Irish
+	NO.	NAME	POS.	AGE	HT.	WT.	HOMETOWN	HIGH SCHOOL	CLA	SS
+2	•Carey, Thomas F				QB	19	5-10	175	Chicago, HI	Mt.	Carmel 	_	-			So.
+3 4	•Guglielmi, Ralph W	 Bucci, Donald 		QB QB	19 19	6-0 6-0	180 180	Columbus, Ohio 	Grandview		  - Youngstown, Ohio 	East 			  -		So. So.
+6	Martin, Robert L				QB	20	6-2	185	Davenport, Iowa 	St.	Ambrose —			Jr-
+7	Buczkiewicz, Edward 		QB	21	6-0	177	Chicago, III	..Weber					Sr.
+8	Bigelow, James 		QB	18	5-11	170	Glenshaw, Pa	Shaler				—					So.
+9	Galvin, Patrick J		QB	18	6-0	185	Detroit, Mich	..Catholic	Central 			So.
+10 14	•Paterra, Francis F		 •Lattner, John J		HB HB	20 19	5-11 6-1	190 190	McKeesport, Pa	.Tech 		  —	—	 Chicago, Ill. 			Fenwick 				Jr-Jr-
+15	Callaghan, Leo P		HB	19	6-1	185	Passaic, N. J. 		.Pope	Pius XII 		So.
+16	Morrissey, Rockne J		HB	20	5-9	165	Cincinnati, Ohio 	Purcell 		Jr-
+17	•Whelan, Jack D	-	—		HB	21	5-11	180	Miami, Fla		Miami 				Sr.
+18	•Revnolds, Paul R		HB	19	6-0	180	Springfield, Ill	 Cathedral							So.
+19	Getschow, Lee E				HB	20	6-0	175	Kenilworth, 111. 	New Trier 		Sr.
+20	•Carrabine, Eugene P						HB	19	6-1	178	Gary, Ind. 	Emerson 	 —	So.
+24	Joseph, Robert 	-		HB	21	5-9	165	Martins Ferry, Ohio	Martins Ferry 				Jr.
+28	Santa, Edward 	  -	-		HB	22	5-11	175	South River, N. J	..South River 				Jr.
+29	Galardo, Armando 		HB	20	5-10	170	Watertown, N. Y	...Immaculate	Heart 			Jr.
+30	McHugh, Thomas F		FB	20	6-1	190	Toledo, Ohio 	Central Catholic —			Jr.
+32	••Flood, David 				HB	24	5-10	185	Pittsburgh, Pa		Langley 	 —	Sr.
+33 42		FB	19	6-0	190	Chicago, III	 Mt.	Carmel .			So.
+	•Heap, Joseph L	  -		HB	20	5-11	175	Covington, La			...Holy Cross (New Orleans)		So.
+44	Arrix, Robert J	-		FB	19	5-10	188	Teaneck, N. J	 .Peddie	(Highstown) 			So.
+45	Rigali, Robert J		HB	20	5-8	172	Oak Park, Ill	 Fenwick					Jr.
+48	•Worden, Neil 		FB	21	5-11	185	Milwaukee, Wis		Pulaski 				Jr.
+49	Stephens, Jack			HB	19	6-2	190	Chicago, Ill		Mt. Carmel 		-			So.
+52	•Szymanski, Richard F	  -		C	19	6-2	210	Toledo, Ohio 	Libbey 						So.
+53	•Schrader, James L		C	20	6-2	206	Carnegie, Pa		Scott Twp			Jr.
+54	Nowack, Arthur C	-		C	21	6-1	208	Rochester, N. Y		Aquinas Inst			Jr.
+56	Cook, Edward J	-	-		C	19	6-1	210	Philadelphia, Pa. 	S. E. Catholic 		So.
+60		T-G	20	6-0	207	Natick, Mass	..Natick	.				So.
+62	•Seaman, Thomas J		G	22	5-11	198	Canton, Ohio 	Lincoln 		Sr.
+63	Frasor, Richard 	-	-		G-C	19	5-11	190	Blue Island, III. 			Mt. Carmel 		So.
+65	•Lee, Jack 	—	-		G	20	5-11	190	Medford, Mass. 	Malden Catholic 		So.
+66	Robst, Paul K. .—			G	20	5-11	195	Chicago, III		St. George 		Jr.
+67	•Palumbo, Samuel 	-	-		G	20	6-0	195	Cleveland, Ohio	Collinwood 				So.
+68	•Alessandrini, Jack (c) 				G	21	5-11	197	Charleston, W. Va	Catholic						Sr.
+69	•Bardash, Virgil 	  -		G-T	22	6-0	206	Gary, Ind. 	Horace Mann 			Sr.
+70	••Kelly, Robert J	  -		T	21	6-2	203	Duluth, Minn.	Catholic 		Sr.
+71	Taylor, Robert H			—		T	20	6-2	200	Pekin, IB. 	Pekin		So.
+73	•Bush, Joseph R			-	—		T	20	6-3	206	Oak Park, III. 	St. Ambrose (Davenport, la.)	Jr.
+74	•Ready, Robert 			T	20	6-3	208	Lowell, Mass. 	Lowell			.-.		So.
+75	Pasquesi, Anthony L. 					T	19	6-4	212	Chicago, III. 	L	St. Philip 		So.
+76	•Poehler, Frederick 								T	22	6-4	210	Jackson, Mich. 	Jackson 				Jr-
+78	••Murphy, Thomas F					T	22	6-1	210	Chicago, Ill		St. George 				Sr.
+79	gWeithman, James C. 					T	22	6-0	190	Bucyrus, Ohio	Bucyrus 		Sr.
+80	•Hunter, Arthur 	-		E	19	6-3	221	Akron, Ohio 	St. Vincent 		Jr.
+81	Kohanowich, Albert 			E	22	6-1	189	Hempstead, N. • Y		Hempstead 		Sr.
+82	•O’Neil, Robert 				E	21	6-2	195	Bridgeville, Pa	 Lincoln			Sr.
+83	•Penza, Donald 				E	20	6-1	200	Kenosha, Wis	 St.	Catherine (Racine) 		Jr.
+85	•Mavraides, Menil —			G	19	6-1	205	Lowell, Mass		Lowell		Jr-
+86	•Mangialardi, Fred 		E	19	6-1	195	Chicago, Ill. 	St. Philip		Jr.
+88	•Cabral, Walter K		E	20	6-3	205	Honolulu, Hawaii	St. Louis		So.
+90	Matz, Paul A			E	19	6-1	191	Chicago, Ill.	Mt. Carmel		So.
+• Denotes Monograms Won. g Weithman (79) received a monogram in 1950 but not 1951.
+Dec. 5, 1952
+43
+Diamonds Jewelry Watches
+J. Trethewey
+JOE, THE JEWELER 104 N. Main St. J.M.S. Bldg.
+[health
+I SPOT I
+[SHOES
+For Men Women Children
+Paul Whalen, Mgr.
+209 W. COLFAX AVENUE
+FRANKIE LANE made the Song famous but GOOD FOOD made us famous for our Italian dishes.
+Spaghetti	Ravioli
+Chicken	Steaks
+The new tradition at Notre Dame is . . .
+RESTAURANT
+610 NORTH MICHIGAN 3 blks. N. of South Shore Station
+Continuous Quality
+Continuous Price
+UNOM AUtMOOTT Ot VNl COCA-COLA COMPANY BY
+COCA-COLA BOTTLING COMPANY OF SOUTH BEND
+
+44
+The Scholastic
+Your Trip Home Is
+IN THE BAG BY TRAIN!
+NO WEATHER OR TRAFFIC delays to make you miss holidates . . . when you go home by safe, dependable train. It’s a headstart on vacation fun, traveling with friends ... in roomy comfort with swell dining car. meals!
+IT'S A GIFT! If you and two friends go home and return together . . . Group Coach Plan tickets save you each up to 25% of the regular round-trip coach fares. Or a group of 25 or more can each save up to 28%! Head home in the same direction at the same time. After the holidays, return separately if you wish on this larger Group Coach Plan.
+EASTERN RAILROADS
+Dec. 5, 1952
+45
+Give Christmas back to Christmas’ Giver
+God's gift on Christmas was the eternal gift of His Own Divine Son to mankind . . .
+Your Christmas gift will truly commemorate this event if you give a fitting Christian gift...
+CONCERNING MARY ANN
+By Rev. Leo R. Word, C.S.C.
+A real and penetrating account of the actual experiences of Mary Ann and the hardy Irish who settled in Iowa. Father Ward has built this saga upon a finely outlined value scheme. A book full of humor and meaning.
+non-fiction	$2.75
+give books by men of the spirit . . . devoted to things of the spirit, this Christmas.
+Brother Andre of Mount Royal
+By Katherine Burton
+The story of Brother Andre of Mount Royal unfolds itself as a symbol of the living Faith of men of God. His faith, his simplicity in virtue are, in miniature, an expression of the highest aims and values of the whole of mankind. The author has ably portrayed this man of God as one attractive to all men who see something of Christ in themselves.
+biography	$2.50
+THE WISDOM OF SORROW
+By Ricardo Leon
+The Cross, God’s gift to all of us, is the sublime theme of this novel. Blind Don Fernando Villalaz found his cross when he found his sight, and he found wisdom too, in the sorrow he experienced in the shadow of his cross.
+fiction
+$3.50
+AVE MARIA PRESS, Notre Dame, Ind.
+I am enclosing $........ Please send: (	) BROTHER ANDRE of MOUNT ROYAL
+(	) CONCERNING MARY ANN	(	) THE WISDOM OF SORROW
+Name.........................................................................................
+Street ......................................................................................
+City —...................................................     State	.........................
+46
+The Scholastic
+Ready ■&"a bigtime 1h& iQeaHbn?
+HOW ABOUT
+WURMNCING?
+Is it old fashioned?
+Do you lack confidence..
+Are you sure of the steps?
+☆
+Don’t spoil your holiday... come to Arthur Murray’s and be sure of popularity
+• Don’t waste another day. Come into the studio today and get your dancing polished up for holidaytime. Learning to dance the Arthur Murray Way is fun and easy. Even a beginner can go dancing after one lesson. So act now... being a good dancer will guarantee you fun and good times.
+ARTHUR MURRAY
+120 E. Wayne	2-3339
+Fish, Steaks, Chops and Chicken
+At Prices You Will Appreciate
+Our Specialty
+Yi Golden Brown Fried Chicken Shoestring Potatoes Jug of Honey Hot Buttered Rolls
+$1.20
+JOE NABICHT'S RESTAURANT "Chicken in the Rough" 213 N. Main Open Sunday
+SOLLITT ["ONSTRUCTION
+GENERAL CONTRACTORS
+SOUTH BEND, INDIANA
+Dec. 5, 1952
+47
+Italian Home Cooking
+Five Minutes from the Campus
+i • PIZZA ’ SPAGHETTI
+Every day but Sunday ,
+* CHICKEN a la cacciatore |
+J	Saturday Only	|
+You're always welcome at ....	|
+| ROCCO'S
+)l 537 N. St. Louis On the Bus Line.
+SUNNY ITALY CAFE
+A NOTRE DAME TRADITION
+“Rosie's.” Here you’ll always enjoy the Italian accent on Fine Food.
+SHOES NEED FIXING?
+Why Go Downtown?
+© BETTER SERVICE ©BETTER WORK
+• LOWER COST
+PAUL'S SHOE SHOP
+Behind Main Bldg.
+SUNNY ITALY CAFE
+601 North Niles
+Van Ueusen
+The Courtesy Barber Shop thanks you men from Notre Dame for your patronage.
+COURTESY BARBER SHOP
+112 E. Washington Under Max Adler
+Vanaea Cportehaeks get the Chieks!
+NOTRE DAME STUDENTS Welcome to
+These good-looking Van Heusen Sportcheck shirts have a "come-hither” look all their own. So don’t tempt fate— rate the dates by wearing these colorful checks. You say it’s cold? Nonsense—not when you wear these snug sport shirts. They’re made of Van Heusen Vanaca Flannel... a specially-processed 100% virgin wool that’s warm outdoors .. . comfortable indoors. See these Van Heusen Vanaca Sportchecks in a wide variety of color combinations. All with the popular Rollover collar.	$9.95
+128 W. WASHINGTON
+TYPEWRITERS FOR RENT
+All Makes—Large Selection Students Special Rates
+3 Months for $8.75—
+One Month, $3.50 Rental may be applied on Purchase. Sales Service all Machines Michiana’s Largest Dealer
+SUPER SALES CO.
+Phone: 66328	315 W. Monroe
+South Bend, Ind.
+PHILLIPS-JONES COBP., NEW YORK 1, N. Y.
+48
+The Scholastic
+Not the Queen of the Junior Prom, not the Kappa most likely to succeed, but a little receptionist named Jane!
+She’s the gal at the desk at the very first company you are going to call on. The gal who will flash the word that Fearless Peerless is without, ready, willing and able to go to work. Take off your hat as you enter, smiling.
+And, brother, you better have a hat! Because it is a well-known fact that today’s business executive looks favorably upon the pro- • spective junior executive who has the foresight to dress the part. You may get away with being without a hat on the banks of the Old Raritan—but not on Madison Ave., LaSalle St. or Market St.!
+So, go forth from the hallowed halls, brother—and may luck attend you—proudly bearing your diploma in one hand and your hat in the other. With a hat, you’re not dressed to get by—you’re dressed to get ahead.
+"Wear a Hat-lti as Healthy as Its Handsome!"
+These fine hat labels have published this advertisement in the interests of good grooming and good health of American men.
+DOBBS	CAVANAGH g KNOX
+BERG BYRON (g C&K DUNLAP
+Divisions of the Hat Corporation of America—Makers of Fine Hais for Men and Women
+Dec. 5, 1952
+49
+An Ideal Place to Stay When Visiting at Notre Dame
+Indiana’s Newest and Finest
+Opened To The Public April 21, 1952
+92 Baths
+MwuA Umi
+Un amt/pMi"
+VI Rooms
+yl TERRACE DINING ROOM — Air Conditioned
+V PRIVATE FUNCTION ROOMS — Air Conditioned
+< BEAUTIFUL PATIO
+V RADIO IN EVERY ROOM
+V GOLF PRIVILEGES
+< CIRCULATING ICE WATER
+\ LARGE PARKING AREA
+Delicious Food	Delightful Drinks
+Excellent facilities for Banquets, Dinners, Luncheons, Meetings and Receptions
+PROMPT ATTENTION WILL BE GIVEN YOUR RESERVATION REQUEST OWNED AND OPERATED BY	EDWARD H. HUNT
+UNIVERSITY OF NOTRE DAME	Manager
+CONFERENCE IN THE CLOUDS
+Among the undergraduates on any college campus, you'll find the talk reaching up to the clouds. And once in a while—in a classroom, around a study table, or even in a bull session — a really big idea is born.
+Big ideas come, too, from the men and women in laboratories, business offices, shops. But often these professionals are exploring a path first glimpsed in college.
+How do we know? Because of the many college people who have come into the Bell System, where big ideas and a lot of dreams have taken their place in progress. 1 he human voice, carried along a wire, first across a town, then a state, a nation, and now the world. Music and pictures and things happening delivered into cities and hamlets all across the land by radio and television networks.
+Were always looking for the men and women who get big ideas—whether they’re about people, or machines, or ways of doing things. Your Placement Officer can give you details about opportunities for employment in the Bell System.
+BELL TELEPHONE SYSTEM
+FIRST PREMIUM QUALITY CIGARETTE
+TO OFFER BOTH REGULAR & KING-SIZE

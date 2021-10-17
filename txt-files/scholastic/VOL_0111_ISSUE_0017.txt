@@ -1,0 +1,790 @@
+!_),' (;~ ~•"'• 1' ,,., . 'I •1.
+·\N~;:,u1~}:·~{~i~i~~z~1~~l!fft:i~~1ltf1~:f%!)}t~1r~r:f:.if::::l:fi:tL·~}rJ::;~!~{\~:e;se\~l;Jft~:t.. ·:: :\:;(~i.:/)\,, ,..:-~\\:~;:,?•,:/. .. 
+,i.:f•.Ai.£J(,"1¼•.',t~~}~J-;_•J1,\'.}"•1. ·, ~ ... J,.'Vi \:i,,/."!_t~ri,'V,',q/\~,'-1 \.,•• •~;~·•;;1~:,i•J.,•:•i.~,•i ' f •;t;~(,' i,.of(i(.J.~i~: 1;1 •-. ~~-\ -i"'r~):>-,._,:_ •• 1 1 ~J~',.t~-.'!ut;;_;: ~~:r);J/ij,',.~~-~~.•;•:t]l~~f,' •· • ' -•" /~; n• •• ' -11 'L-:~, ,:~'fi:7;,.--;;•,;;~~~::tt::::~;:J.:,:~1 f;-f!,;f{~':,{ •• l;,;~i;{/,ji}{/~; ';,J>.r;.r1-~· ,,\.• ~·\...;.~r1\t1''J-',-J, ~':l..i,1~-~1'.,\f,•,;?,, I )':-.\ t,'• ..~r~t\...~fj~ ~ ~'.;'"-\f ~~u,:.:1,~;,,,,~?.Ji-•rtHr"~'.C\,t~;_..1.~....~/\;f?..i:1•.11J-..~'i:.::::
+14. . ,ci',,:,!~~~-i),,:-.,11," Al> i,;,;;1.: ··,,., • ,·..i ~... ,,.•... c~ .th. ir,.t< r,tt•~tc'-1;:1,..~"1,;1'
+;,.'•,~~: ~\"-· _.,.;:, {t)r,._:":,. ,._,?'· f;:\ _,,,, ,(, ~c; p'{ ·, r.·;,. t:';'•-'c• ::·,~,a'.:'.\.i.1 
+~ Pi~~~:n.:/1 (,1,r ·l1·!· ~:,.. \. :-/1~ ,/£ ~· fft/ ."\: :·: i~:~ r.1., \.;,;1•~;(;~:&~~~t 
+f.~l~;~: /:{: t:8\Y.. ~'t:~')r /). t.:::'jtl ;t} f:il.~~ilf:r~ff;r,?
+tf::;i"i.f'-~. ~< :,~~t?:~~:: \~if::~~· t.W;: i'{'1 ,_ ,/~~~{;·;;~~~:-'·'' 
+'ft-'':.. ( )~, ';~;i1•l !'.;"l\ 1/ ~/)-~.( .., >; •1?-hf1 ~ 1~~,1-r:}f!,}'k•'
+t.:<t•f•. fi•,i<'!-, "t,,<•~•.~:; ~f~,•,; ;~,~., !) /'I' I },-~ ,.{~,. (\ Q,,i:•.!1 0" 
+o/j!.f' 1d0:j2} F\·:f ~'; }{~~,\ Jf, /:.!.1j,_ ,i:) J}t2J:Jt~ L-;\ 1{:'~Jt{
+'···r:,·· kt·1-114\ \·· tr ···:!,'!I 6}fl {[[¢..,,, ,,. ,-;y ~ ~ t;"",:i._ ".:,:.l,:1,.•;,-·t1"" •r·
+,,_:-·,,•v•'.I; ri1;,~c, ¼f '' ,~v :.:;· ···' ,{if1'... '~,/{~fr.__ .}~t .:,;f{Y ,'· ·., l _,)1}(\ ..,_. f:;f~~t?,J.i\,,i!a· ,..,... """" ..
+·,.,;,,\,,;,,~i'l.~,,_-..-rfi,,!;.•.rl&,.,•.,,..,...)_ -=.,,.,_,..,..•• ...,,.,,,...,. · :;.,-..::,,1:'\s:•r"".;. -·:.-,:.<'.. _.,,._~, .·.:t. ,•; 1:;,_,....,.,,~. ,,,> ., . .. . . .•. ,. ,,,...,.r.-~•.•. ,: ··, ''~=-r--.;-,,~"'c<"'"'."''·"r"='1.,,1·:•' ..-..,.,... _,,,,I,,, J.,'i:,~:,1:h:?-,,,1,-,!,.+;1·,,:· ,,.::.',,.t.,., 1' :•, 
+)~l)v . \:iiJ;:1~i~J,:·;;::~lifq{1~::i(,\7 ''\{;,f:,,,.-· ",;,'1:;r,,,-·\. i:-~n \«: &•'·• '{·.,1 ,. r', ".,i',·-'·\'::' f.?,'".',,. '}<•., /;', ~•,1(,-,,,:.·,,", .,,,.~;y•,l-''-'••'.•.',:'••,,i}.,::;l/­
+"r','t,; t.:· ,.,,d"•c«\.+"•1••..•~u/,,... ,,. ,._,,, f,":;_\ ;·.· l, •' /. .. , . >"!·•-• '' ''1'-'" ;<.'\ ·:\.· •·,' 2
+1 'i'·.1•:,;,~,.;,(,,,,.,.,,,,, ... ,.,,1,,,,.,,r,,;,.'·",'·'
+,'/;;tr; ffir,41ii{"J.,i~~JJ\1!/;;,: :1.1 ,\'' r;, )'.; ~I /;.;;;. t . h 1·r I~,'.' v t;y~,f lf) J;;~•,~%,i/iil;J;~~c'l;;fi§Jp:J&
+·--· ·; ;.-.'· J}J.tt~lffitfit:·; dJJ :tr· ~~tit (0~/ 1Jtt/ 1:· · ~<t?-· t::.:t t !~'. /~;}~~(.. ·: f:t~~{{0{tI;;{}}lf~;~~t~t;rW\:$~~~
+f."·· · 
+~@!i~li-0~sJtw~r.!~):' 1t~~'r'1,• t I' '\t 10~}' ,,t: /4'~\ 1i;ti? Ar A P;t1i··:??~/ f\ :{J;~ft~tt}it~)t:~:?1~;j.:,}~~{~!.~~1}~~
+1 
+7,,~~ l,Yf!fl..{;':,,':::•:'.::;:~l ':•l',\,Y. 4.,. ):., v i1... /,-:-'(' ~/,.• ,i:;_r ,...,.,. ~,,..,· .-.;;•;;V · 1-.,·~\ ·· J-A ':~•.':i:·;,.:,;-;;':•1:11: .;:Y,,1;;;:;;1?\:it::,,.;i 
+•' .••.•.,,~,...~'tit,;-•~ _J\.!.'i'~-.: ._ J --~-~•-·----,~f.,r,_};.-,....,.,,......,____ .,..ry 1':_:?L::,_,,-.,_ .,.."\ .l.'/• ._ _,: "•:: • .,,. ....~..,..,./°\.:_ _ _....,....,,,,.,."''!~ ,, ....,_.......,_,...,_.,_, .'1, \:-r '' .., • I.,... ,. •--., 1 .. 
+
+(ltltg;fl(~' " , , ' ' "' ' 
+-., , .• j ~ ~ • 
+:r 
+1 
+
+•\'''f•.!t.,!(j}~"T····r,,..r.1':'(1,;<i:;_4.:.·:.f';'/;i:,~':f(liir=·,· ,· ~(•~··~· . ',,'.:(--,..-.~--~:1'.'/.''i .1.1:." .. ... -•: ·1: l'.li." ::...······,,y:..., . ;J 'i;-'';'1 '" ,·., •...;..:,1"' ~--·~·r.,,:.,, '.:·c:··.~::: •-\'::·, ,,.,.. ~~'W'Ji,'.,,/r('·~--=··~·
+w .. ~.1n·. ~,.,_;_,:.t,;:':":: ,,i)r:·;
+\,i.t), .. ,,,..:.,i~\~~("1-'i.c,f1''~?1;fyt'i€;.l{,/1"1t,t'(i"'!,..)/r1~•1-,;,\ ~ ::\.i, l'i4.~~ ..., \1!-t•.:,'... •:if-,;]{ •f-~•',,,-~1' ) ir \{t":.l ',~-, ,..~ ~•1 •!: ~ f •,' ,~. 't:t ~ 'l;i ;•, ~ ',l'T' >?,,,.., ''f
+'.i•J;,;::,ik~~~•)Si',r:\>\c-\.!:\\½•~i.,r.l:l!!m.,,li,,:.?•.lk --· . J(,::. .,,,,.;/., r<:l:-',. ,~'.i: .•;,:,: :;,':J-: ,,.':'1,.,:.::: .• .''··:, ,.·•(1':,r __ ,: .,_::," ·""' ,-_ ~-<' ,,. ,..,.._ "<,-.,::r ....... ,.-1;;:,,,, tr-...,.,_ ~-, .,,, 
+t~i.f;·;.~i·:;1~;1it.·~~-~;,!.'.t'.~.::.$t,.~~i~{~}~:r:1~l :,~l¾,~:' !!t/ilV f:tJ-t t)-\1-;:,1it({::?/}.;·::{;:\}\0 [!JJ I.J t~~·rt:.: j:1/;,·s?:· !·J !:.fl t::-.:<· ~t).; Y.'. tJt·\}.:·/:: 1f:;.:.-,
+t:.1i:.;f~xt}4.2~1 .:i, //!li~~lb~t§rt2~f.}~"~1~· :1~~~~}~·· '"N t-~I·r~:\ rr_:,.,:,:~,.1.,.;.,.: ::::•.:t·:<· -;•:.'.:;..•0-:.:j \(:.--•,,/ ,.. \~~/' yf,, ,y1 ,(•]:'.: ,, /.:· ~-.-. 1::.•.:<. 
+1
+
+~:rii·~;~~!1fM"Q;)ldft,~~~~if:lr.J~.)l1f~+~' i,~;~jJ~i' ffxwir /i'.J? {0,, l:';;tY):\f!~~:?·;:;:;•,;;: /'v~~·: ~tll;:t:~; )!,,-:.,,: //,',' l ,.,, f.:/ ·,''' r:,. ' r f'\,t:,. ·•_',, ~: :... '.'' ';>.:;:-:::;,\,:,~~i~\~·/\{f::(.[:,\\<::\X~i
+Ci I.\. 
+. . . . _ .Jr t.:'tf A.\~:·:·::,:itNi:;.:.;;::wi:.,t-:::.:· ,.,·::··.~1 {'·}•: y·:·. .::: (.::· t ·. t\\ i:_.,.:--,.-· , .... /r 1/·1:')-·.. l··' \1::•;:-::._-:-;::,:.1\>-·:;~r.~<.-:.:.1.,r:,::':·\".\,r-<
+<.i:(l;);}~~•:,~,fit,!~r.\~~,~~.li~~~J;;~.j~~l-'.~~::;i'i?,';;1 tdrt.~?.'J/ c-,,,2,.,~•, ~·~~;...\' 0V't,:'i~;X·.\•:;,,. :: ·~ '··:y s··,,-, '.·; j i,,;l;.,: / \ : 'l ,:,·, (.~· /',·.( ~ )i \c,~c C ,/·' C;, . .V l' €\ ... \ -~...7:,'-'t ~" l '',,:",: '.:·:. •; 1·\ ~,; .;' ,, ,,.. .s. .•!:, ···••····,···· ·/, .. l .~\• --.,-;' ;u.,. .•·i :,'. ,.,. ., ·'··.,.,,,,·,··,,,,./•••,.'..,~:~-</::'··~·'r;, ',, ,, I V ,{•.·, .~ :i' : , , 5. ,'
+1 )~T 
+r 1 
+
+'i •• 
+
+
+,,.,, 
+',,,' 
+
+,., :' ',','
+,. 
+' I I~ ,:, I •j '1, 
+i• 
+
+\"
+'. ! ;·; :::;::::;:: ,,t {. ,,· :,,'
+I.',,, 
+
+,',•' ; ',
+..~ ,, 
+,, ,' ~• /'1 :' ,/•_', ,,,_• ,' ,, II 
+I, 11 
+
+.
+.,. " 
+,,_)' 
+
+,, . 
+,','
+:'•j ,,
+• f~\. ,' ,/ I'
+',, ''1', 
+I ~ '' ~ 
+
+Styled by 
+-~·~.·~
+·~.-•;
+.. ~.c..... .
+
+
+~:: n~ 
+··--.. 
+~ 
+
+
+'=-. ., ::.,.?\~:) .(~. 
+made by Robert Bruce 
+'' . 
+
+The one and only CARDIGAN 
+The sweater with a look, fit and fabric all its own; with extra full sleeves and a soft, soft fabric blend of .50% Alpaca and 50% wool. A great buy for year-'round wear. In a great 
+color selection. 
+$24 
+
+
+The matching S'1VEATER/SHIRT 
+Fashioned to coordinate perfectly with the cardigan, or go it alone. A 100% Orlon® knit that il> machine washable. In short sleeve style. Has high crew neck with color accent 
+stripes. 
+$11 
+
+Buy now, pay next June, July and August when it's more convenient 
+No servic•~ or carrying charge 
+
+
+~,,,_,~LIER • amp11$~ho 
+........-~~ 
+ON THE CAMPUS ... NOTRE DAME 
+march 13, 1970 notre dame, indiana
+
+scholastic volume 111, no. 17 
+L.etters ······················································································-··························· 4 
+Markings A Letter Home / Phil Kukielski .................................................... 5 About That Parody ........................................................................ 6 The Student Arts Festival and Beyond ........................................ 7 
+Special Supplement to the SCHOLASTIC 
+The Absurder 
+Philip Kukielski Absurd Editor 
+Special Contributors 
+
+Steve Brion Kelly Knauer Jim Chandler Bill Locke Pat Clinton Bill Mitchell Gary Cosimini Steve Novak Jack Fiala Tim O'Meilia Pat Gaffney Ray Serafin. John Garvey John Stuw John Keys Bill Wilka · 
+Departments Perspectives ........ ..... ................ ......... ........ ..... ..... . ....... ... . .................. 8 Supercalifragilisticexpialidocious .................................................. 10 Blood in Your Eye .......................................................................... 12 Roller Derby! .......................................................................... _ ...... 15 Movies ................................................................................................ 17 Chicago .................................................. ·........................................... 17 ~st Word ........................................................................................ 18 
+Editor-in-chief Richard Moran Executive Editor Philip Kukielski Managing Editor Michael Hendryx Art Direct<Yr Michael Patrick O'Connor Associate Editors John Keys, Raymond Serafin Assistant Editors Pat Gaffney, Carolyn Gatz, Fran Maier, Tim O'Meilia Photography Editor Gary Cosimini Copy Editor Greg Stidham Assistant Managing Editor Phil Stark Sports Editor Terry O'Neil Contributing Editors Steve Novak, Steve Brion Contributors Michael Costello, Kevin Rooney, John Stupp B'USiness Greg Naples Circulation Michael Malone 
+Public Rel.ations James Murphy Faculty Advisor Frank O'Malley 
+
+Writers Jack Fiala, Phil Glotzbach, Don Kennedy, Tom Macken, Ed McCartin, Marilyn Riordan, Bernie Ryan, Walter Secada, Martin Siravo, Joe St. Onge Copy and Layaut VeAnn Patterson, Mark Richardson, Colleen Unger, Bill Wilka Business and Circulation Mike Casanova, Dan Hogan, William Pelletieri, Cliff Zmick Photographers Jim Hunt, Beth Malmsheimer 
+The opinions expressed in the SCHOLASTIC are those of the authors and editors of the ScHoLASTic and do not necessarily represent the opinions of Notre Dame, its administration, faculty or student body. Second class postage paid at Notre Dame, Ind. 46556. The magazine is represented for national advertising by National Educational Advertising Services, 360 Lexington Avenue, New York, New York 10017. Published weekly during the school year, except during vacation and examination periods, the ScHoLASTIC is printed at Ave Maria Press, Notre Dame, Ind. 46556. The subscription rate is $5.00 a year (including all issues and the FOOTBALL REv1Ew) . Please address all manuscripts to the ScuoLASTIC, Notre Dame. Indiana 46556. All uusolicited material becomes the property of the ScHoLASTIC. 
+3 
+
+On the Ind-inns of Braz-il 
+EDITOR: 
+From 1964 to 1969 I lived in the Northeast section of Brazil in the city of Recife. During that time I worked for the U.S. Agency for International Development, Food for Peace, and the U.S. Information Service. It was while I was working for U.S.I.S. in January of 1968 that I learned of the Indian slaughters from a Brazilian newspaper reporter. Later during the daily policy meeting, I was told that the U.S. was "con­cerned" over the slaughters but felt it was in no posi­tion to criticize since they were an internal domestic problem. A rather amazing statement for a government which has pumped over 300 million dollars into the Northeast alone for projects in such fields as labor rela­tions, agrarian reform and public safety (police train­ing and equipping). 
+The Brazilian government, externally, is trying to combat the problem in other ways. For example, it is now involved in a resettlement for the Indians largely financed by the U.S. The object of the program is to move the Indians off the land the state and local au­thorities sold to the fazendeiros. The program has met with failure due to the stubbornness of the Indians who refuse to leave the lands of their forefathers. Those who do go to the reservations usually return to their tribes for the living conditions on the reservation are atrocious. An example is Vila Rondon near Belem on the Amazon River. There, rice costs 25 cents more per kilo than the surrounding region, sugar 36 cents more per kilo and flour 15 cents more per kilo. 
+The reservation has no sanitary facilities, no doctor and when it rains the area becomes a swamp. Even the climate is hostile-temperatures vary in a single day from 50 degrees at night to close to 100 degrees during 
+the day. 
+As can be seen, the U.S. government must play the part of the silent observer. Her investments are too extensive, her need for respect too large to risk them by intervening in such a matter. Again we must be the avuncular giver of gifts who is either too slow-witted or just doesn't care what those who take his gifts do 
+
+
+with them. 
+Robert E. Fulton 
+"No Danger of Nihil~" 
+EDITOR: 
+After reading Guy de Sapio's response (Observer, March 2) to Rich Moran's Last Word of two weeks ago, I feel compelled to say something about Guy's reference 
+to the nihilism of Rich's editorial position. 
+
+W. H. Auden said that one of the great purposes of literature is the discernment of the sacred and profane in society. Sometimes this purpose means that a writer discovers that some ideal or symbol once reverenced by his society is no longer to be so valued; the formerly sacred becomes profane. Rich's editorial was about this transition, in terms of the dissolution of the God-on-our­side myth. Of course, the problem is more complex. Something must be sacred in a society which is to per­dure, so there is the threat of nihilism unless the descent of the sacred value is accompanied by the elevation of another. Such an elevation is implicit in Rich's posi­tion: "Because an individual person possesses some inscrutable, inner life, he can transform his experience and sin into understanding and grace" ; a nation cannot. Rich differentiates the individual from the nation and cites his spiritual advantage (Guy, on the other hand, tends to identify the destinies of individual and nation, and perhaps makes the mistake of implying that Rich does too). As long as the individual person is held 
+sacred,  there  is  certainly  hope,  and  no  danger  of  
+nihilism.  
+Rory Holscher  
+
+In Appreciation 
+
+
+EDITOR: 
+You and your staff are to be commended for your excellent work with the SCHOLASTIC magazine. 
+The depth and sensitivity which have been developed in the SCHOLASTIC magazine during the past several years have contributed a much-needed addition to the many facets of student life at Notre Dame. I regret such was not provided sooner. It sometimes makes one yearn to go through it all over again . . . but only momentarily. 
+Michael Caolo, Jr. 
+Erratum 
+In the chaos of last-minute preparation for last week's issue, the names of several actors in the ND-SMC Theatre production of "The Amer­ican Scene of Edward Albee'' were inadvertently edited from Jim Chandler's review of the plays. We take this opportunity to apologize to Chris Hall, James Ha~orne, Warren Bowles, and Richard Gross and congratulate them on very capable handling of their respective roles. 
+The Scholastic 
+-
+
+
+A Letter Home 
+EVERY senior knows about it. It comes up in conver­sation almost every day. "What are you going to do next year?" the inevitable question that we all face but desperately feign to conceal. Only a few, a very few, have made any plans. Curt and John are in ROTC, so armed with a delay of active duty they will shove their gold bars in a drawer and troop off to law school to wait out the war. But, for the rest of us, for Vince, Jim, John, Fred and Kelly, we can only mumble vague evasions: "teach school or a CO or something." For us the war is dead, lifeless. We don't even talk about it any more, at least not the way we argued about it in stuffy forced-doubles freshman and sophomore years. The spark of disagreement has disappeared from these discussions as each of us in our own way has come to the conclusion that what has happened is a vile, im­moral, senseless mistake. For a while we were able to blame Johnson and McNamara for it all. But, now there is no paschal victim, no scapegoat to which we can turn the accusing finger. We are left only to blame America, to blame the system, to blame our parents, to blame ourselves. We want to lash out, but the only figure that presents itself is the distorted, cracked re­flection that is ourselves and our heritage. This has been our year of grace, a year when we could content ourselves with an illusion of stability, a lie that we fabricated for our own contentment. 
+I was home with a few of my friends for a few days over semester break so my parents got a chance to meet and speak with them. My father is a retired colonel in the Air Force, a career man who defies all stereotypes. He never carried a riding crop, chewed on a cigar, or extolled the virtues of patriotism ; a man of essentially gentle demeanor and sensitivity who harbors a profound distaste for violence. And yet we talked about war, but not our war, not Vietnam. We talked about his war, the war of all of our fathers, World War II. There was no hint of violence in his stories, perhaps twenty-five years has allowed him to forget much of that. His stories are tales of romance, adventure and camaraderie, tales of mud and insects, people and places exciting and exotic: New Caledonia, Guadalcanal, Fiji, New Guinea. 
+I called home a few weeks later to catch up on the latest developments. My father answered the phone and after the usual brief exchange of information, the conversation turned to my recent visit. "I enjoyed meeting your friends. The tall one with the red hair reminded me of Jack Heavey." I have never met Jack Heavey but his name is as familiar as my own from my father's stories of his youth. "You kids say you are so much different, but after meeting your friends I can see that you're really no different than I was at your age." 
+I'VE been thinking about that statement for some time now. Dad has said things like that before, but I have never taken the time until now to consider them seriously. No Dad, I suppose we really aren't all that much different. We still laugh, boast outrageously, swagger along riding the crest of our youth and make the occasional mistake of taking ourselves too seri­cusly. No Dad, I'm sure that Vince isn't all that dif­ferent from Jack Heavey. But, you see Dad, it's not so much us but the world that is different. Our moral pur­pose is no different, no better, it's just directed toward different ends. The same righteousness that allowed you to forget war's grotesqueries only heightens our out­rage. Where you saw justice, we can only cringe from deceit. Where you saw patriotism, we only see willful self-deception. Your pristine maiden of romance is for us a sullied toothless whore. We'll never remember this war the same way you remember the last. No Dad, we don't charge off to war. Instead we wait, knO\ving that we can no longer delude ourselves. Soon we must either bare our fangs like cornered rats, flee in dis­honor or be dragged along behind the headless chariot. Like the dead buried on a knoll above the streets of Wilder's Our Tawn we wait, wait for something im­portant and great, waiting for the eternal part of man, that bit of ineffable hope, to again come out clear. No Dad, we are not different but our stories will be. 
+March 13, 1970 
+Opinions 
+
+CarolynGatz/AboutThatParody --Up Against the Wall 
+PAGE three of The Absurder features the latest ven­ture into a new game sweeping America. Rather than "Cosmonopoly," the current fashion within the media wallows in an insidious sport entitled CREATIVE EX­PLOITATION. Rumor has it that the SCHOLASTIC staff received nomination for next to last place in competition among publications indulging in this game. They only missed the last spot because they at least were slightly subtle. Dave Lammers outdid Kelly Knauer in blatancy and stands fairly well entrenched at the foot of the imaginative ladder. If one delights in CREATIVE EX­PLOITATION, congratulations are due. I, for one, find it repulsive, not to mention ( once more) insidious. 
+To protest (fully clothed) parody on the Women's Liberation Movement is not to deem any cultural or political movement sacrosanct from the pen of satire. The problem with "Happy Tails to You ... Until We Meet Again" and similar writings is more complex than the editor's rationalizing accusation that "movements" should learn to laugh at themselves. These problems operate on at least two levels, both existent today in American society, and both perhaps magnified by con­ditions at this institution. Protest against "Happy Tails" and company rests on the premise that creative writing, whether it be termed satire or parody, should never sink to the level of ridicule. It should never func­tion to reinforce misconception, to further thwart a struggle for justice. Parody, for example, should never be used as a tool to perpetuate racism. 
+The Women's Liberation Front faces an overwhelm­ing amount of publicity clouding the substantive issues of its concern. These include: the superficial "libera­tion" involved in bra-burning, guerrilla theater mis­construed (WITCHES), and the extremity represented by one faction of the movement SCUM (Society for Cutting Up Men). "Happy Tails" further befuddles this swirling hurricane. It posits a ridiculous cause as the fanciful concern of the local women's movement. As there has been only one public surfacing of said group, the ridicule is of questionable desert. Though a parallel organization of Male Chauvinists exists in the story, and supposedly balances the attack against both sexes, the conclusion that a nude Indian wrestling match will decide the superiority of the male sex implies some 
+similar conclusion along those lines outside of parody. Such treatment of the women's movement is an ob­noxious reduction of tlie struggle for freedom to an 
+idiotic "battle of the sexes" level. This maneuver, per­haps simply for the retention of the male ego's perverse 
+illusion of supremacy (even if ·only in nude Indian wrestling), increases the frustrating insensitivity to other humans. 
+More fascinating than this deliberate fuel for the fire of misconception ( with which men insist on reacting to the feminine movement) is the cleverly creative brand of exploitation that arises. Marvelous is the bottomless well of exploitative technique. "Happy Tails" takes our struggle to abolish the definition of women as sexual objects and parodies it by sketching women activists as sexual objects. The women's movement is offered as object for ridicule, and within the story itself, it is rep­resented in the context of sexual object: "Happy Tails to You . . . both the horse and rider were bare-backed ... etc." Funny. It is ridiculous to contend that pictur­ing three nude women will not evoke response in that realm. Further, though the photo of nude males is ridiculous, response to it will not fall in that realm and it does not balance that treatment of women. The con­ditioned response, particularly in a predominantly male audience, is not the same; if it were, Madison Avenue would offer prolific ads to sell through large-breasted males. They do not. 
+INDEED_, given the peculiarities of the Notre Dame environment, there are hysterically humorous occur­rences within the topic of women. I say hysterically with a pointed intention. It is worth at least a chuckle to watch a class in literature question the validity of the feminine viewpoint before acknowledging Jane Austen as the great novelist. It is a sick joke that John Zimmerman was forced to explain that women are rwt intellectually inferior when he wrote of coeducation (SCHOLASTIC, March 6). It is tragic humor that 5% of the faculty of this institution required such proof. Retrospectively, a little black humor lies in The Ob­server's past reception of freshmen as the "SMC Bun­nies." It was not funny then. 
+Unless a woman becomes callous or bitter, there is little humor in her position on this campus. At the Spock lecture, when Notre Dame's denial of a woman's right to admission arose, a member of the illustrious student body yelled, "We don't want you." Yet a SCHO­LASTIC editorial (March 6) pinpointed the primary con­cerns of students as "no cars, no alcohol, and few women." If women are not desired in the academic realm, with what impulse is coeducation desired? To parade up and down the main quad nude? 
+There is nothing funny about the pain the sensitive woman feels in the lewd comments fielded during a solo trip across campus. There is nothing funny about the self-consciousness inflicted by constant, assessing stares. There is nothing funny about being pinched on 
+The Scholastic 
+
+the ass in a crowd. There is nothing at all funny about the profound empathy for a cow at the County Fair that one develops during those first vulnerable months of study in the ND library. No one who is not grossly insensitive can refuse to recognize the way these tactics heighten the painful struggle to create a fulfilling iden­tity in a world conditioned to regard woman as a sexy womb with small brain, or (for those following the chivalrous route), canary in a gilded cage. 
+The freeing of horses (an animal) from harness as a cause of the Women's Liberation Movement appears initially as a humorous contrivance, utilized for its Lady Godiva value. It is clever. Appreciation dwindies, however, when one comprehends self as a being referred to in current jargon as a "chick." Perhaps the libera­tion of animals is not as absurd as it sounds. Perhaps that is what we are dealing with. It is for the libera­tion of chicks that we struggle, gentlemen. We will leave the horses to you. Up against the wall, cock-a­doodle-do. So to speak. 
+
+Steve Brion/ The Student Arts Festival and Beyond 
+CREATIVITY, at its best, is conta­gious. The best of poetry elicits some kind of participation from the read­er; the musical and visual arts se­duce the audience into a similar re­action. Participation by both the creator and his audience may repre­sent the most hopeful sign of the artistic potential to improve a re­markably sterile culture. 
+All the means returning to the altar of artistic creativity a healthy sense of the amateur and the joy of the Sunday painter. Such was the rationale behind the formation of the University Arts Council last fall. And such was the raison d'etre of the Student Arts Festival held in the Arts Center-Fieldhouse this past week. The Festival was envisioned as a participatory celebration shared by the artist and his community. 
+Whether you find your yardstick in the pragmatic or the spiritual pantry, the Festival was a success. The Stu­dent Art Gallery welcomed about 2,000 people over the six days of the Festival; five hundred people at­tended the student films Wednesday night; and at least one hundred people witnessed Monday's midnight interpretive dance performance. The figures are similarly high for every event in the Festival. 
+March 13, 1970 
+BuT figures are ultimately inac­curate devices for measuring such phenomena: this is especially true the first time around, when it is most difficult to generate any widespread enthusiasm for something as "per­ipheral" as the arts. What is per­haps more telling is the energy that characterized every part of the week's activities: an energy that surged through not only the artists themselves, but more importantly through their public. 
+This 1cind of energy is measured in small things: in students who came to watch and ended up offering their help building stages and stringing lights and manning desks at art ex­hibits; in those who came and re­sponded with a creativity all their own to student-produced and student­written plays; in the attention given to a two-hour poetry reading. None of these things are strictly "mea­surable," at least not in any form designed to impress administrators or disinterested outsiders. But this concentrated, enthusiastic participa­tion may well be the spark needed to kindle all kinds of creative energy latent in this community; it may communicate some of the joy so critically important to the whole creative process. It may communi­cate the realization that art can be restricted to neither the People nor the Masters: it must be, simply, for everyone. 
+That the Student Arts Festival succeeded in the immediate sense is undeniable: it brought together the most concentrated and best display of student energy in the arts this campus has yet seen. For this alone it would be an impressive achieve­ment. More will soon follow: the Arts Council is at present working out plans for an anthology of Notre Dame poets and a series of shorter poetry readings; a permanent gallery will be established to display student art; all kinds of people. are still needed to work on renovating the Fieldhouse, raising money to ensure the existence of the Center and the Council, and setting up future Fes-· tivals planned for after Easter. But . the final success of the Student Fes­tival, and the final success of the spirit it incarnated, remain in ques­tion. Exactly how deeply the week's activities will affect this campus is unclear. Will _the joy and the cele­bration so critical to the creative act be contagious? This, finally, may be the only true yardstick. 
+perspectives 
+
+
+phil mckenna 
+let o.ur example suffice as our power 
+FEBRUARY 28, 1969, and October 24, 1969, were two pivotal days in my life. On the first day, I finalized my decision to seek the office of Student Body Presi­dent; on the second, I made a decision to redirect my efforts as Student Body President. I would like to share with you the reasons for and the meanings of these decisions. 
+The last two weeks in February of 1969 were filled with frantic activity. Platforms had to be written, key students had to be spoken to, and a strong organization had to be mobilized. During this period, thoughts ran through my mind -"the whole idea of a campaign is contrary to what you want to say," "student govern­ment is not the place for philosophy," "we are ob­jectifying people -Bill Picchioni is Dillon Hall cap­tain, Jim Smith is North Quad captain -these are my friends, I can't do it!'' Little by little, these thoughts added up, but I refused to confront them. 
+Finally, it all hit me. The impact was terrifying. I was stripped naked, and I could only rely on my­self. I took February 28th off and asked all my asso­ciates to do likewise. I walked, smoked cigarettes, worried, and even cried. There was no one to turn to -and a decision had to be made. For twelve hours I went through the most thorough self-examination possible. It was, at the same time, one of the most frustrating and beautiful experiences of my life. 
+At two the next morning, all campaign workers were to meet with me. They didn't know what to expect; anq. it wasn't until 1:45 that I knew myself. I decided to run; but only on my terms. I would speak of a vision -a philosophy of a university and of a Christian community. I was convinced I would lose, but I felt that certain things had to be said and done, and I was tl1e person to say them and do them. 
+From April 1st to June 1st, the pacewashectic. Iwas pleased; the administration was "producing." Cabinet members had been selected; a loan had been secured from the University; the black concentrations had been established; an antiracism conference held; we spoke out against academic credit for ROTC, and the Senate had agreed. We lost some battles, but we were winning more. We were "productive." 
+Summer at Notre Dame was very different. The familiar faces were gone, replaced by nuns and priests. The pace was slower, but we were mobilizing for the fall. A questionnaire for freshmen and a minority re­cruitment program were organized with the Admis­sions Office; preliminary work on the Moratorium was done; plans for an antiracism project were laid; alumni contacts were made; and curriculum changes were made. The summer . ended with the NSA Conference and the Notre Dame delegates played an important role in the results. We remained "productive." 
+SEPTEMBER came. Cabinet members returned a week before classes were to begin. Life became hectic once again, but I enjoyed the pace. Priorities were set. The year looked good and we were prepared for anything. Provisions were made for a bail fund and lawyers were contacted; plans were made to bring the University to court if women were not soon admitted. We would work through the proper channels and use rational persuasion, but if that wasn't enough ... well, like I said, we were prepared for anything. We were "productive." 
+
+The suppression of the Juggler, the fine levied on students for riding the shuttle bus, the finalization of curriculum changes, hours of budget hearings, and Senate reorganization demanded our time and set back our schedule. But "progress" was being made. 
+October 2nd was the Board of Trustees' meeting. We were ready, our proposals were submitted. At our first big show of strength, we needed a display of student support. That meeting resulted in frustration: our pro­posals were only partially accepted, and more impor­tantly, less than 400 students turned out. Emergency cabinet meeting! What the hell is the matter? Aren't we "producing" enough? 
+Defeated in the Senate on the Afro-American Society budget and the University Forum; defeated in the SLC on the Judicial Code. Things were getting tough; we had to fight harder. 
+Gradually I realized that through all the work, all the "productivity," the ideas I started out with had gotten lost. We were prepared to fight "them" on their battlefield, we were even capable of defeating them -but what did their battlefield imply? Par-
+March 13, 1970 
+liamentary tricks, political tinkering, the inevitable 
+misunderstandings -finally, distrust. 
+October 24 -a Friday night -I had to be alone. 
+
+We couldn't go on like this. Our production meant 
+nothing, our accomplishments were absurd. We were 
+deluding ourselves and our constituency. We had to 
+inculcate what we were saying, or we were living a 
+lie. We would have to sacrifice expediency for under­
+standing, cooperation for competition, and trust for 
+distrust. The means would have to be consistent with 
+the end. 
+Ever since then, my administration has been sub­
+
+jected to much criticism for a lack of action. I have 
+chosen not to defend myself. I have done so because 
+the "progress" and flourish of activity that I could point 
+to would only delude the community. 
+I realized, for example, that I had to·vote against the legalistic Judicial Code, that it was not the correct way to resolve our conflicts. I could not accept a pro­posal made privately to me by a member of the admin­istration, because although it would have eased pres­sures on the student body, it involved a dishonest political deal. I could not support the University's at­tempt to obtain a court injunction -disruption or not. I knew that my actions were not the most expedient or productive, but I also knew they were· the only honest actions I could take. 
+POWER politics are no better when used by Student Government than by the Administration. The only Christian use of power is that which comes by exam­ple rather than position or prestige. 
+Perhaps I should have resigned from my office when I came to this realization. Perhaps Student Govern­ment itself is not meant to be part of the vision. Per­haps -but I thought not. I felt compelled to begin as an individual to redirect our efforts. 
+I am not a prophet. I cannot bear false witness. I have realized that a new etl\os must be created at Notre Dame. This demands that we live what we believe and let our example suffice as our power.. 
+Rhetoric comes too easily; we've all had too much of it. I relate these experiences to you not to def end my administration -I do so only to share with you the evolution of my thoughts. The hope for Notre Dame does not lie in committees, councils, judicial systems, or student government. It lies in each of us as indi­viduals. The challenge is to strip ourselves naked, to share with others, to live by the truth, and, to allow individual examples to serve as the basis for ~uthority. Only in this way will Notre Dame become a Christian community. 
+Each week the SCHOLASTIC will make this column available to a member of the University community to explore and comment upon contemporary issues. Views expressed here do not necessarily reflect the editorial policy of the SCHOLASTIC. 
+
+THE decade of the Sixties in America provoked a steadily mounting degree of national self-consciousness. Vietnam, racial violence, political assassinations, the growing factionalism in society: problems like these turned the nation's eyes inward in an attempt to under­stand its problems. Uncle Sam put himself on the couch, and there was no shortage of analysts to explain his malaise. To account for the plight of the country, writers, artists, and critics began to view the experience of modern society as a reflection of basic and sub­conscious American myths and dreams. And they were often dazzlingly successful. But success invites emula­tion, and when the public's capacity for self-concern was found to be well-nigh boundless, ~ plague of "American" books, films, paintings, etc., descended upon our heads. The focus of concern soon came to center on the "disease" of the society and not on the possibility of its cure. What had begun as healthy self­interest degenerated into stifling preoccupation-voy­euristic Narcissism on a national level. 
+Today, the Three R's in our schoolrooms are Read­in', Writin', and Relevant. And if one wishes to be artistic, his statement had best concern America. So Peter Fonda ain't just runnin' down the road on that machine, my friend-now he's "Searching for Amer­ica." On the highway he might pass Paul Simon in a Greyhound bus or Tom Wolfe in his Kandy-Kolored 
+
+Benjamin DeMott, Supergrow. New York: A. P. Dutton, 1969. 188 pages, $5.95. 
+
+
+
+Super 
+Tangerine-Flake Streamline Baby. They're on the same 
+journey. Campus flyers last year exhorted us to hear 
+folk music at the St. Mary's Coffeehouse; this year we 
+are told to "search for America" in the Flanner Hall 
+basement. Relevance invades the library in the form of 
+an American flag painted on metal fragments. Albee's 
+The American D1·eam is played against a red, white, and 
+blue set on the Washington Hall stage. Wherever we 
+tum-Great Gatsby's Ghost!-the mirror is held up to 
+our perverted nature. 
+As Seymour Gross used to maintain, literary sensi­tivity often enables an author to perceive what is large­ly invisible to society. Thus, before the movies and every other man, woman, and child in the country re­alized that there were Important Statements to be made about the state of our culture, journalists like Tom Wolfe, Susan Sontag, Norman Mailer, and Jimmy Breslin were creating a new form of American letters: the serious reporting of popular culture. Writing on such topics as California surfing clubs, New York disc jockeys, San Francisco acid heads, and the neon-sign industry in Las Vegas, Tom Wolfe startled us into fresh insights of the American experience. Norman Mailer marched on the Pentagon, lived to write about it, and taught us something in the process. The public loved it and clamored for more; writers and publishers took note, and the bandwagon of pop journalism was formed. 
+ENTER Benjamin DeMott and his new book, Super­grow. The dust jacket (red, white, and blue, naturally) informs us that Supergrow is a collection of "essays and reports on imagination in America." Well, dear reader, I have read Supergrow) and I would offer up this maxim for your consideration: you can't tell a book by its cover. What we have here is a collection of articles and essays which for the most part appeared first in peri­odicals; of the fifteen "reports," only three are con­cerned directly with imagination in America. And de­spite the author's attempt in a foreword to unify the pieces under the common theme of a study of the imag­ination, the book's only unity lies in its concern with current American issues. In short, Mr. DeMott's book is only another wave in the flood of "relevant" journal­ism which is liable to drown us all. It is interesting to note that DeMott refers to himself not as an essayist, but as "a student of popular culture." 
+In the area of pop journalism, Mr. DeMott is an innovator of sorts: he is the first revisionist in the field. DeMott is not a journalist by profession; he is a profes­sor of English at Amherst College. He brings to the study of current culture a sincerity, an attempt at un­derstanding, and a sympathy for his subjects which is commendable. But paradoxically, it is precisely in his 
+
+
+califragilisticexpialidocious 
+groping toward wisdom that DeMott fails as pop 
+reporter. 
+Consider. The motivating premise of early pop jour­nalism: the shadowy area of national consciousness and direction can be illuminated through the study of current culture. The writing was incisive, unqualified, excessive. To make a point, writers turned to exaggera­tion and hyperbole; because they were dealing on the level of subconscious motivations, they often discarded extenuating circumstances to depict only the heart of an issue. DeMott refuses to employ these techniques. He feels that current society is too complex to admit of easy answers, or even easy statements. "If we cannot know the answers," he says, "we can at least pause to consider our ignorance." Every statement DeMott puts forth he hastily qualifies; he offers an insight only to question it in the next paragraph. In the interest of being fair to all, in attempting to understand all the circumstances surrounding a problem, DeMott sacrifices the possibility of offering an illumination of the prob­lem. On the human level this is well and good, but a good pop journalist simply does not spend his time pondering ignorance and exploring darkness. This is the territory of the novelist or essayist, and it is to this field that Mr. DeMott had best confine himself. 
+There are some good pieces in Supergrow., and pre­dictably, these occur when DeMott quits trying to see all the sides of an issue and actually takes a stance. The title "report" refers to the insane attempts of some parents to prepare their children for college by educat­ing them in the crib. Here DeMott levels his scorn at the authors of such books as College Begins at Two, etc. Attacking this "contemporary Horatio Algerism," De­Mott makes some interesting comments on the state of the American family. The sense of family unity and uniqueness is disappearing, he claims, due to the intru­sions of mass media and standardized living conditions upon the former sanctuary of the home. When parents assume the role of the school, they only add to the dis­tortion of family life. The author concludes that what we need is not doubled grades or better early education techniques, but an inquiring approach to life rooted in the family structure, a "life-college good enough to begin at two." 
+But DeMott's intellectualism fails him elsewhere. He makes a disastrous attempt at discussing rock music, an attempt which contains such outrageous statements as: "Still another problem: rock seems at moments . . . not an independent meditative engage­ment in its own right." (What?) Ten pages are given to an intellectual attack on Marshall McLuhan. But is it really necessary that McLuhan's stylistic excesses be pointed out one more time? Is there really anyone out there who considers McLuhan on such a serious intel-
+March 13, 1970 
+lectual level? And how many readers are fascinated by an eighteen-page examination of the intricacies of teaching English? Not many, I'm afraid. 
+THE finest piece of writing in the book is a "report" entitled "Mississippi Learning." Here DeMott employs his literary power to good purpose in an intensely per­sonal account of the experience of teaching blacks in the South. Curiously enough, it is journalism -espe­cially "involved reporting" -which Deivfott pronounces as invalid in his final chapter. Yes, after one hundred and eighty-eight pages of pop journalism, involved re­porting, and cultural analysis, DeMott reveals his belief that "fiction alone draws us out from the cage of the self into caring." Hopefully, he will follow his o,vn advice in the future. 
+Here are my well-considered conclusions after a reading of Supergrow: 1. Benjamin DeMott is a fine human being, and I would love to spend an evening with him. 2. Benjamin DeMott should write fiction, not pop journalism. 3. Everybody everywhere: Would somebody please find America so we can all stop searching for it? 
+Kelly Knauer 
+
+Blood in Your Eye 
+WAR, as General Sherman once suggested, is prob­ably hell. Had General Sherman possessed anything but a limited vocabulary, he might have also suggested that in addition to being hell, war is also absurd, chaotic, rather useless, and ultimately very humorous. This may come as a severe shock to some of my friends in ROTC who consider parading around in the rain on a Thurs­day afternoon anything but funny, but I think it is up­roariously absurd; at least it provokes some degree of civilian laughter. The insanity of seeing little boys marching around in their costumes is at best similar to watching reruns of Back to Bataan, which I would sub­mit is a hilarious film, or at worst, like viewing "Old Duke" in the Green Berets which is finally very boring, and; if we are to hold any kind of cinematic verity, con­clusively proves that the sun really does set in the South China Sea, a fac_t which no doubt startled astronomers and geologists at least as much as the recent eclipse of the sun. 
+It is too bad that war is taken seriously anywhere. It is certainly not a very serious preoccupation. It is usually waged for the most ridiculous or petty reasons, which are usually merely the figments of a society's collective paranoia, and which never can be fully ex­pressed or understood in any rational manner. Geno­cide, massacre, saturation bombing of civilians, political assassinations have removed any honor from it (if in­deed, there had ever actually been honor in warfare) . After it has ended, both sides customarily engage in a shouting match to determine which side committed the most brutalities (the losing side usually gets this award). The winner then writes all the history books, makes all the films, tells it like he thought it was, so that none can blame him for anything (after all, it's all right there in black and white). In fact, the winning side usually goes so far as to suggest that its men were: 
+a) honorable, b) patriotic, c) red-blooded, d) all of the above. 
+Well, the film Mash punctures most of these notions with a big shiny hypodermic needle. Mash refuses steadfastly to take war or death or anything seriously. The setting is a Mobile Army Surgical Hospital around the 38th Parallel in the Korean War. The Korean War? You don't remember it? This is the one where we took on all the gooks and reds for the first time, you know, Round One of the never-ending battle for truth, justice, and the American Way (not necessarily in that order). Just watch your father burst into tears at the mention of Douglas MacArthur, God bless 'im. Kill those commie bastards! Get those zipper-eyed gooks! See, it's funny already. 
+
+Yep, that's what Mash is all about, war as farce, war as theater of the absurd, war as the ultimate in Black Humor. A team of medical surgeons at a mobile base hospital (Elliot Gould, Donald Sutherland, and Tom Skerritt) hack their bloody way through literally moun­tains of streaming corpses with nothing on their minds except sex and booze and golf. The whole idea of com­bat and warfare is laughed under the table as these bizarre characters nonchalantly watch a wounded sol­dier spurt a fountain of red stuff all over.... "Hand me a sponge, will ya?" The most revolting scenes pass by with the darkest humor, broken bodies, bloody oper­ating gloves, pails lined with organs, surgeons' scissors and scalpels quivering in brain matter, splattering goo all over ... it's a laugh a minute, hacking, chopping, stitching up our boys. 
+There's a lot of time for sexual hijinks all over the camp. The nurses are regularly assaulted, and the base commander spends most of his time shacking with some silent blonde. "Care for some wine, my dear?" 
+J
+
+THE film develops without any real beginning (in niedias res). There's absolutely no combat footage (no Vic Morrow's one-handed machine-gunnjng). No gung­
+<, 
+
+ho stuff. Officers are pictured as incompetent fools, the war is totally ignored, and the audience is driven against its will to laugh along with this grotesque crew of knife jockeys. The film has been compared favorably to Joseph Heller's Catch 22, but it falls short. For one thing, there isn't any real diversity of characters. nor is there an intense notion of the absurdity of war -in­stead, much of it is simply burlesque, a mad show, the war is so peripheral that its insanity is sometimes ob­scured or forgotten. 
+Ultimately though war indeed may be hell, it is also considerably boring, and 1.vlash does drag along quite slowly in spots, especially near the ending. But it does have some splendid sequences -a unique parody of the Last Supper, a variation of the Resurrection, and the ultimate mental breakdown of the one "regular army" type in the camp. 
+The film is worth seeing just to see. the incredible treatment of an essentially overused subject, namely: The Brave American at ·war. 
+The film will be coming sometime in April to the Granada. 
+I've heard them at night, their cries and their shouts, t7un.fre eating another thm.fve torn his heart out. 
+
+
+John Stupp 
+
+
+March 13, 1970 
+--~. -~""x.,,.~ ~ 
+N -: ~ --'';
+~ ~ 
+
+Once AModel, Now ABomber! Big Joanie Weston! The Jammers, Pioneers! 
+The Bombers! Roller Derby! 
+THE Oakland Bay Bombers came on the track wear­ing orange and black uniforms. Their opponents, the Midwest Pioneers, were dressed in purple and white. The surface of the track was covered with gray and black stripes. Ann Calvello's green-and white-tinted hair stuck out from underneath her black helmet. After a few periods of play the colors merged in the motion of the skaters; the action became an indistinguishable mass of moving people. In order to follow the game properly, you had to concentrate on the players' numbers. 
+Feuds between certain players broke out early in the game and were carried on until the Derby's conclusion. The main feud at Sunday afternoon's game was between No. 58, Jerry Cattell, of the Pioneers' men; No. 58, Ann Calvello, of the Pioneers' women; and the whole Oak­land Bay Bombers' team. In the fourth period (there are eight in all) Cattell tried to pick up the Bombers' No. 35, Mike Gammon, by his jersey. Gammon retali­ated by throwing his helmet at Cattell. He missed but Cattell became incensed, and later in the same period, while Gammon lay sprawled on the tracks, Cattell jumped up into the air and came down in a sitting posi­tion on Gammon. This in turn angered No. 33, Larry Smith, of the Bombers. He started a fight with Cattell. 
+And the skaters kept moving. The two main com­ponents of Roller Derby are motion and physical con­tact. These two elements are intermixed to such an excess that soon after a Roller Derby begins it leaves the realm of sport and becomes a spectacle. Skaters moved like projectiles around the track, sending knees, elbows, hips, and helmets into each other without losing a stride. Players fell on the track, they fell off the track, and sometimes they flew into the guard rail which surrounds the track. But the motion continued; the skaters kept moving. The violence in Roller Derby is the way violence should be. When Player A knocks down Player B, it can be laughed at only if Player B gets up again. The Roller Derby skaters always got up. Players made spectacular falls, but they got up, and the skaters kept moving. No injuries, no blood, and you soon began to laugh. 
+0 N 
+paper, Roller Derby is a legitimate sport. To those who are unfamiliar with the niceties of Roller Derby, the skaters seem to move about the track,vithout purpose. There is no central object, like a puck or foot­ball, around which the game is based. There are only people and these people appear to strike each other and move about at random. Surprisingly though, the Derby is played according to a fairly complicated set of rules and regulations. Two teams of five men or women skate on the track at once; these ten players are called a pack. Each team has two jammers, two blockers. and a pivot man. According to the "Official International Roller Derby League Rules of the Game," a team scores points when one of its jammers leaves the pack, laps the pack, and reenters the pack. The number of points the jammer scores depends on how many players of the opposing team he passes upon reentry. The blockers are supposed to keep jammers of the opposing team from leaving the pack and from reentering the pack. The duties of the pivot man are less well defined. Gen­erally speaking, the pivot man does just about anything he wants. 
+The Roller Derby not only has rules, it has a history. It all began in Chicago, back in 1935. In its original form the Derby was nothing more than a marathon race, analogous to the dance marathons· which were popular during the Depression. Eventually, organiza­tion was added to the game, and it became qualified as a sport. Since its conception the Derby has known some lean years. But recently its popularity has spiraled up­ward. This recent rise in popularity is due mostly to the televised coverage of the San Francisco Bay Bombers' games. At present, 119 stations throughout the country carry the Derby broadcasts from the ·cow Palace in San Francisco. 
+THE San Francisco Bay area acts as the home base of the Roller Derby. Because of the increasing demand for Roller Derby in the Bay Area, the original San Francisco Bay Bombers have split ihto two franchises, the orginal Bombers and the Oakland Bay Bombers. For six months, May to October, the Roller Derby teams perform at six stadiums in San Francisco, five nights a week. In late January Roller Derby takes to the road. 
+For four months the forty men of the Roller Derby troupe, thirty-two of which are skaters, tour the na­tion. The tour is exhausting for everyone involved, 
+March 13, 1970 
+L 
+
+especially the skaters. Besides performing five nights a week, the skaters provide the main means of trans­portation for Roller Derby: a caravan of thirteen cars, privately owned by the team members, plus a truck for the heavy equipment. When the Bombers arrive in a city for a performance they don't have much time for sightseeing. Some of the skaters get the uniforms laundered while the rest help set up the track. After the game the team helps take down the track and re­load the equipment. If they are lucky, the game will be scheduled for the afternoon and they can get some extra time to recuperate. However, the majority of the games scheduled on the tour are held at night. 
+Besides the grueling pace of the tour, the skaters must contend with injuries. Most of the injuries the players receive are not serious enough to keep them out of action for long. But more serious incidents are a constant threat. The skaters, who reach speeds up to 40 m.p.h., wear little protective clothing. A bad fall or a twist the wrong way and bones break easily. "The contact out there is real," said Ken Monte, player-coach of the Oakland Bay Bombers. "Of course there is some color added like in any other sport." Monte joined the Roller Derby in 1945 at the age of fifteen. Since then he has sustained injuries "in the arms, legs, and ribs. Nine times in the legs and four times in the arms." One serious leg injury kept him out of Roller Derby for two years. "You can't try to avoid injuries. It just makes it worse." Irate fans also threaten the players' health. The players are most susceptible to the wrath of over­zealous fans when they walk from the track to the locker room. Yet there are no doctors included in the Roller Derby tour. "When a player gets injured we take him to the hospital or clinic in whatever town we hap­pen to be," explained Brian Turner, road manager. "We do provide them with vitamins, which we strongly urge them to take." 
+IN the seventh period of the Derby, a group of stu­dents sitting near the north end of the track, began to voice their dissatisfaction with the Pioneers' Ann Calvello. One particularly outspoken student called Cal­vello a lady of the evening. Calvello turned toward the students heatedly and said, "I'll take ya all on." Soon after this incident, the competion between Joan Weston of the Bombers and Calvello became fierce. Calvello was given a penalty by the referee for blocking after the jam had ended. As Calvello was skating off toward the penalty box Weston reached out and tried to grab her. Jerry Cattell of the Pioneers came to the aid of his teammate and knocked Weston to the ground. Ken Monte, infuriated by Cattell's manhandling of one of his players, came at Cattell, swinging wildly. Cattell and Monte were eventually separated and both were given $25 fines by the referee. Monte got into a dispute with the referee over the fine. The referee stood in si­lence for a few moments and then motioned with his arms. The announcer explained the call: "Monte has just been given another $25 fine by the referee for in­subordination!" 
+Whatever is real about Roller Derby is lost the minute the skaters reach the track. It is not that the game is rigged or that the dangers the players face are not real. Whether or not Roller Derby is authentic is beside the point. All the elements of the game interact to generate a carnival atmosphere. In this atmosphere a premise of comedy is set and it becomes impossible to take the game seriously. 
+Sunday night the skaters rested in South Bend. On Monday morning the Roller Derby troupe piled into thirteen cars and a truck and headed for Michigan. They just keep moving. 
+Marty Siravo 
+
+
+movies 
+
+GRANADA: Scream,1 and Se1·ea1n Again. Horror show spectacular. Not recommended for weak stom­achs. Not recommended for strong stomachs either. At 1:15, 3:15, 5:15, 7:15 and 9:15. 
+STATE: They Shoot Horses, Don't They? A tremendous performance by Gig Young highlights this very good film. Jane Fonda, Michael Sarrazin, and Red Buttons all deliver fairly strong performances in essentially supporting roles. Direction is by South Bend's Sidney Pollack and with this film, he has probably estab­lished himself as one of the best directors in the U.S. The attention to color and interior lighting is superb. The film is an exhaustive test of en­durance, but well worth it, by all means. At 1:30, 4:00, 6:30 and 9:00. 
+COLFAX: Jenny with an all-star cast of Alan Alda and Marlo Thomas. Most probably, Jenny is Miss Thom­as. Together they go romping across wheat fields in search of her acting ability. Odds are 10-1 they don't find it. At 1:00, 3:00, 5:00, 7:00 and 9:00. 
+AVON: Fanny Hill bares her but­tocks for the second successive week attempting to wheedle her way into the wallets of all self-respecting Notre Dame men and only 7,648 weeks behind (sic) buxom Barbara. At 6:15, 7:45 and 9:30. 
+RIVER PARK: Lion in Winter. With Katherine Hepburn and Peter O'Toole. Excellent acting is what ultimately saves what could easily become a dull historical novel. Vast­ly overrated, and certainly didn't deserve the academy awards it re­ceived (if my memory serves cor­rectly). At 6:30 and 8:50. 
+
+John Stupp 
+chicago 
+
+Never, in the history of the world, was a local calamity more remark­ably national in its character and consequences than the burning of Chicago, mysteriously attributed to an unidentified person called the Afflictor. There was hardly a com­munity in the United States that had not a direct pecuniary interest in that wonderful city which a tor­nado, armed with flame, has strick­en from the face of the earth. At­tracted by the promise of large re­
+turns to enterprises and heavy in-
+March 13, 1970 
+terest on investments, capital has been flowing in a steady stream into Chicago, from all quarters of the Union that has capital to spare, for many years. The real estate of Chi­cago was heavily mortgaged to the rest of the country, while her mag­nificent stores were crowded with goods from the Eastern cities wait­ing to be sold and to be paid for. The insurance money, which is to play so important a part in the restoration of the city, will be gathered from the whole nation. The accumulations of nearly all the companies -those accumulations which gave assurance to the rest of the country -are swept away. There was not a man in the Union worth a thousand dollars before the holocaust, who was not a hundred dollars poorer after it had done its 
+work. The whole nation grew poor in 
+a night, and even now does not real­ize what it has lost. Depreciated real estate and shrunken values of goods and stocks and bonds tell how uni­versally this loss has fallen. The sufferers upon the ground have the worst of it, we know, but we are all sufferers; and thank Heaven! we are all bound together by a common sympathy. 
+
+
+the last word 
+I wAS moving through the pay caf early last year. In search of an ice cream cone, a peppermint ice cream cone (which, for those of you unacquainted with the pay caf, is by far the best flavor). A kid I had met a couple of times was seated at one of the small oaken tables next to the counter. He stopped me and pointed across the table to his friend whose nose, flattened against the table, wiggled as he slowly shook his head. The cartilage flexed. I didn't know the kid but he had a face rolled with baby fat and I guessed that his nose­wiggling was an attempt to work the boogers out of his nasal passages. (I was reminded of the kid in our fourth grade who used to eat his boogers. But I didn't mention my memories at that point.) 
+Soon, I discovered that the kid with the nose was not performing the purgative process that I suspected of him but that he was in dismay, genuine dismay. "He got picked up on a sky-divin' charge; his name's Sky Krill; he's my roommate-and he got picked up for sky divin'." Mitchell sighed with a twisted giggle. Krill's head, a fat head, sprung momentarily from the oak­he grimaced in terror. I was off balance. 
+The trial was that night: at Sorin Hall, in a back corner of the first floor. I came late and Bill Luking, who had served as the counsel for the defense, was standing outside the courtroom when I arrived. Luking brushed aside a couple of photographers and explained to me: "He's been charged with sky-divin', with jump­ing from the second floor of Sorin into the laundry bags 
+assembled below. We pleaded extraordinary circum­
+stances. ~ .." Krill ~e out of the room. On his feet, he wore white socks; two things, a pair of boxer shorts printed with red hearts and a red robe with a SKY KRILL sign on the back, covered his trunk and torsal area; a lacrosse helmet hugged his head tightly. Sky Krill had been found guilty. 
+JDIDN'T see Krill or his roommate Mitchell for a couple of weeks until I stumbled across them in the basement of the library. Mitchell was eager: "Did you hear about Hollerich?" Of course, I hadn't, and I didn't care so I looked at Krill, still curious as to what made him tick (perhaps I mean jump). But Mitchell did all the talk­ing: "Yeah, we were in the room studying and got bored so I gave Hollerich, the kid who lives with the vegetables down the hall a call. 'Listen, Mike, I left a notebook with some telephone numbers that I need in my locker. Could you go down to my room and get it?' Hollerich agreed so Sky took off all his clothes and stood on his head in my locker. I closed the locker and hid. Hollerich came whistlin' down the corridor, opened the locker, hesitated, turned around, returned to his room in silence and hasn't been heard from since." 
+This year, I roomed with Krill and Mitchell, among others. Since then, Krill has begun to work with the spoken word as a vehicle of performance. Especially insightful is his analysis of zee. According to Krill, most sleep can be compartmentalized under one of three headings: nightzee, dayzee, or droolzee. The second and third categories, and sometimes the first and third, often overlap. The first two concepts are relatively self­explanatory; the third, droolzee, can best be described by example. Droolzee is what you get when you go to the library to read, but instead fall asleep and wake up with a generous amount of spittle on your book or your shirt. 
+JlJST the other day, Sky, who plays baseball, got a letter from his Dad, who wants him to play baseball. Sky read me the last sentence of the letter: "Remember what the great Frank Merriwell of Yale said, 'We'll have no toadies in our digs.' " 
+Think about it. 
+-Rich Moran 
+
+The Biafra Relief Fund is still in desperate need of money. Send your contributions to: 
+Students for Biafran Relief National Headquarters P.O. Box 516 University of Notre Dame Notre Dame, Indiana 46556 
+
+Anyone interested in zvorking for the organization can contact Tom Hamilton at 7668. Clerical help is needed. 
+-
+
+The South Bend Bail Project will sponsor an art sale at the Unitarian Church on Howard and Michigan Streets from 5 :00 
+p.m. to 7:30 p.m. on Friday, March 20. An auction will follow immediately after the sale. Most of the art that will be for sale is the work of students at area col­leges and universities. The profits from the sale will be used to provide bail money for alleged draft violators. 
+
+
+
+
+
+
+JUGGLER 
+Second issue available at Bookstore or from your hall representatives. With Karen Markle, Steve Brion, 
+M. P. O'Connor, Vince Sherry & others. 
+--------------------------r 
+Subscription: 3 issues only $2.00 mailed off campus and out of town. Delivered on campus. Copies of the first issue will be included-subject to ·limited supply. 
+Make check payable to: 
+Juggler Box 583 · Notre Da~e, Ind. 
+
+Name ____________________________________.___ ..___ .._______._______..___ ._____.......... . 
+Ad dress ..___ .________.._____..__ ..___ .......__ ....___ ....___ ............___ .......---.. 
+
+~-------------------------~ 
+NEW! for spring fro111 
+
+GANT 
+SHORT SLEEVES IN DEEPTONE 
+:-..:ot to be confused with just ordinary shirts ... these arc ~cnuinc Gant ... and everv uni\·ersitv man knows what that means: top style. perfect fit and long wear. These new creations are in a durable press fabric. and are available in the popular new deep. deep. deeptonc colors. 
+$10 
+
+BUY NO\\' ... P.\Y NEXT SU~lMER \VHEN IT·s 1tfOR.E CONVENIENT 
+Pay one-third in ]unc/mzc-thiul in ]ul,y/onc-third in August 
+we nc\·cr acid a sc1Yice or carrying charge 
+
+OPE~ ).,fONDA Y THROCGH SATUR.DAY 9 TILL 6 
+~ 
+~-~~ 
+ILBER • ......___amp~~ho
+~ 
+ON THE CAMPUS ... NOTRE DAME 
+
+
+VOL. Ill, No. 17 Special supplement to the Scholastic FRIDAY, MARCH 13, 1970 
+
+
+CPA demonstrates against lpana 
+A large and dramatic demon­
+stration by the Coalition for 
+Political Action against Ipana 
+ended yesterday without the 
+promised violence and gnashing 
+of teeth. 
+CPA officials said they had 
+planned a large bonfire over 
+which they would shishkabob 
+Bucky Beaver, using fresh red 
+tomatos and choice Bermuda 
+onions. "We were going to bring 
+Bucky to a medium broil, baste 
+and serve him piping hot on a 
+bed of saffron rice," officals said 
+Friday. "It's the only way you 
+can do those things." 
+The demonstration was in 
+protest of alleged attrocities 
+51.C 
+patrols border 
+Yesterday's weekly meeting of the Student Life Council saw Professor Bernard Snor ling issue a "call to magnanimity" from the S.L.C. body as a whole. 
+Snorling, former chairman of the ad hoc committee for inves­tigating the dining halls, expres­se_d his personal dissatificat~on w1th the body'"S "pn:OC~upation with trivialities such as co­
+education, parietal hours, academic reform and lumpy mashed potatoes." 
+The second-yea~ fac~lty dele­
+gate to the coun~il P?mted the 
+way for a ne~ direction of the 
+S.L.C., and laid down an initial proposal for the magnanimous type of dabbling that he foresaw as the SLC's new frontier. In lieu of next Monday's weekly meet­ing he proposed that the body make its perceptively insightful expertise available to the stymied United Nations to alleviate all Arab-Israeli conflict of both opinion and arms. 
+The proposal was unanimous­ly adopted by the usually stale­mated tripartate council 
+Assuming that the situation could easily be resolved by ap­plying themselvies in a three-day study of the problem, the group drew up plans for an extended weekend field trip to the Gaza Strip. 
+
+
+Hesburgh 
+Notre Dame's President Father Theodore Hesburgh was ncli-ned today to replace retiring Attorney General John Mitchell. 
+Presidential Press Secretary Ron Ziegler, in announcing the appointment indicated that Hesburgh was selected for his ability to relate to student pro­testers. "His long and distin­guished record in dealing with campus disruptions was a prime consideration," 
+Hesburgh is the first member of a religious order to be nominated to a cabinet post, 
+perpetuated by the toothpaste shot, a more humane treatment concern among the Ona Indians and more in accord with SPCA of Tierra Del Fuega. guidelines set down in the 
+"These monsters are testing Laramie Rodeo Conventions of flourides on these people, build­1937. ing up their teeth, making the When the confrontation 
+enamel so tough that mastic­between the two factions failed ation of their mush meal diet is to materialize, one anonymous just another absurd example of administrator commented, "I overskill. That junk they eat is think the thing came off in real so squishy they should only have good humor. It was real funny. I to gum it. This thing is upsetting laughed pretty hard. And that their whole way of life, making stupid beaver, that was the best them yearn for meat and stuff," of all." explained an outside agitator 
+The CPA did not bake and from Colgate. 
+skewer Bucky wh~n a ZippoNearly 473 demonstrators lighter failed to ignite. Theywearing Haitian devil masks and then passed out flyers giving an chanting in unison "Brusha, explanation of the aborted Brusha, Brusha," met at the foot demonstration based on the 
+of the senior . stairs of the teachings of Peter the Hermit Administration building which 
+and Zelmo Beatty. they entered en masse, painting "We were pleased with the
+large white teeth on the polish this thing had, we reached
+Columbus portraits as they an emotional crest and lpana got 
+marched to the Placement Bureau. a taste of her own medicine," said one CPA member.
+
+The peaceful atmosphere of the gathering was threatened by Following the activities, a number of students, many of Bucky was donated to the One of a handful of CPA campus insurgents prepares to hurl them wearing their old high college of engineering who, it specially-prepared Molotov cocktail through University vice presi­
+was thought, could most profit dent Rev. Edwin Choice's window where it is believed the
+school letter sweaters, who 
+
+
+from his talents. University's supply of Ipana toothpaste and Bucky Beaver posters
+demanded that the beaver be 
+
+
+are hoarded. 
+-r I f d • 
+'-­
+
+I u e s O u n 1n Golden Dome heist 
+The Search for the well-campus security officer who "But I figured anything that break stuff we should just leave known Golden Dome, the gold-ticketed it for being in the gaudy had to belong to a stu­it broken." If Wheeler's sugges­colored Dome formerly at the faculty lot without a sticker. dent, and we try not to give the tion is followed, the Administra­top of the Administration Build-"I was going to get it for kids more than one fifty-dollar tion building will join corner­ing, continues. The structure was parking over the yellow lines, ticket at a time." stone-less Flanner and Grace last seen Thursday morning by a too," said the officer involved. The University Arts Council, a Halls, the Roofless business 
+prime suspect, denies stridently administration building and that it had anything to do with comfortless Stephan Center on the removal of the Dome. In a the list of buildings to be left letter which appeared in Yes­damaged to punish students. terday's Absurder, UAC head Security Director Art Pearless Tom Ronk said, '"We didn't take when questioned, said, "The it. Art belongs to the people, but search would be easier if they'd that's not Art." The Council had cut the grass on the main quad. previously been accused of melt­We have a hunch that they might ing down the dome to sell for have the Dome hidden out there the purpose of moving the Notre somewhere." The grass on the Dame Fieldhouse1 and The main quad has been left uncut University Arts Council to New for the past several months to York, "to help the cultural cli­punish students who walk across mate of the Fieldhouse." it. Pearless continued ..."You 
+
+
+
+This was and still is the scene at the University's Golden put a roof on a building and
+Director of University Hous­
+
+Dome-less Administration building following the theft of the world that's the chance you take." 
+ing Edgar Wheeler said of the
+
+famous symbol of Our Lady. Several University employees have quit 
+Meanwhile the search for theincictent, "I say that if those
+
+
+because "snow keeps falling on our desks." 
+damn thrill seeking kids want to ( continued on page 6) 
+
+Garner discovers Truth
+
+
+-attorney general 
+a community of scholars seeking 
+
+A long and successful aca­truth. Now that dam loud­
+demic career was brought to anbut Ziegler indicated the nomi­ingress or egress from executive mouthed Gamer has gone andabrupt conclusion yesterday as
+nation was not expected to have offices. "In accordance with spoiled it all for the rest of us."
+A.E. Gamer announced his dis­
+too much trouble. "We imagine these new regulations," Ziegler "We bear Gamer no grudge."
+covery of Truth.
+that liberal nit-pickers and other announced, "I must indicate you Plinkett concluded, "and we
+"We regret that we cannotIi.ave 15 minutes to disperse."
+un-patriotic elements will wish him luck with whatever he 
+permit Professor Garner to con­Hesburgh, contacted in New
+attempt to fabricate charges plans to do with· the truth. All
+tinue in his position on thisCalendonia where he is doing
+against him as they did with we can say is that there is no
+campus" was the official reac­research for the. Civil Rights
+Judge Carswell; however, the place for him here anymore. Our 
+tion from the College of Artsforces of reason, we are con­Commission, told an Absurder hands are tied."
+and Letters in response tofident, will prevail." reporter that he did not feel the Garner admits that theGamer's claim at a packed pressnew assignment would signifi­
+Ziegler said it was necessary reaction was "to be expected
+conference yesterday afternoon.
+cantly detract from his ability to
+
+to cut the news briefing short and completely understandable"
+Dean Plinkett explained thatmanage the University. "I should
+because of new White House but as yet has no plans for the
+Gamer's actions were clearlybe able to return to campus for
+security regulations which pro­future. "I thought I might look 
+contrary to the spirit andfour or five weeks each
+hibited large gatherings of peo­for a good used mountain-top
+purpose of the University. "The ple which could tend to impede ( continued on page 7) University as we understand it is somewhere but I'm not sure." 
+
+
+
+THE ABSlJRDER.
+PAGE2 
+
+
+
+
+
+THE ABSDRDER 
+A Dependent Student Newspaper 
+RICARDO DE MORANDO, Editor-in-Chief 
+FOUNDED NOVEMBER 3, 1966 NOTRE DAME, INDIANA 
+Heist indicative 
+We feel the time has come to stand up and appeal to the honor, 
+the justice and the awareness of the Notre Dame student. Usually 
+reliable sources last week informed an Absurder reporter that the 
+Golden Dome was stolen three weeks ago. To put it bluntly, we are 
+upset at this occurence. We feel this is just the sort of thing that 
+ought not happen on a campus committed to Christian values and 
+determined to guard the moral neutrality so elementary, so charac­
+teristic of all the great universities. To steal the golden dome is not 
+simply to steal the golden dome. 
+We feel something ought to be done. We applaud the investiga­
+tion conducted so capably by security officers. We hope the constant 
+critics of security will take note that it was a security officer who 
+discovered the golden dome in the faculty lot. We wish the CPA and 
+other campus groups so critical about things like the war against the 
+Viet Cong, and complicity and things like that would stand up and 
+speak out about this atrocity. 
+We sincerely ask the person who stole the golden dome to say he 
+stole it, to say, quite simply, that it was he who stole the golden 
+dome. We ask this without fear of reprisal, with the conviction that 
+the majority of the student body of this university shares our 
+conviction that something ought to be done. 
+We are dismayed by the flippant attitude assumed by the suspect University Arts Council in this matter. We think art and pictures and 
+poetry is all right if you like that sort of stuff. We think also that the 
+fieldhouse will never quite be the same. We think the time has come 
+for a re-adjustment of university priorities, in other words. 
+Quite frankly, we wonder where this university is headed when its 
+own golden dome is conspired against, plotted against. The time has 
+come for something to be done. We feel this entire matter demands 
+additional study and consideration. Tomorrow is too soon, but then 
+again maybe today is already too late. 
+
+Speed kills 
+We simply cannot believe that running Zanesville, Ohio's only 
+hydraulic grain elevator would be in any way an evil or an 
+unproductive life. There would be money coming in, though one 
+would probably have to arise at such an hour so as to preclude any 
+regular dependence on Johnny Carson for aesthetic excitement. But 
+there would always be Clint Eastwood at the Bijou and the live 
+monkey on the West wall at Kresge's. 
+Of course this sort of life demands a special preparation which the 
+University has totally disregarded, which they have in committee 
+deemed irrelevant. In short, the University must at all times prepare 
+for the many ambiguities of the future, it must sculpt the whole man 
+and sculpt him with the possibility of Zanesville ever in sight, with 
+the guiding image of Thief River Falls firmly implanted in the 
+convolutions of the old institutional cerebellum. 
+In short the university must channel its resources into a major 
+change of attitude and policy; it must meet the challenge; it must 
+prepare its matriculants for boredom. 
+Boredom is not evil, in fact it is quite good for the adrenals. 
+Nebraska, not New York or California, has the longest life 
+expectancy and the latest study data from the AMA indicates that 
+cerebromalfeasensis (brain rot) is the slowest and most pleasant 
+mode of death. This malady is Middle America's number one killer 
+and it has our vote too. 
+The University simply must consider the needs of the majority of 
+students. Time spent in class is a gross deterrent to the development 
+of mechanisms for handling empty time. The University must either 
+demand fewer classes, less than shortened periods, or at the very least 
+a number offold-away cots in the rear of every classroom. Books not 
+specifically required for courses should be sold at British price levels 
+and television purchases should be subsidized. 
+There are innumerable solutions to this grave and as yet 
+unrecognized problem. What is the young man to do when he is 
+weaned from the droning stimulation of ND? Is he to be tossed into 
+a grizzly world to begin the quest for the universal soporific without 
+the benefit of so much as an introductory course? We must not let 
+this happen. Speed kills. Malaise is the answer. Zanesville needs you. 
+FRIDAY, MARCH 13, 1970 
+,.., ...,.,10 .. 
+271l'c.al"2­
+._ME&,i.CIF 
+k«Er6f0Ni\&1.e 
+~LlSM 
+
+
+Letters to the editor 
+Behind the back drivel 
+Editor: 
+
+I am an alumnus of Notre Dame. You may imagine my dismay, then, when a good friend recently sent me the Scholastic magazine's so-called "parody" of The Observer, titled (sophomorically, I might add), 
+The Absurder. In making a mock­ery of the serious journalistic endeavors of the wholesome and straightforward staff of The Observer, the effeminate long­hairs of The Scholastic have revealed themselves as the gutter-minded, leftist-oriented, loco-weed-smoking faggots they are. Well, I say, thank God for Father Ted, the grotto, and The Observer. Gentlemen, when tho foolish drivel of The Scholastic has been long forgotten, the banner of The Obsen1er, like the flag of the country it represents, will wave. 
+Disgusted with eggheads, Steamboat John T. ("Steamboat") 
+
+Campbell 
+Likes Krogan 
+Editor: 
+
+This article that I read just the other day in your paper is just about the fast straw! I mean I don't know about the rest of you guys around here, but I for one just couldn't listen to the crap that nincompoop music reviewer was passing out sitting down, and I'm going to stand up and be counted. And what I'm going to be counted for is with the people who can really under­stand the beat and remember the days when music was music. 
+Abraham and the Four Skins 
+knew what was up, and they weren't afraid to play it like it is, so to speak; but that idiotic moron who criticized them for 
+being '1ejune and remarkably 
+unsophisticated" ( which is just what he said about them) ob­viously doesn't know the dif­ference between the alligator and a barracuda, if you know what I mean. 
+When they came out and swung right into "Gloria," and then they moved on to "Money" 
+and "Louie, Louie" you knew 
+you were in for some of that 
+rack-it-to-'em sock-it-to-'em stuff that makes for a great concert. We were just reading the other day in our philosophy class (and the other guys who were there will know what I'm 
+talking about) about how the Greeks thought there were dif­ferent modes of music, for ex­ample the Pythian to name only one, that went with different moods that men have. And they were right. This band last week played the sort of music that stands up and says hello; I mean it had TODAY written all over it, in every sense of the word. First you could feel your foot 
+
+tapping,  and  then  your  head  
+nodding  to  the  drummer's  
+tempo  and  pretty  soon  the  
+
+whole place was just vibrating to 
+that group. All except the jerk who writes for you, and he was probably either doing it too and not telling anyone about it, or else trying not to by holding on to his chair and stuff. Anyway I hope this letter stirs up some people over there and maybe starts a shakedown beginning with that jackass. 
+Tune in, liuh? 
+Nick McSchlick 
+617 Farley 
+Copied, right? 
+Editor: 
+
+It has come to my attention that the design of the word Absurder on your masthead bears a particularly striking resemblance to the masthead of the weekly publication the "National ObseIVer". I feel it my duty to inform you that the National ObseIVer originated this design in 1962 and that you are acting in direct violation of Copyright Order 067457. Our lawyers are now preparing the legal brief on this case. See you in court. 
+Seymore Putz 
+Editor 
+National ObseIVer 
+White Oak, Maryland 
+Take that Trainor 
+Editor: 
+
+I am ready and eager to accept Mr. Trainor's challenge to publicly debate the great issues on which we disagree. Further, I realize that some type of nego­tiations are needed to determine the ground rules for this debate. In the words of .a great Ameri­can, I will go anywhere at any­time to pursue meaningful nego­tiations. Sincerely, Ed Rockeli 
+FRIDAY. MARCH 13, 1970 
+THE ABSURDER. 
+
+
+
+Happy Tails to yo.u ... 
+In a surprise display of naked horse and women were reporte'd idealism Thursday afternoon, bare-back. A spokeswoman for members of the Saint Mary's the demonstration described it Chapter of the Woman's Libera-as a protest against "insane har­tion Movement paraded down nessing of both horses and the main quad leading a white women." The protestors carried horse to the tune of "No More placards stating "Up against the Hom; on The Range." Both wall, Roy Rogers" and reported­
+ly chanted "Down with bras and 
+saddles." To demonstrate their 
+ability to keep abreast of men in 
+
+all areas of endeavor, the trio of 
+fleshy females performed several 
+fancy-riding techniques while 
+simultaneously rolling cigar­ettes, burning girdles, and roping unsuspectjng male bystanders. 
+Elsewhere in and around cam­pus, the demonstration was the subject of intense controversy. The South Bend contingent of the ASPCA released a statement which characterized the march as a "brutal mishandling of an innocent horse for the lewd and unnatural goals of a band of feminine misfits." A Notre Dame freshman, however, stated that the demonstration was "a fine show of horse-flesh." Cam­pus gamblers were impressed that the girls "put everything they had on a horse." 
+The most intense reaction to the march was demonstrated by a group of Notre Dame men who call themselves "Adam's Aveng­ers!" The group plans a counter­demonstration to be held on the Saint Mary's campus this Mon­day, when, clad in the tradition­al garb 9f the first man, they will try to make the Woman's Libera­tionists turn over a new leaf. 
+
+
+"We plan to shoot the moon in 
+Finally, to demonstrate male this demonstration," said a male 
+superiority once more, we'll spokesman. "First we'll burn an 
+hold the First Annual Inter­effigy of Lady Godiva. Then, Galactic Male vs. Female Nude we'll hand out free copies of Dr. Arm-Wrestling Championship, in Spock's latest book, Keep 'em· which we hope to conceivabl} Pregnant and in the Kitchen. pierce the myth surrounding 
+Woman's Equality. 
+...unti I we meet again 
+
+North SK
+Go fish•• 
+H 10,5 
+
+
+
+~ ye!~,;;;~~;;~~.;;::~
+
+DK,3 West East
+C A,7 SA S6 H7 HQ,4 D6 DA,J, 5
+South CQ,J,5,3 SJ C2 H Q,J, 5 D 6, 4, 2 
+C-­
+
+Perhaps the single maneuver in the game of Fish requiring the most skill, intellectual acumen ai!d sheer nerve is what is commonly referred to as the Blackguard convention or the Humphrey Bogart double-cross. In theory the tech­
+nique is deceptively simple. North opens play by asking East for "kings." Of course, East has no kings and North must suffer the cruelest of the game's innum­t:rable misfortunes: "go fish." North draws the three of hearts. East now asks South for aces and like North is forced to trust fortune for advantage. 
+Lady Luck smiles benignly and East draws the king of hearts. Play proceeds routinely around the table until it is again East's turn to declare. East is now in a position where even the best of tourna­ment players have been known to pale. East can call on North for "kings" with no fear of having to return to the Carybdian pot. But in doing so he incurs on North such serious injury that the chances for his recovery are slight. It has only been recently that the International rules committee has given a reluctant qualified approval for the Blackguard manuveur. Since the change three stab­bings, one garotting and a host of suicides have been attributed to its deleterious psychological effects. The American medical service has warned that excessive use may be hazardous to your health--but then isn't everything? 
+Seniors trip to Canada 
+Senior class president Jack Crawdad announced yesterday that the senior class would sponsor an unprecedented second senior trip this year. According to Crawdad, plans now call for buses to depart from the circle immediately after graduation exercises June 8 for transportation to Chicago where students will catch a non-stop flight to Canada. "Preliminary response has been nothing short of overwhelming," comments Crawdad. "It seems that for once we have finally hit on a trip idea that interests a large number of seniors." 
+Some difficulties seem to be arising, 
+
+however. Although over 400 students 
+expressed interest in the excursion, a surprising number insisted that they would not be returning immediately to the United States with their fellow seniors. Crawdad feels that his government can overcome this obstacle easily. "If that is the way everyone wants it then it's fine with me." Preliminary plans are already being made to re-locat(? the senior bar somewhere near McGill University in Toronto where large numbers of prospective Notre Dame graduates have already applied for graduate school admission. 
+the world is scheduled to end sometime early tomorrow morning. 
+When asked to state whether this abrupt tum of events would interfere with tomorrow's class schedules, Fr. Edmund P. Joyce, Executive Vice President said that "University business will go on as usual. However, those students wishing to participate in this cosmic moratorium will not be held responsible for cutting-classes." 
+Saigon, UPI, Peace came to Vietnam. Spiro Agnew offered the only official comments, saying "These little clowns simply got caught up in this effeminate anti-war fad, I'm sure that a strong educative program and a little political intrigue will bring a return of the war in a matter of months." 
+Dunne searching 
+Berkeley, AP, Fr. John Dunne set out today upon his search for God in time and memory. He will follow the same route as the ancient Druids, in a squirrel skin raft. 
+
+II you can pass this simple test you can learn to write epoch ma"lng poetry 
+If you've ever looked at a book of poetry and thought "I wish I could write poetry," then you can by the simple : 
+PROVEN 
+Michael Patrick Off-Campus 
+
+Easy Poetry Writing Course 
+If you can write these six simple parts of speech: 
+noun, verb, adjective, adverb, article and preposition, you can learn to write artistically satisfying, mind expanding poetry as quick as you can say "Hail to thee blythe spirit, Willard thou never Wert." 
+Just complete this line of ,reat American verse: 
+"It takes a heap of living to make a house a---" and mail it with your name and address and a check or money order for your whole life to Michael Patrick Off Campus School of Easy Poetry Writing. c/o the Juggler. ND, Ind., 46556 
+FRIDAY, MARCH 13. 1970
+
+THE ABSURDER
+PAGE 4 
+
+
+
+Jim 8rurphy 
+Bohemian comeback 
+Kino of Prussia-----Benny "Sack'em Up" Freebish has become the 
+0 . 
+first native of this small, some would say homey, Pennsylvama town to win the National Three-legged Sack Races which are held here every year about this time, in between the Goiter Thumping Championships and the Anuual Apple Dunk (In a vat of boiling water -won last year by a leper). Yessss -sirreee Pennsylvania looks nice this time of year, and it sure must look nice to Benny Freebish. Benny's the first native of King of Prussia to ever win the annual Sack Race, and the first native ever to win anything (although Florence "Flo" Glascow won the much coveted ladies division troohv in the 1936 Water Walk -a feat still talked about 
+down at Ben "Bohunk" Slaskovich's when the real old timers 0 oet together.) Long ago, Benny lay in a Chagrin Falls hospital bed after being run over by a mail train (he lost and never found the right hand; the feeling in his left hand exited for nearly a week); some thought it was the end of the line for the personable kid. "I did too. Jim ... ya know, that right hand is really important for holding up the sack during the race." The doctor said, "Let's put it this way, the kid'll never be able to tum the old doublenut pistaccio at the soda fountain, but ... " But Benny was a game kid, and the sports world would find out later, much later in fact. He got out of the hospital in '56, still without the feeling in most of his left hand. "It was almost like learning to walk all over again." But walk he did, though ackwardly at best. He was alone in the world, unable to do the thing he really loved (next to turning double-pistaccio's and "necking" with his wife "Ewka" Freebishf Yep, no one would have given Benny Freebish a dime in 1956, and now look at him. He got a job in Hoboken testing clothes lines soon after, and \:'or~:d the job for 10 yea~s, ten grueling years in the "gutty" kid's life. Yeah, they used to pm me up on the line and run it off a cliff then snap it ·:·· it was rough, if the height didn't kill ya, then bein~ s~ashed to bits on ~he rocks would ... and me with no feelin' in my nght hand, yeah ... 1t was rough." Yep, those were the rough years for Benny Freebish, years when he thought he'd never walk aoain. "Christ, it was a strain just to watch TV ya know ... and open ; can a'_ beer at the same time ... all dat foam all over my pants, and me w1d not f eelin in my left hand, hell it was rough, I'm tellin ya, ... it was rough." Yes sir, those were tl1e lean years for Benny Freebish and now look at him. But he practiced on the side, off and on, on and o(f for those IO heart-rendmg years, building up the endurance of his hands in a wheel chair. "My wife used ta push for ten miles up Snarf Mountain, then let me go down the other side ... god, it felt like one of those commie freaks, trippin if ya know what I mean." He did push-ups one-handed for hours every night before going to bed. "Well, Ewka used to come over and kick me in the teeth when she wanted the light out, but I used to keep on it in the dark, sometimes all night. 
+Ya know, does sunrises are some fun, yeah .. .l usta dream of bein' the champ." But those were the tough years for Benny Freebish, ya know, n~ one would have given him a nfckei in tliose days, and 'nov., 
+look at him. Finally, in 1966 he got his big break in the Winternationals in Brisbane, Australia. "Yeah, some guy was up against me in the finals, you know, the Three-Legged Sack Finals, I looked over at him, you know...ta see what he was runnin', and Christ...He's got three legs! I couldn't believe my ears .. .l thought I was done for, ya know, still feelin a little queasy in tl1e hand.... the light turned green, he got a little outa line comin' outa the hole, I could see him swerve .. .! kept on goin, what a holeshot, huh? Kept on going, Benny Freebish kept on going, and now look at him. Who would have thouo 1t.. .. 
+
+
+Applications are being accepted 
+Everyone has resigned from everything this year leaving only me and I'm getting damned sick of it. Send in your name and address (forget the qualifications, I don't care) and you will be informed almost immediately of all the neat jobs you have received. 
+Last date for application: March 17 
+After that there's going to be a draft of people to be editors and commissioners and stuff like that. 
+poor ol' Phil LaFortune Student Center 
+
+
+Cosmonopoly 
+Hilton-Cradley, the well­known manufacturer of games and toys, announced today the invention of a new game aimed at the college audience. The game is called Cosmonopoly and is very similar to the company's popular Monopoly game with one exception. 
+"The object of Cosmonopoly is to take over the entire uni­verse while rendering your opponents spiritually bankrupt." a company spokesman explain­ed. "The players move their markers around a board com­posed of various Platonic ideals and philosophical concepts. They can buy them with meta­physical dollars (grace, as it were) and when they have, for instance Truth, Beauty, Wisdom and Understanding, they can buy Hypotheses and Conclusions , tram the Banker (or First Ca.use as we call him) and put them on the board and raise the rents on the spiritual property." 
+The company has had one small difficulty already in get­ting the game on the market. "The Catholic Church claims they will censure us from every altar and pulpit in the world if Religion can be mortgaged.'' The company felt that this conces­sion could not be made, but on the other hand Religion could not be left off the game board entirely so a compromise move was made. "We dropped Buddhism and Judaism from the utilities squares on the board, replaced the Sartre marker piece with a Thomas Aquinas and put in a special row of squares with the gifts ot the holy spirit. Admittedly it will be hard for any player to get all seven of the little buggers at one time so he can start putting some theses on them, but that's the price you have to pay when organized religion starts messing with the board game business." 
+In addition to the new Thomas Aquinas marker piece, the game includes pieces in the shape of many famous philoso­phers and theologians. Several of the pieces have handicaps attach­ed to them. The William James piece, for instance, can't buy anything it can't see; the Paul VI piece cannot be used when any women are playing the game; the Mortimer Adler piece doesn't move any place at all. 
+Depending on what marker the player has, he starts at either the Being or the Essence square and every time he passes it there­after he collects two hundred more metaphysical dollars. "The player . has to be careful." the company representative con­tinued, "to avoid the Meta­physical void. If he is sent there either by rolling doubles more than twice or by picking up a Go to the metaphysical void -Go directly to the metaphysical void -Do not pass being or essence card. He has to roll doubles again or give away everything in a supreme act of catharsis to get out! As . in regular Monopoly, there is a free meditation part of the square for players who are only passing through. 
+According to the company official the greatest di-fficulty in 
+
+designing the game was what to 
+·c10 with the railroads. "We threw 
+in Hawthorne's Celestial Rail­
+road, of course," he said, "and 
+we figured we could use 
+Shellev's West Wind while we 
+were ;t it, but we just couldn't 
+fioure how much rent would be 
+o;ed on the West Wind." 
+Cosmonopoly joins the com­
+pany's line of fine games already 
+on the market.. Among them is 
+the ever popular Celestial 
+Chinese Checkers which players 
+le a p -of-faith their marbles 
+from one side of the board to 
+the other. Another is the adult 
+game "Omega Day" is which 
+players take the sides of idealism 
+and realism and fight out 
+authentic battles on a realistic 
+map of the actual metaphysical 
+battleground on which the last 
+century's philosophical fights 
+were fought. Perhaps the com­
+pany's all time favorite is the 
+exciting, anti-Semite, detective 
+game, Jew, in which the players 
+on a board representing Jerusa­
+lem try to discover which of the 
+six marker pieces actually killed 
+Christ. 
+Erratum 
+The Absurder erred in report­ing last March that Phil McKenna was elected Student Body President. We hope we have caused no one any in­convenience. 
+
+Would You Buy a Lid 
+
+
+from This Man? 
+You all know that as important as the kind of stuff you get is the kind of man with which you deal. We've been in tl1e business for over 50 years now (longer than any other pusher). If you are turned off by the back alley connections, and disreputable associations try us. For the urbane sophisticated approach keyed to the new-thinking college student, 
+Federal Bureau of Narcotics Your local agent's number is in the telephone book. Special discounts for second and third offenders. 
+
+
+
